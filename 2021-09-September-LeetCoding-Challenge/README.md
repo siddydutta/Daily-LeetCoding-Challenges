@@ -11,7 +11,7 @@
 | September 5 | []() | | |
 | September 6 | [1629. Slowest Key](https://leetcode.com/problems/slowest-key/) | Easy | Solved |
 | September 7 | []() | | |
-| September 8 | []() | | |
+| September 8 | [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/) | Medium | Solved |
 | September 9 | []() | | |
 | September 10 | []() | | |
 | September 11 | []() | | |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 2 | 1 | 1 |
+| Medium | 3 | 2 | 1 |
 | Hard   | 2 | 0 | 2 |
