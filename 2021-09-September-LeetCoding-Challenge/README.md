@@ -14,7 +14,7 @@
 | September 8 | [848. Shifting Letters](https://leetcode.com/problems/shifting-letters/) | Medium | Solved |
 | September 9 | [764. Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/) | Medium | Solved |
 | September 10 | []() | | |
-| September 11 | []() | | |
+| September 11 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | Solved |
 | September 12 | []() | | |
 | September 13 | []() | | |
 | September 14 | []() | | |
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
 | Medium | 4 | 3 | 1 |
-| Hard   | 2 | 0 | 2 |
+| Hard   | 3 | 1 | 2 |
