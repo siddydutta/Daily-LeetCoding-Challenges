@@ -17,7 +17,7 @@
 | September 11 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | Solved |
 | September 12 | [882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) | Hard | Unsolved |
 | September 13 | [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | Solved |
-| September 14 | []() | | |
+| September 14 | [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | Easy | Solved |
 | September 15 | []() | | |
 | September 16 | []() | | |
 | September 17 | []() | | |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 2 | 2 | 0 |
+| Easy   | 3 | 3 | 0 |
 | Medium | 4 | 3 | 1 |
 | Hard   | 4 | 1 | 3 |
