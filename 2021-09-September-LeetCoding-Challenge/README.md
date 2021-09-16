@@ -18,7 +18,7 @@
 | September 12 | [882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) | Hard | Unsolved |
 | September 13 | [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | Solved |
 | September 14 | [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | Easy | Solved |
-| September 15 | []() | | |
+| September 15 | [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | Medium | Solved |
 | September 16 | []() | | |
 | September 17 | []() | | |
 | September 18 | []() | | |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 4 | 3 | 1 |
+| Medium | 5 | 4 | 1 |
 | Hard   | 4 | 1 | 3 |
