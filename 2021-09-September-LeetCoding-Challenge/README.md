@@ -19,7 +19,7 @@
 | September 13 | [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | Solved |
 | September 14 | [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | Easy | Solved |
 | September 15 | [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | Medium | Solved |
-| September 16 | []() | | |
+| September 16 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | Solved |
 | September 17 | []() | | |
 | September 18 | []() | | |
 | September 19 | []() | | |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 5 | 4 | 1 |
+| Medium | 6 | 5 | 1 |
 | Hard   | 4 | 1 | 3 |
