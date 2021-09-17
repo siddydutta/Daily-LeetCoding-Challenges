@@ -20,7 +20,7 @@
 | September 14 | [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | Easy | Solved |
 | September 15 | [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | Medium | Solved |
 | September 16 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | Solved |
-| September 17 | []() | | |
+| September 17 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | Solved |
 | September 18 | []() | | |
 | September 19 | []() | | |
 | September 20 | []() | | |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 3 | 3 | 0 |
+| Easy   | 4 | 4 | 0 |
 | Medium | 6 | 5 | 1 |
 | Hard   | 4 | 1 | 3 |
