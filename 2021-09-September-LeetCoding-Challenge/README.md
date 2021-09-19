@@ -21,7 +21,7 @@
 | September 15 | [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | Medium | Solved |
 | September 16 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | Solved |
 | September 17 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | Solved |
-| September 18 | []() | | |
+| September 18 | [282. Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | Hard | Unsolved |
 | September 19 | []() | | |
 | September 20 | []() | | |
 | September 21 | []() | | |
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
 | Medium | 6 | 5 | 1 |
-| Hard   | 4 | 1 | 3 |
+| Hard   | 5 | 2 | 3 |
