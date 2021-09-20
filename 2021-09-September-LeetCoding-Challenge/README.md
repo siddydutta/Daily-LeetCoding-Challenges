@@ -23,7 +23,7 @@
 | September 17 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | Solved |
 | September 18 | [282. Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | Hard | Solved |
 | September 19 | [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | Hard | Unsolved |
-| September 20 | []() | | |
+| September 20 | [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | Easy | Solved |
 | September 21 | []() | | |
 | September 22 | []() | | |
 | September 23 | []() | | |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 4 | 4 | 0 |
+| Easy   | 5 | 5 | 0 |
 | Medium | 6 | 5 | 1 |
 | Hard   | 6 | 2 | 4 |
