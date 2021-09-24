@@ -27,7 +27,7 @@
 | September 21 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | Solved |
 | September 22 | []() | | |
 | September 23 | [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | Medium | Solved |
-| September 24 | []() | | |
+| September 24 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | Solved |
 | September 25 | []() | | |
 | September 26 | []() | | |
 | September 27 | []() | | |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 6 | 6 | 0 |
+| Easy   | 7 | 7 | 0 |
 | Medium | 7 | 6 | 1 |
 | Hard   | 6 | 2 | 4 |
