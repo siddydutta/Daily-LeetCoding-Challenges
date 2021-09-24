@@ -26,7 +26,7 @@
 | September 20 | [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | Easy | Solved |
 | September 21 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | Solved |
 | September 22 | []() | | |
-| September 23 | []() | | |
+| September 23 | [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | Medium | Solved |
 | September 24 | []() | | |
 | September 25 | []() | | |
 | September 26 | []() | | |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 6 | 5 | 1 |
+| Medium | 7 | 6 | 1 |
 | Hard   | 6 | 2 | 4 |
