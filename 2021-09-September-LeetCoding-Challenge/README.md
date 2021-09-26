@@ -28,7 +28,7 @@
 | September 22 | []() | | |
 | September 23 | [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | Medium | Solved |
 | September 24 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | Solved |
-| September 25 | []() | | |
+| September 25 | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Hard | Solved |
 | September 26 | []() | | |
 | September 27 | []() | | |
 | September 28 | []() | | |
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
 | Medium | 7 | 6 | 1 |
-| Hard   | 6 | 2 | 4 |
+| Hard   | 7 | 3 | 4 |
