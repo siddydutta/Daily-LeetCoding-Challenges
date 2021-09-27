@@ -30,7 +30,7 @@
 | September 24 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | Solved |
 | September 25 | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Hard | Solved |
 | September 26 | [782. Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | Hard | Unsolved |
-| September 27 | []() | | |
+| September 27 | [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | Easy | Solved |
 | September 28 | []() | | |
 | September 29 | []() | | |
 | September 30 | []() | | |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 7 | 7 | 0 |
+| Easy   | 8 | 8 | 0 |
 | Medium | 7 | 6 | 1 |
 | Hard   | 8 | 3 | 5 |
