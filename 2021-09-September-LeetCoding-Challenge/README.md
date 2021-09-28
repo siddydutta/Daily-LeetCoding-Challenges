@@ -31,7 +31,7 @@
 | September 25 | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Hard | Solved |
 | September 26 | [782. Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | Hard | Unsolved |
 | September 27 | [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | Easy | Solved |
-| September 28 | []() | | |
+| September 28 | [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | Easy | Solved |
 | September 29 | []() | | |
 | September 30 | []() | | |
 
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 8 | 8 | 0 |
+| Easy   | 9 | 9 | 0 |
 | Medium | 7 | 6 | 1 |
 | Hard   | 8 | 3 | 5 |
