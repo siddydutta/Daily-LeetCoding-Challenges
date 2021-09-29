@@ -32,7 +32,7 @@
 | September 26 | [782. Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | Hard | Unsolved |
 | September 27 | [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | Easy | Solved |
 | September 28 | [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | Easy | Solved |
-| September 29 | []() | | |
+| September 29 | [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium | Solved |
 | September 30 | []() | | |
 
 
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 9 | 9 | 0 |
-| Medium | 7 | 6 | 1 |
+| Medium | 8 | 7 | 1 |
 | Hard   | 8 | 3 | 5 |
