@@ -4,7 +4,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | October 1 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | Solved |
-| October 2 | []() | | |
+| October 2 | [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/) | Hard | Solved |
 | October 3 | []() | | |
 | October 4 | []() | | |
 | October 5 | []() | | |
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   |  |  |  |
 | Medium | 1 | 1 | 0 |
-| Hard   |  |  |  |
+| Hard   | 1 | 1 | 0 |
