@@ -6,7 +6,7 @@
 | October 1 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | Solved |
 | October 2 | [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/) | Hard | Solved |
 | October 3 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | Medium | Solved |
-| October 4 | []() | | |
+| October 4 | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/) | Easy | Solved |
 | October 5 | []() | | |
 | October 6 | []() | | |
 | October 7 | []() | | |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   |  |  |  |
+| Easy   | 1 | 1 | 0 |
 | Medium | 2 | 2 | 0 |
 | Hard   | 1 | 1 | 0 |
