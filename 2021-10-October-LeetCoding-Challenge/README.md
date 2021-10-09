@@ -11,7 +11,7 @@
 | October 6 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | Solved |
 | October 7 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | Solved |
 | October 8 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | Solved |
-| October 9 | []() | | |
+| October 9 | [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | Hard | Solved |
 | October 10 | []() | | |
 | October 11 | []() | | |
 | October 12 | []() | | |
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
 | Medium | 5 | 5 | 0 |
-| Hard   | 1 | 1 | 0 |
+| Hard   | 2 | 2 | 0 |
