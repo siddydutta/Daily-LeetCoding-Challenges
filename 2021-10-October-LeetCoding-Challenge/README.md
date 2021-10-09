@@ -9,7 +9,7 @@
 | October 4 | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/) | Easy | Solved |
 | October 5 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Solved |
 | October 6 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | Solved |
-| October 7 | []() | | |
+| October 7 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | Solved |
 | October 8 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | Solved |
 | October 9 | []() | | |
 | October 10 | []() | | |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 4 | 4 | 0 |
+| Medium | 5 | 5 | 0 |
 | Hard   | 1 | 1 | 0 |
