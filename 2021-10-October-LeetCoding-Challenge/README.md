@@ -13,7 +13,7 @@
 | October 8 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | Solved |
 | October 9 | [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | Hard | Solved |
 | October 10 | [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Medium | Unsolved |
-| October 11 | []() | | |
+| October 11 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | Unsolved |
 | October 12 | []() | | |
 | October 13 | []() | | |
 | October 14 | []() | | |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 2 | 2 | 0 |
+| Easy   | 3 | 2 | 1 |
 | Medium | 6 | 5 | 1 |
 | Hard   | 2 | 2 | 0 |
