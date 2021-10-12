@@ -14,7 +14,7 @@
 | October 9 | [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | Hard | Solved |
 | October 10 | [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Medium | Unsolved |
 | October 11 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | Unsolved |
-| October 12 | []() | | |
+| October 12 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | Solved |
 | October 13 | []() | | |
 | October 14 | []() | | |
 | October 15 | []() | | |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 3 | 2 | 1 |
+| Easy   | 4 | 3 | 1 |
 | Medium | 6 | 5 | 1 |
 | Hard   | 2 | 2 | 0 |
