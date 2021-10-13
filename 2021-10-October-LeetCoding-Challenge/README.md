@@ -15,7 +15,7 @@
 | October 10 | [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Medium | Unsolved |
 | October 11 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | Unsolved |
 | October 12 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | Solved |
-| October 13 | []() | | |
+| October 13 | [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | Unsolved |
 | October 14 | []() | | |
 | October 15 | []() | | |
 | October 16 | []() | | |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 3 | 1 |
-| Medium | 6 | 5 | 1 |
+| Medium | 7 | 5 | 2 |
 | Hard   | 2 | 2 | 0 |
