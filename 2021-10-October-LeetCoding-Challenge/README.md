@@ -16,7 +16,7 @@
 | October 11 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | Unsolved |
 | October 12 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | Solved |
 | October 13 | [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | Unsolved |
-| October 14 | []() | | |
+| October 14 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | Unsolved |
 | October 15 | []() | | |
 | October 16 | []() | | |
 | October 17 | []() | | |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 3 | 1 |
-| Medium | 7 | 5 | 2 |
+| Medium | 8 | 5 | 3 |
 | Hard   | 2 | 2 | 0 |
