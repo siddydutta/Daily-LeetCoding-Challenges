@@ -19,7 +19,7 @@
 | October 14 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | Unsolved |
 | October 15 | []() | | |
 | October 16 | []() | | |
-| October 17 | []() | | |
+| October 17 | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Medium | Solved |
 | October 18 | []() | | |
 | October 19 | []() | | |
 | October 20 | []() | | |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 3 | 1 |
-| Medium | 8 | 5 | 3 |
+| Medium | 9 | 6 | 3 |
 | Hard   | 2 | 2 | 0 |
