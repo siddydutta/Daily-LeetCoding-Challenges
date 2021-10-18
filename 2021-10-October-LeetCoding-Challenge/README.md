@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 4 | 3 | 1 |
+| Easy   | 5 | 4 | 1 |
 | Medium | 9 | 6 | 3 |
 | Hard   | 2 | 2 | 0 |
