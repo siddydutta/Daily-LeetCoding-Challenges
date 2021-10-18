@@ -20,7 +20,7 @@
 | October 15 | []() | | |
 | October 16 | []() | | |
 | October 17 | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Medium | Solved |
-| October 18 | []() | | |
+| October 18 | [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | Easy | Solved |
 | October 19 | []() | | |
 | October 20 | []() | | |
 | October 21 | []() | | |
