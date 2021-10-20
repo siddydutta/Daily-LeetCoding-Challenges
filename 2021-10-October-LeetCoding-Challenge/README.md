@@ -22,7 +22,7 @@
 | October 17 | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Medium | Solved |
 | October 18 | [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | Easy | Solved |
 | October 19 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | Solved |
-| October 20 | []() | | |
+| October 20 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Solved |
 | October 21 | []() | | |
 | October 22 | []() | | |
 | October 23 | []() | | |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 5 | 1 |
-| Medium | 9 | 6 | 3 |
+| Medium | 10 | 7 | 3 |
 | Hard   | 2 | 2 | 0 |
