@@ -23,7 +23,7 @@
 | October 18 | [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | Easy | Solved |
 | October 19 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | Solved |
 | October 20 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Solved |
-| October 21 | []() | | |
+| October 21 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | Solved |
 | October 22 | []() | | |
 | October 23 | []() | | |
 | October 24 | []() | | |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 5 | 1 |
-| Medium | 10 | 7 | 3 |
+| Medium | 11 | 8 | 3 |
 | Hard   | 2 | 2 | 0 |
