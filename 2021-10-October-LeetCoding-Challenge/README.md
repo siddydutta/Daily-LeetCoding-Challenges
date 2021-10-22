@@ -24,7 +24,7 @@
 | October 19 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | Solved |
 | October 20 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Solved |
 | October 21 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | Solved |
-| October 22 | []() | | |
+| October 22 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | Solved |
 | October 23 | []() | | |
 | October 24 | []() | | |
 | October 25 | []() | | |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 5 | 1 |
-| Medium | 11 | 8 | 3 |
+| Medium | 12 | 9 | 3 |
 | Hard   | 2 | 2 | 0 |
