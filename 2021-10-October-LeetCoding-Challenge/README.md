@@ -25,7 +25,7 @@
 | October 20 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Solved |
 | October 21 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | Solved |
 | October 22 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | Solved |
-| October 23 | []() | | |
+| October 23 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | Solved |
 | October 24 | []() | | |
 | October 25 | []() | | |
 | October 26 | []() | | |
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 6 | 5 | 1 |
 | Medium | 12 | 9 | 3 |
-| Hard   | 2 | 2 | 0 |
+| Hard   | 3 | 3 | 0 |
