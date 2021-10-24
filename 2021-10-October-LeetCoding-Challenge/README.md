@@ -26,7 +26,7 @@
 | October 21 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | Solved |
 | October 22 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | Solved |
 | October 23 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | Solved |
-| October 24 | []() | | |
+| October 24 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | Solved |
 | October 25 | []() | | |
 | October 26 | []() | | |
 | October 27 | []() | | |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 5 | 1 |
-| Medium | 12 | 9 | 3 |
+| Medium | 13 | 10 | 3 |
 | Hard   | 3 | 3 | 0 |
