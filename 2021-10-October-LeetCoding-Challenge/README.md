@@ -27,7 +27,7 @@
 | October 22 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | Solved |
 | October 23 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | Solved |
 | October 24 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | Solved |
-| October 25 | []() | | |
+| October 25 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Easy | Solved |
 | October 26 | []() | | |
 | October 27 | []() | | |
 | October 28 | []() | | |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 6 | 5 | 1 |
+| Easy   | 7 | 6 | 1 |
 | Medium | 13 | 10 | 3 |
 | Hard   | 3 | 3 | 0 |
