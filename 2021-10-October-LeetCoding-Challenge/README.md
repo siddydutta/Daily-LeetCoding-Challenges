@@ -28,7 +28,7 @@
 | October 23 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | Solved |
 | October 24 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | Solved |
 | October 25 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Easy | Solved |
-| October 26 | []() | | |
+| October 26 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Solved |
 | October 27 | []() | | |
 | October 28 | []() | | |
 | October 29 | []() | | |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 7 | 6 | 1 |
+| Easy   | 8 | 7 | 1 |
 | Medium | 13 | 10 | 3 |
 | Hard   | 3 | 3 | 0 |
