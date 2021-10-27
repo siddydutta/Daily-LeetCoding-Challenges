@@ -29,7 +29,7 @@
 | October 24 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | Solved |
 | October 25 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Easy | Solved |
 | October 26 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Solved |
-| October 27 | []() | | |
+| October 27 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Solved |
 | October 28 | []() | | |
 | October 29 | []() | | |
 | October 30 | []() | | |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 8 | 7 | 1 |
-| Medium | 13 | 10 | 3 |
+| Medium | 14 | 11 | 3 |
 | Hard   | 3 | 3 | 0 |
