@@ -31,7 +31,7 @@
 | October 26 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Solved |
 | October 27 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Solved |
 | October 28 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | Solved |
-| October 29 | []() | | |
+| October 29 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | Solved |
 | October 30 | []() | | |
 | October 31 | []() | | |
 
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 8 | 7 | 1 |
-| Medium | 15 | 12 | 3 |
+| Medium | 16 | 13 | 3 |
 | Hard   | 3 | 3 | 0 |
