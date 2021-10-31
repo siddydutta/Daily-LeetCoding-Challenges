@@ -17,8 +17,8 @@
 | October 12 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | Solved |
 | October 13 | [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | Unsolved |
 | October 14 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | Unsolved |
-| October 15 | []() | | |
-| October 16 | []() | | |
+| October 15 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | Unsolved |
+| October 16 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | Hard | Unsolved |
 | October 17 | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Medium | Solved |
 | October 18 | [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | Easy | Solved |
 | October 19 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | Solved |
@@ -32,13 +32,13 @@
 | October 27 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Solved |
 | October 28 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | Solved |
 | October 29 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | Solved |
-| October 30 | []() | | |
-| October 31 | []() | | |
+| October 30 | [1044. Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | Hard | Unsolved |
+| October 31 | [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | Medium | Solved |
 
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 8 | 7 | 1 |
-| Medium | 16 | 13 | 3 |
-| Hard   | 3 | 3 | 0 |
+| Medium | 18 | 14 | 4 |
+| Hard   | 5 | 3 | 2 |
