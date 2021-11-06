@@ -4,7 +4,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | November 1 | []() |  |  |
-| November 2 | []() |  |  |
+| November 2 | [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | Hard | Solved |
 | November 3 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | Solved |
 | November 4 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | Solved |
 | November 5 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | Solved |
@@ -40,4 +40,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
 | Medium | 2 | 1 | 1 |
-| Hard   |  |  |  |
+| Hard   | 1 | 1 | 0 |
