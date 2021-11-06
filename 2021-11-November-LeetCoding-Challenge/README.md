@@ -3,7 +3,7 @@
 ## Questions
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
-| November 1 | []() |  |  |
+| November 1 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | Solved |
 | November 2 | [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | Hard | Solved |
 | November 3 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | Solved |
 | November 4 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | Solved |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 2 | 1 | 1 |
+| Medium | 3 | 2 | 1 |
 | Hard   | 1 | 1 | 0 |
