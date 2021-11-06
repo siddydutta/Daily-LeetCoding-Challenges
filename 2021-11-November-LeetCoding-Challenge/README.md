@@ -7,7 +7,7 @@
 | November 2 | []() |  |  |
 | November 3 | []() |  |  |
 | November 4 | []() |  |  |
-| November 5 | []() |  |  |
+| November 5 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | Solved |
 | November 6 | [260. Single Number III](https://leetcode.com/problems/single-number-iii/) | Medium | Unsolved |
 | November 7 | []() |  |  |
 | November 8 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   |  |  |  |
+| Easy   | 1 | 1 | 0 |
 | Medium | 1 | 0 | 1 |
 | Hard   |  |  |  |
