@@ -9,7 +9,7 @@
 | November 4 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | Solved |
 | November 5 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | Solved |
 | November 6 | [260. Single Number III](https://leetcode.com/problems/single-number-iii/) | Medium | Unsolved |
-| November 7 | []() |  |  |
+| November 7 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | Solved |
 | November 8 | []() |  |  |
 | November 9 | []() |  |  |
 | November 10 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 3 | 2 | 1 |
+| Medium | 4 | 3 | 1 |
 | Hard   | 1 | 1 | 0 |
