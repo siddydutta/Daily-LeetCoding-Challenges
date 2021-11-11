@@ -13,7 +13,7 @@
 | November 8 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | Unsolved |
 | November 9 | []() |  |  |
 | November 10 | []() |  |  |
-| November 11 | []() |  |  |
+| November 11 | [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | Easy | Solved |
 | November 12 | []() |  |  |
 | November 13 | []() |  |  |
 | November 14 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 2 | 2 | 0 |
+| Easy   | 3 | 3 | 0 |
 | Medium | 5 | 3 | 2 |
 | Hard   | 1 | 1 | 0 |
