@@ -14,7 +14,7 @@
 | November 9 | []() |  |  |
 | November 10 | []() |  |  |
 | November 11 | [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | Easy | Solved |
-| November 12 | []() |  |  |
+| November 12 | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | Solved |
 | November 13 | []() |  |  |
 | November 14 | []() |  |  |
 | November 15 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 3 | 3 | 0 |
+| Easy   | 4 | 4 | 0 |
 | Medium | 5 | 3 | 2 |
 | Hard   | 1 | 1 | 0 |
