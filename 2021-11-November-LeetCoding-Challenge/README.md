@@ -17,7 +17,7 @@
 | November 12 | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | Solved |
 | November 13 | []() |  |  |
 | November 14 | []() |  |  |
-| November 15 | []() |  |  |
+| November 15 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | Unsolved |
 | November 16 | []() |  |  |
 | November 17 | []() |  |  |
 | November 18 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 5 | 3 | 2 |
+| Medium | 6 | 3 | 3 |
 | Hard   | 1 | 1 | 0 |
