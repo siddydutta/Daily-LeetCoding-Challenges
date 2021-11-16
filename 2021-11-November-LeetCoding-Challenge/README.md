@@ -18,7 +18,7 @@
 | November 13 | []() |  |  |
 | November 14 | []() |  |  |
 | November 15 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | Unsolved |
-| November 16 | []() |  |  |
+| November 16 | [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | Hard | Solved |
 | November 17 | []() |  |  |
 | November 18 | []() |  |  |
 | November 19 | []() |  |  |
@@ -40,4 +40,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
 | Medium | 6 | 3 | 3 |
-| Hard   | 1 | 1 | 0 |
+| Hard   | 2 | 2 | 0 |
