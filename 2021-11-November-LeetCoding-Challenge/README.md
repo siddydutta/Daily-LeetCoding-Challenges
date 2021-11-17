@@ -19,7 +19,7 @@
 | November 14 | []() |  |  |
 | November 15 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | Unsolved |
 | November 16 | [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | Hard | Solved |
-| November 17 | []() |  |  |
+| November 17 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/submissions/) | Medium | Solved |
 | November 18 | []() |  |  |
 | November 19 | []() |  |  |
 | November 20 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 6 | 3 | 3 |
+| Medium | 7 | 4 | 3 |
 | Hard   | 2 | 2 | 0 |
