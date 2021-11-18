@@ -20,7 +20,7 @@
 | November 15 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | Unsolved |
 | November 16 | [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | Hard | Solved |
 | November 17 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/submissions/) | Medium | Solved |
-| November 18 | []() |  |  |
+| November 18 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | Solved |
 | November 19 | []() |  |  |
 | November 20 | []() |  |  |
 | November 21 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 4 | 4 | 0 |
+| Easy   | 5 | 5 | 0 |
 | Medium | 7 | 4 | 3 |
 | Hard   | 2 | 2 | 0 |
