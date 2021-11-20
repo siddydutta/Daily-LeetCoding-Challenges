@@ -22,7 +22,7 @@
 | November 17 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/submissions/) | Medium | Solved |
 | November 18 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | Solved |
 | November 19 | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/) | Easy | Solved |
-| November 20 | []() |  |  |
+| November 20 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | Solved |
 | November 21 | []() |  |  |
 | November 22 | []() |  |  |
 | November 23 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 7 | 4 | 3 |
+| Medium | 8 | 5 | 3 |
 | Hard   | 2 | 2 | 0 |
