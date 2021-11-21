@@ -23,7 +23,7 @@
 | November 18 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | Solved |
 | November 19 | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/) | Easy | Solved |
 | November 20 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | Solved |
-| November 21 | []() |  |  |
+| November 21 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | Solved |
 | November 22 | []() |  |  |
 | November 23 | []() |  |  |
 | November 24 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 8 | 5 | 3 |
+| Medium | 9 | 6 | 3 |
 | Hard   | 2 | 2 | 0 |
