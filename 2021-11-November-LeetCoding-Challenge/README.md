@@ -25,7 +25,7 @@
 | November 20 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | Solved |
 | November 21 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | Solved |
 | November 22 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | Unsolved |
-| November 23 | []() |  |  |
+| November 23 | [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | Hard | Unsolved |
 | November 24 | []() |  |  |
 | November 25 | []() |  |  |
 | November 26 | []() |  |  |
@@ -40,4 +40,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
 | Medium | 10 | 6 | 4 |
-| Hard   | 2 | 2 | 0 |
+| Hard   | 3 | 2 | 1 |
