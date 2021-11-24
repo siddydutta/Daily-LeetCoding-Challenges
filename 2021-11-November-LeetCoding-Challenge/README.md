@@ -26,7 +26,7 @@
 | November 21 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | Solved |
 | November 22 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | Unsolved |
 | November 23 | [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | Hard | Unsolved |
-| November 24 | []() |  |  |
+| November 24 | [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Medium | Solved |
 | November 25 | []() |  |  |
 | November 26 | []() |  |  |
 | November 27 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 10 | 6 | 4 |
+| Medium | 11 | 7 | 4 |
 | Hard   | 3 | 2 | 1 |
