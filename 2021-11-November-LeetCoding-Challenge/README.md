@@ -27,7 +27,7 @@
 | November 22 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | Unsolved |
 | November 23 | [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | Hard | Unsolved |
 | November 24 | [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Medium | Solved |
-| November 25 | []() |  |  |
+| November 25 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | Solved |
 | November 26 | []() |  |  |
 | November 27 | []() |  |  |
 | November 28 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 6 | 6 | 0 |
+| Easy   | 7 | 7 | 0 |
 | Medium | 11 | 7 | 4 |
 | Hard   | 3 | 2 | 1 |
