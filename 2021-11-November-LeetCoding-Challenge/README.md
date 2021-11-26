@@ -28,7 +28,7 @@
 | November 23 | [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | Hard | Unsolved |
 | November 24 | [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Medium | Solved |
 | November 25 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | Solved |
-| November 26 | []() |  |  |
+| November 26 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Solved |
 | November 27 | []() |  |  |
 | November 28 | []() |  |  |
 | November 29 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 7 | 7 | 0 |
+| Easy   | 8 | 8 | 0 |
 | Medium | 11 | 7 | 4 |
 | Hard   | 3 | 2 | 1 |
