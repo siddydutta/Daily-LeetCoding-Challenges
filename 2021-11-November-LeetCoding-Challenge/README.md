@@ -29,7 +29,7 @@
 | November 24 | [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Medium | Solved |
 | November 25 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | Solved |
 | November 26 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Solved |
-| November 27 | []() |  |  |
+| November 27 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Solved |
 | November 28 | []() |  |  |
 | November 29 | []() |  |  |
 | November 30 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 8 | 8 | 0 |
-| Medium | 11 | 7 | 4 |
+| Medium | 12 | 8 | 4 |
 | Hard   | 3 | 2 | 1 |
