@@ -31,7 +31,7 @@
 | November 26 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Solved |
 | November 27 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Solved |
 | November 28 | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | Medium | Solved |
-| November 29 | []() |  |  |
+| November 29 | [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/) | Medium | Unsolved |
 | November 30 | []() |  |  |
 
 
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 8 | 8 | 0 |
-| Medium | 13 | 9 | 4 |
+| Medium | 14 | 9 | 5 |
 | Hard   | 3 | 2 | 1 |
