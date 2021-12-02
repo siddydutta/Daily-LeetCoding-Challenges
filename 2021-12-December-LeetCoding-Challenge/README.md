@@ -4,7 +4,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | December 1 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | Solved |
-| December 2 | []() |  |  |
+| December 2 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | Solved |
 | December 3 | []() |  |  |
 | December 4 | []() |  |  |
 | December 5 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   |  |  |  |
-| Medium | 1 | 1 | 0 |
+| Medium | 2 | 2 | 0 |
 | Hard   |  |  |  |
