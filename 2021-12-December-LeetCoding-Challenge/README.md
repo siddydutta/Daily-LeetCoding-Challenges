@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 | December 1 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | Solved |
 | December 2 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | Solved |
-| December 3 | []() |  |  |
+| December 3 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | Solved |
 | December 4 | []() |  |  |
 | December 5 | []() |  |  |
 | December 6 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   |  |  |  |
-| Medium | 2 | 2 | 0 |
+| Medium | 3 | 3 | 0 |
 | Hard   |  |  |  |
