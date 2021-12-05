@@ -7,7 +7,7 @@
 | December 2 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | Solved |
 | December 3 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | Solved |
 | December 4 | [1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | Hard | Solved |
-| December 5 | []() |  |  |
+| December 5 | [337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | Medium | Solved |
 | December 6 | []() |  |  |
 | December 7 | []() |  |  |
 | December 8 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   |  |  |  |
-| Medium | 3 | 3 | 0 |
+| Medium | 4 | 4 | 0 |
 | Hard   | 1 | 1 | 0 |
