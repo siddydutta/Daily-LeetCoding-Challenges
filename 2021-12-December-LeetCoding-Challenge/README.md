@@ -8,7 +8,7 @@
 | December 3 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | Solved |
 | December 4 | [1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | Hard | Solved |
 | December 5 | [337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | Medium | Solved |
-| December 6 | []() |  |  |
+| December 6 | [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | Easy | Solved |
 | December 7 | []() |  |  |
 | December 8 | []() |  |  |
 | December 9 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   |  |  |  |
+| Easy   | 1 | 1 | 0 |
 | Medium | 4 | 4 | 0 |
 | Hard   | 1 | 1 | 0 |
