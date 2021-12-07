@@ -9,7 +9,7 @@
 | December 4 | [1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | Hard | Solved |
 | December 5 | [337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | Medium | Solved |
 | December 6 | [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | Easy | Solved |
-| December 7 | []() |  |  |
+| December 7 | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | Solved |
 | December 8 | []() |  |  |
 | December 9 | []() |  |  |
 | December 10 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 1 | 1 | 0 |
+| Easy   | 2 | 2 | 0 |
 | Medium | 4 | 4 | 0 |
 | Hard   | 1 | 1 | 0 |
