@@ -11,7 +11,7 @@
 | December 6 | [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | Easy | Solved |
 | December 7 | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | Solved |
 | December 8 | [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | Easy | Solved |
-| December 9 | []() |  |  |
+| December 9 | [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/) | Medium | Solved |
 | December 10 | []() |  |  |
 | December 11 | []() |  |  |
 | December 12 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 4 | 4 | 0 |
+| Medium | 5 | 5 | 0 |
 | Hard   | 1 | 1 | 0 |
