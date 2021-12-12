@@ -14,7 +14,7 @@
 | December 9 | [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/) | Medium | Solved |
 | December 10 | [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | Medium | Unsolved |
 | December 11 | [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | Hard | Unsolved |
-| December 12 | []() |  |  |
+| December 12 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | Solved |
 | December 13 | []() |  |  |
 | December 14 | []() |  |  |
 | December 15 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 6 | 5 | 1 |
+| Medium | 7 | 6 | 1 |
 | Hard   | 2 | 1 | 1 |
