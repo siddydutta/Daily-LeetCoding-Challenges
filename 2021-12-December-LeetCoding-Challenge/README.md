@@ -15,7 +15,7 @@
 | December 10 | [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | Medium | Unsolved |
 | December 11 | [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | Hard | Unsolved |
 | December 12 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | Solved |
-| December 13 | []() |  |  |
+| December 13 | [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | Easy | Solved |
 | December 14 | []() |  |  |
 | December 15 | []() |  |  |
 | December 16 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 3 | 3 | 0 |
+| Easy   | 4 | 4 | 0 |
 | Medium | 7 | 6 | 1 |
 | Hard   | 2 | 1 | 1 |
