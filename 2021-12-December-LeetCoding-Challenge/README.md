@@ -16,7 +16,7 @@
 | December 11 | [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | Hard | Unsolved |
 | December 12 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | Solved |
 | December 13 | [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | Easy | Solved |
-| December 14 | []() |  |  |
+| December 14 | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | Solved |
 | December 15 | []() |  |  |
 | December 16 | []() |  |  |
 | December 17 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 4 | 4 | 0 |
+| Easy   | 5 | 5 | 0 |
 | Medium | 7 | 6 | 1 |
 | Hard   | 2 | 1 | 1 |
