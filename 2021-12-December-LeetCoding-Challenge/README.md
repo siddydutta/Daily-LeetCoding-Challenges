@@ -17,7 +17,7 @@
 | December 12 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | Solved |
 | December 13 | [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | Easy | Solved |
 | December 14 | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | Solved |
-| December 15 | []() |  |  |
+| December 15 | [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | Medium | Solved |
 | December 16 | []() |  |  |
 | December 17 | []() |  |  |
 | December 18 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 7 | 6 | 1 |
+| Medium | 8 | 7 | 1 |
 | Hard   | 2 | 1 | 1 |
