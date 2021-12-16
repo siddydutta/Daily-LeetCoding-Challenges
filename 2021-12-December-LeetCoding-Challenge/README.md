@@ -18,7 +18,7 @@
 | December 13 | [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | Easy | Solved |
 | December 14 | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | Solved |
 | December 15 | [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | Medium | Solved |
-| December 16 | []() |  |  |
+| December 16 | [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | Unsolved |
 | December 17 | []() |  |  |
 | December 18 | []() |  |  |
 | December 19 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 8 | 7 | 1 |
+| Medium | 9 | 7 | 2 |
 | Hard   | 2 | 1 | 1 |
