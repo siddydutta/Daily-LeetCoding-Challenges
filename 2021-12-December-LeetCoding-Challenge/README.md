@@ -21,7 +21,7 @@
 | December 16 | [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | Unsolved |
 | December 17 | []() |  |  |
 | December 18 | []() |  |  |
-| December 19 | []() |  |  |
+| December 19 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | Solved |
 | December 20 | []() |  |  |
 | December 21 | []() |  |  |
 | December 22 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 9 | 7 | 2 |
+| Medium | 10 | 8 | 2 |
 | Hard   | 2 | 1 | 1 |
