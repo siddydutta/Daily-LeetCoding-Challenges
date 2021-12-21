@@ -23,7 +23,7 @@
 | December 18 | []() |  |  |
 | December 19 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | Solved |
 | December 20 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | Easy | Solved |
-| December 21 | []() |  |  |
+| December 21 | [231. Power of Two]() |  |  |
 | December 22 | []() |  |  |
 | December 23 | []() |  |  |
 | December 24 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 6 | 6 | 0 |
+| Easy   | 7 | 7 | 0 |
 | Medium | 10 | 8 | 2 |
 | Hard   | 2 | 1 | 1 |
