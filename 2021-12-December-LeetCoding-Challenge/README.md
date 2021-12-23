@@ -25,7 +25,7 @@
 | December 20 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | Easy | Solved |
 | December 21 | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | Solved |
 | December 22 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | Solved |
-| December 23 | []() |  |  |
+| December 23 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | Unsolved |
 | December 24 | []() |  |  |
 | December 25 | []() |  |  |
 | December 26 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
-| Medium | 11 | 9 | 2 |
+| Medium | 12 | 9 | 3 |
 | Hard   | 2 | 1 | 1 |
