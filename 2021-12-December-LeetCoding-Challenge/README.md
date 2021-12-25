@@ -27,7 +27,7 @@
 | December 22 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | Solved |
 | December 23 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | Unsolved |
 | December 24 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Solved |
-| December 25 | []() |  |  |
+| December 25 | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | Solved |
 | December 26 | []() |  |  |
 | December 27 | []() |  |  |
 | December 28 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
-| Medium | 13 | 10 | 3 |
+| Medium | 14 | 11 | 3 |
 | Hard   | 2 | 1 | 1 |
