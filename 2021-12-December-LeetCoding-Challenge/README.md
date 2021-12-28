@@ -30,7 +30,7 @@
 | December 25 | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | Solved |
 | December 26 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | Unsolved |
 | December 27 | [476. Number Complement](https://leetcode.com/problems/number-complement/) | Easy | Solved |
-| December 28 | []() |  |  |
+| December 28 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | Solved |
 | December 29 | []() |  |  |
 | December 30 | []() |  |  |
 | December 31 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 8 | 8 | 0 |
+| Easy   | 9 | 9 | 0 |
 | Medium | 15 | 11 | 4 |
 | Hard   | 2 | 1 | 1 |
