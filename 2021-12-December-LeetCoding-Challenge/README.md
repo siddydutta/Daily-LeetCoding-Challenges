@@ -29,7 +29,7 @@
 | December 24 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Solved |
 | December 25 | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | Solved |
 | December 26 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | Unsolved |
-| December 27 | []() |  |  |
+| December 27 | [476. Number Complement](https://leetcode.com/problems/number-complement/) | Easy | Solved |
 | December 28 | []() |  |  |
 | December 29 | []() |  |  |
 | December 30 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 7 | 7 | 0 |
+| Easy   | 8 | 8 | 0 |
 | Medium | 15 | 11 | 4 |
 | Hard   | 2 | 1 | 1 |
