@@ -28,7 +28,7 @@
 | December 23 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | Unsolved |
 | December 24 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Solved |
 | December 25 | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | Solved |
-| December 26 | []() |  |  |
+| December 26 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | Unsolved |
 | December 27 | []() |  |  |
 | December 28 | []() |  |  |
 | December 29 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
-| Medium | 14 | 11 | 3 |
+| Medium | 15 | 11 | 4 |
 | Hard   | 2 | 1 | 1 |
