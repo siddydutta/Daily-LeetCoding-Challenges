@@ -33,11 +33,11 @@
 | December 28 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | Solved |
 | December 29 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Medium | Solved |
 | December 30 | [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | Medium | Solved |
-| December 31 | []() |  |  |
+| December 31 | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Medium | Solved |
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 9 | 9 | 0 |
-| Medium | 17 | 13 | 4 |
+| Medium | 18 | 14 | 4 |
 | Hard   | 2 | 1 | 1 |
