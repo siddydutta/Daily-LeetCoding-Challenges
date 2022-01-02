@@ -4,7 +4,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | January 1 | [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) | Hard | Unsolved |
-| January 2 | []() | | |
+| January 2 | [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | Medium | Solved |
 | January 3 | []() | | |
 | January 4 | []() | | |
 | January 5 | []() | | |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 0 | 0 | 0 |
-| Medium | 0 | 0 | 0 |
+| Medium | 1 | 1 | 0 |
 | Hard   | 1 | 0 | 1 |
