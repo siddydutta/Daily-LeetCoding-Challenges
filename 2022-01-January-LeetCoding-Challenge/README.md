@@ -6,7 +6,7 @@
 | January 1 | [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) | Hard | Unsolved |
 | January 2 | [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | Medium | Solved |
 | January 3 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | Solved |
-| January 4 | []() | | |
+| January 4 | [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | Easy | Solved |
 | January 5 | []() | | |
 | January 6 | []() | | |
 | January 7 | []() | | |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 1 | 1 | 0 |
+| Easy   | 2 | 2 | 0 |
 | Medium | 1 | 1 | 0 |
 | Hard   | 1 | 0 | 1 |
