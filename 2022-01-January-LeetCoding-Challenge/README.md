@@ -8,7 +8,7 @@
 | January 3 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | Solved |
 | January 4 | [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | Easy | Solved |
 | January 5 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | Solved |
-| January 6 | []() | | |
+| January 6 | [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) | Medium | Solved|
 | January 7 | []() | | |
 | January 8 | []() | | |
 | January 9 | []() | | |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 2 | 2 | 0 |
+| Medium | 3 | 3 | 0 |
 | Hard   | 1 | 0 | 1 |
