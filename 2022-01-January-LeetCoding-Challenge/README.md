@@ -10,7 +10,7 @@
 | January 5 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | Solved |
 | January 6 | [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) | Medium | Solved|
 | January 7 | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | Medium | Solved |
-| January 8 | []() | | |
+| January 8 | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | Hard | Unsolved |
 | January 9 | []() | | |
 | January 10 | []() | | |
 | January 11 | []() | | |
@@ -40,4 +40,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
 | Medium | 4 | 4 | 0 |
-| Hard   | 1 | 0 | 1 |
+| Hard   | 2 | 0 | 2 |
