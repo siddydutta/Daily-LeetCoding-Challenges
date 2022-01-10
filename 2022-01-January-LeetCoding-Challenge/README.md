@@ -11,7 +11,7 @@
 | January 6 | [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) | Medium | Solved|
 | January 7 | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | Medium | Solved |
 | January 8 | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | Hard | Unsolved |
-| January 9 | []() | | |
+| January 9 | [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | Medium | Solved |
 | January 10 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | Solved |
 | January 11 | []() | | |
 | January 12 | []() | | |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 4 | 4 | 0 |
+| Medium | 5 | 5 | 0 |
 | Hard   | 2 | 0 | 2 |
