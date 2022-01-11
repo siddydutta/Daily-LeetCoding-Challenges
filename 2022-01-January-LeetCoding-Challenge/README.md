@@ -13,7 +13,7 @@
 | January 8 | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | Hard | Unsolved |
 | January 9 | [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | Medium | Solved |
 | January 10 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | Solved |
-| January 11 | []() | | |
+| January 11 | [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | Easy | Solved |
 | January 12 | []() | | |
 | January 13 | []() | | |
 | January 14 | []() | | |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 3 | 3 | 0 |
+| Easy   | 4 | 4 | 0 |
 | Medium | 5 | 5 | 0 |
 | Hard   | 2 | 0 | 2 |
