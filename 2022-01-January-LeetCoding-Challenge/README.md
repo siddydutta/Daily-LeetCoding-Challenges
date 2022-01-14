@@ -16,7 +16,7 @@
 | January 11 | [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | Easy | Solved |
 | January 12 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | Solved |
 | January 13 | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | Solved |
-| January 14 | []() | | |
+| January 14 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | Solved |
 | January 15 | []() | | |
 | January 16 | []() | | |
 | January 17 | []() | | |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 7 | 7 | 0 |
+| Medium | 8 | 8 | 0 |
 | Hard   | 2 | 0 | 2 |
