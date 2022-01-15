@@ -17,7 +17,7 @@
 | January 12 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | Solved |
 | January 13 | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | Solved |
 | January 14 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | Solved |
-| January 15 | []() | | |
+| January 15 | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | Hard | Solved |
 | January 16 | []() | | |
 | January 17 | []() | | |
 | January 18 | []() | | |
@@ -40,4 +40,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
 | Medium | 8 | 8 | 0 |
-| Hard   | 2 | 0 | 2 |
+| Hard   | 3 | 1 | 2 |
