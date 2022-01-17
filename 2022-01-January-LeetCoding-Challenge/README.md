@@ -19,7 +19,7 @@
 | January 14 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | Solved |
 | January 15 | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | Hard | Solved |
 | January 16 | [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | Medium | Solved |
-| January 17 | []() | | |
+| January 17 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | Solved |
 | January 18 | []() | | |
 | January 19 | []() | | |
 | January 20 | []() | | |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 4 | 4 | 0 |
+| Easy   | 5 | 5 | 0 |
 | Medium | 9 | 9 | 0 |
 | Hard   | 3 | 1 | 2 |
