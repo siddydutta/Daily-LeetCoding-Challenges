@@ -21,7 +21,7 @@
 | January 16 | [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | Medium | Solved |
 | January 17 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | Solved |
 | January 18 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | Solved |
-| January 19 | []() | | |
+| January 19 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | Solved |
 | January 20 | []() | | |
 | January 21 | []() | | |
 | January 22 | []() | | |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 9 | 9 | 0 |
+| Medium | 10 | 10 | 0 |
 | Hard   | 3 | 1 | 2 |
