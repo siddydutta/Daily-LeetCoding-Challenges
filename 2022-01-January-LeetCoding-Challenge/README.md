@@ -25,7 +25,7 @@
 | January 20 | []() | | |
 | January 21 | []() | | |
 | January 22 | []() | | |
-| January 23 | []() | | |
+| January 23 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Medium | Solved |
 | January 24 | []() | | |
 | January 25 | []() | | |
 | January 26 | []() | | |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 10 | 10 | 0 |
+| Medium | 11 | 11 | 0 |
 | Hard   | 3 | 1 | 2 |
