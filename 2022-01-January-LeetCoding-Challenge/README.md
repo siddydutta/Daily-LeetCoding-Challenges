@@ -26,7 +26,7 @@
 | January 21 | []() | | |
 | January 22 | []() | | |
 | January 23 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Medium | Solved |
-| January 24 | []() | | |
+| January 24 | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) | Easy | Solved |
 | January 25 | []() | | |
 | January 26 | []() | | |
 | January 27 | []() | | |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 6 | 6 | 0 |
+| Easy   | 7 | 7 | 0 |
 | Medium | 11 | 11 | 0 |
 | Hard   | 3 | 1 | 2 |
