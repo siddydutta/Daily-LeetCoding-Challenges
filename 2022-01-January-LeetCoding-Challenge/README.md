@@ -23,8 +23,8 @@
 | January 18 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | Solved |
 | January 19 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | Solved |
 | January 20 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | Solved |
-| January 21 | []() | | |
-| January 22 | []() | | |
+| January 21 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | Unsolved |
+| January 22 | [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | Hard | Unsolved |
 | January 23 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Medium | Solved |
 | January 24 | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) | Easy | Solved |
 | January 25 | []() | | |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
-| Medium | 12 | 12 | 0 |
-| Hard   | 3 | 1 | 2 |
+| Medium | 13 | 12 | 1 |
+| Hard   | 4 | 1 | 3 |
