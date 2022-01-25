@@ -27,7 +27,7 @@
 | January 22 | [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | Hard | Unsolved |
 | January 23 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Medium | Solved |
 | January 24 | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) | Easy | Solved |
-| January 25 | []() | | |
+| January 25 | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | Easy | Solved |
 | January 26 | []() | | |
 | January 27 | []() | | |
 | January 28 | []() | | |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 7 | 7 | 0 |
+| Easy   | 8 | 8 | 0 |
 | Medium | 13 | 12 | 1 |
 | Hard   | 4 | 1 | 3 |
