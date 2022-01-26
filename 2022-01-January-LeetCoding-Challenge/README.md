@@ -28,7 +28,7 @@
 | January 23 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Medium | Solved |
 | January 24 | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) | Easy | Solved |
 | January 25 | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | Easy | Solved |
-| January 26 | []() | | |
+| January 26 | [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | Medium | Solved |
 | January 27 | []() | | |
 | January 28 | []() | | |
 | January 29 | []() | | |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 8 | 8 | 0 |
-| Medium | 13 | 12 | 1 |
+| Medium | 14 | 13 | 1 |
 | Hard   | 4 | 1 | 3 |
