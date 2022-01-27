@@ -29,7 +29,7 @@
 | January 24 | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) | Easy | Solved |
 | January 25 | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | Easy | Solved |
 | January 26 | [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | Medium | Solved |
-| January 27 | []() | | |
+| January 27 | [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | Medium | Unsolved |
 | January 28 | []() | | |
 | January 29 | []() | | |
 | January 30 | []() | | |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 8 | 8 | 0 |
-| Medium | 14 | 13 | 1 |
+| Medium | 15 | 13 | 2 |
 | Hard   | 4 | 1 | 3 |
