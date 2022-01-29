@@ -31,7 +31,7 @@
 | January 26 | [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | Medium | Solved |
 | January 27 | [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | Medium | Unsolved |
 | January 28 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Medium | Solved |
-| January 29 | []() | | |
+| January 29 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | Solved |
 | January 30 | []() | | |
 | January 31 | []() | | |
 
@@ -40,4 +40,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 8 | 8 | 0 |
 | Medium | 16 | 14 | 2 |
-| Hard   | 4 | 1 | 3 |
+| Hard   | 5 | 2 | 3 |
