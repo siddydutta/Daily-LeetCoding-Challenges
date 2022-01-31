@@ -33,11 +33,11 @@
 | January 28 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Medium | Solved |
 | January 29 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | Solved |
 | January 30 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | Solved |
-| January 31 | []() | | |
+| January 31 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | Solved |
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 8 | 8 | 0 |
-| Medium | 16 | 14 | 2 |
+| Easy   | 9 | 9 | 0 |
+| Medium | 17 | 15 | 2 |
 | Hard   | 5 | 2 | 3 |
