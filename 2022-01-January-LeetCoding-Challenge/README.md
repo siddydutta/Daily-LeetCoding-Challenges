@@ -32,7 +32,7 @@
 | January 27 | [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | Medium | Unsolved |
 | January 28 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Medium | Solved |
 | January 29 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | Solved |
-| January 30 | []() | | |
+| January 30 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | Solved |
 | January 31 | []() | | |
 
 ## Summary
