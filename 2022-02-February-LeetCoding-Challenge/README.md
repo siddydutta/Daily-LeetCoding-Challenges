@@ -3,7 +3,7 @@
 ## Questions
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
-| February 1 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  |  |
+| February 1 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Solved |
 | February 2 | []() |  |  |
 | February 3 | []() |  |  |
 | February 4 | []() |  |  |
