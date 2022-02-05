@@ -6,7 +6,7 @@
 | February 1 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Solved |
 | February 2 | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | Solved |
 | February 3 | [454. 4Sum II](https://leetcode.com/problems/4sum-ii/) | Medium | Solved |
-| February 4 | []() |  |  |
+| February 4 | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Medium | Solved |
 | February 5 | []() |  |  |
 | February 6 | []() |  |  |
 | February 7 | []() |  |  |
@@ -36,5 +36,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 2 | 2 | 0 |
+| Medium | 3 | 3 | 0 |
 | Hard   | 0 | 0 | 0 |
