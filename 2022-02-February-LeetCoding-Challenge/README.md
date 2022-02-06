@@ -8,7 +8,7 @@
 | February 3 | [454. 4Sum II](https://leetcode.com/problems/4sum-ii/) | Medium | Solved |
 | February 4 | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Medium | Solved |
 | February 5 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | Solved |
-| February 6 | []() |  |  |
+| February 6 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | Solved |
 | February 7 | []() |  |  |
 | February 8 | []() |  |  |
 | February 9 | []() |  |  |
@@ -36,5 +36,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 3 | 3 | 0 |
+| Medium | 4 | 4 | 0 |
 | Hard   | 1 | 1 | 0 |
