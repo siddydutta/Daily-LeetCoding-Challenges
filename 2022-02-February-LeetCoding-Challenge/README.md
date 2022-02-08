@@ -10,7 +10,7 @@
 | February 5 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | Solved |
 | February 6 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | Solved |
 | February 7 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | Solved |
-| February 8 | []() |  |  |
+| February 8 | [258. Add Digits](https://leetcode.com/problems/add-digits/) | Easy | Solved |
 | February 9 | []() |  |  |
 | February 10 | []() |  |  |
 | February 11 | []() |  |  |
@@ -35,6 +35,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 2 | 2 | 0 |
+| Easy   | 3 | 3 | 0 |
 | Medium | 4 | 4 | 0 |
 | Hard   | 1 | 1 | 0 |
