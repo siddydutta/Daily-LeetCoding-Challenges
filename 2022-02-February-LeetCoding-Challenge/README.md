@@ -12,7 +12,7 @@
 | February 7 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | Solved |
 | February 8 | [258. Add Digits](https://leetcode.com/problems/add-digits/) | Easy | Solved |
 | February 9 | [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | Medium | Solved |
-| February 10 | []() |  |  |
+| February 10 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | Solved |
 | February 11 | []() |  |  |
 | February 12 | []() |  |  |
 | February 13 | []() |  |  |
@@ -36,5 +36,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 5 | 5 | 0 |
+| Medium | 6 | 6 | 0 |
 | Hard   | 1 | 1 | 0 |
