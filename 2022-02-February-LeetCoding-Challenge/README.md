@@ -14,7 +14,7 @@
 | February 9 | [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | Medium | Solved |
 | February 10 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | Solved |
 | February 11 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Solved |
-| February 12 | []() |  |  |
+| February 12 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | Hard | Solved |
 | February 13 | []() |  |  |
 | February 14 | []() |  |  |
 | February 15 | []() |  |  |
@@ -37,4 +37,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
 | Medium | 7 | 7 | 0 |
-| Hard   | 1 | 1 | 0 |
+| Hard   | 2 | 2 | 0 |
