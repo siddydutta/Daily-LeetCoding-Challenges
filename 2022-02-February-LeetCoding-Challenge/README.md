@@ -16,7 +16,7 @@
 | February 11 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Solved |
 | February 12 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | Hard | Solved |
 | February 13 | [78. Subsets](https://leetcode.com/problems/subsets/) | Medium | Solved |
-| February 14 | []() |  |  |
+| February 14 | [104. Maximum Depth of Binary Tree]() | Easy | Solved |
 | February 15 | []() |  |  |
 | February 16 | []() |  |  |
 | February 17 | []() |  |  |
@@ -35,6 +35,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 3 | 3 | 0 |
+| Easy   | 4 | 4 | 0 |
 | Medium | 8 | 8 | 0 |
 | Hard   | 2 | 2 | 0 |
