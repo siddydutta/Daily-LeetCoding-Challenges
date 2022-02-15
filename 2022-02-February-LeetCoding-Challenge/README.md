@@ -17,7 +17,7 @@
 | February 12 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | Hard | Solved |
 | February 13 | [78. Subsets](https://leetcode.com/problems/subsets/) | Medium | Solved |
 | February 14 | [104. Maximum Depth of Binary Tree]() | Easy | Solved |
-| February 15 | []() |  |  |
+| February 15 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | Solved |
 | February 16 | []() |  |  |
 | February 17 | []() |  |  |
 | February 18 | []() |  |  |
@@ -35,6 +35,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 4 | 4 | 0 |
+| Easy   | 5 | 5 | 0 |
 | Medium | 8 | 8 | 0 |
 | Hard   | 2 | 2 | 0 |
