@@ -18,7 +18,7 @@
 | February 13 | [78. Subsets](https://leetcode.com/problems/subsets/) | Medium | Solved |
 | February 14 | [104. Maximum Depth of Binary Tree]() | Easy | Solved |
 | February 15 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | Solved |
-| February 16 | []() |  |  |
+| February 16 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | Solved |
 | February 17 | []() |  |  |
 | February 18 | []() |  |  |
 | February 19 | []() |  |  |
@@ -36,5 +36,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 8 | 8 | 0 |
+| Medium | 9 | 9 | 0 |
 | Hard   | 2 | 2 | 0 |
