@@ -20,7 +20,7 @@
 | February 15 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | Solved |
 | February 16 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | Solved |
 | February 17 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | Unsolved |
-| February 18 | []() |  |  |
+| February 18 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | Solved |
 | February 19 | []() |  |  |
 | February 20 | []() |  |  |
 | February 21 | []() |  |  |
@@ -36,5 +36,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 10 | 9 | 1 |
+| Medium | 11 | 10 | 1 |
 | Hard   | 2 | 2 | 0 |
