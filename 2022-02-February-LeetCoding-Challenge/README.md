@@ -21,7 +21,7 @@
 | February 16 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | Solved |
 | February 17 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | Unsolved |
 | February 18 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | Solved |
-| February 19 | []() |  |  |
+| February 19 | [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | Hard | Unsolved |
 | February 20 | []() |  |  |
 | February 21 | []() |  |  |
 | February 22 | []() |  |  |
@@ -37,4 +37,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
 | Medium | 11 | 10 | 1 |
-| Hard   | 2 | 2 | 0 |
+| Hard   | 3 | 2 | 1 |
