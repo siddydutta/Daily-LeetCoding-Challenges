@@ -23,7 +23,7 @@
 | February 18 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | Solved |
 | February 19 | [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | Hard | Unsolved |
 | February 20 | [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Medium | Solved |
-| February 21 | []() |  |  |
+| February 21 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Solved |
 | February 22 | []() |  |  |
 | February 23 | []() |  |  |
 | February 24 | []() |  |  |
@@ -35,6 +35,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 5 | 5 | 0 |
+| Easy   | 6 | 6 | 0 |
 | Medium | 12 | 11 | 1 |
 | Hard   | 3 | 2 | 1 |
