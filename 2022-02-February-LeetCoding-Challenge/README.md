@@ -24,7 +24,7 @@
 | February 19 | [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | Hard | Unsolved |
 | February 20 | [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Medium | Solved |
 | February 21 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Solved |
-| February 22 | []() |  |  |
+| February 22 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | Solved |
 | February 23 | []() |  |  |
 | February 24 | []() |  |  |
 | February 25 | []() |  |  |
@@ -35,6 +35,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 6 | 6 | 0 |
+| Easy   | 7 | 7 | 0 |
 | Medium | 12 | 11 | 1 |
 | Hard   | 3 | 2 | 1 |
