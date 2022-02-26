@@ -25,10 +25,10 @@
 | February 20 | [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Medium | Solved |
 | February 21 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Solved |
 | February 22 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | Solved |
-| February 23 | []() |  |  |
-| February 24 | []() |  |  |
-| February 25 | [165. Compare Version Numbers]() |  |  |
-| February 26 | []() |  |  |
+| February 23 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | Unsolved |
+| February 24 | [148. Sort List](https://leetcode.com/problems/sort-list/) | Medium | Unsolved |
+| February 25 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | Solved |
+| February 26 | [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | Hard | Unsolved |
 | February 27 | []() |  |  |
 | February 28 | []() |  |  |
 
@@ -36,5 +36,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
-| Medium | 13 | 12 | 1 |
-| Hard   | 3 | 2 | 1 |
+| Medium | 15 | 13 | 2 |
+| Hard   | 4 | 3 | 1 |
