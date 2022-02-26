@@ -27,7 +27,7 @@
 | February 22 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | Solved |
 | February 23 | []() |  |  |
 | February 24 | []() |  |  |
-| February 25 | []() |  |  |
+| February 25 | [165. Compare Version Numbers]() |  |  |
 | February 26 | []() |  |  |
 | February 27 | []() |  |  |
 | February 28 | []() |  |  |
@@ -36,5 +36,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
-| Medium | 12 | 11 | 1 |
+| Medium | 13 | 12 | 1 |
 | Hard   | 3 | 2 | 1 |
