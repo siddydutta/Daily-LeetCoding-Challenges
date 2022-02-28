@@ -29,12 +29,12 @@
 | February 24 | [148. Sort List](https://leetcode.com/problems/sort-list/) | Medium | Unsolved |
 | February 25 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | Solved |
 | February 26 | [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | Hard | Unsolved |
-| February 27 | []() |  |  |
-| February 28 | []() |  |  |
+| February 27 | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | Medium | Unsolved |
+| February 28 | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) | Easy | Solved |
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 7 | 7 | 0 |
-| Medium | 15 | 13 | 2 |
+| Easy   | 8 | 8 | 0 |
+| Medium | 16 | 13 | 3 |
 | Hard   | 4 | 3 | 1 |
