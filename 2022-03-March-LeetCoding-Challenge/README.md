@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 | March 1 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | Unsolved |
 | March 2 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | Solved |
-| March 3 | []() |  |  |
+| March 3 | [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | Medium | Solved |
 | March 4 | []() |  |  |
 | March 5 | []() |  |  |
 | March 6 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 1 | 1 |
-| Medium | 0 | 0 | 0 |
+| Medium | 1 | 1 | 0 |
 | Hard   | 0 | 0 | 0 |
