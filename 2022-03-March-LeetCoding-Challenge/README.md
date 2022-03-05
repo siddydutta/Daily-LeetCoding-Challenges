@@ -7,7 +7,7 @@
 | March 2 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | Solved |
 | March 3 | [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | Medium | Solved |
 | March 4 | []() |  |  |
-| March 5 | []() |  |  |
+| March 5 | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | Medium | Unsolved |
 | March 6 | []() |  |  |
 | March 7 | []() |  |  |
 | March 8 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 1 | 1 |
-| Medium | 1 | 1 | 0 |
+| Medium | 2 | 1 | 1 |
 | Hard   | 0 | 0 | 0 |
