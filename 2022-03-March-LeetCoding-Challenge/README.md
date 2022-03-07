@@ -9,7 +9,7 @@
 | March 4 | [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/) | Medium | Unsolved |
 | March 5 | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | Medium | Unsolved |
 | March 6 | [1359. Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | Hard | Unsolved |
-| March 7 | []() |  |  |
+| March 7 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Solved |
 | March 8 | []() |  |  |
 | March 9 | []() |  |  |
 | March 10 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 2 | 1 | 1 |
+| Easy   | 3 | 2 | 1 |
 | Medium | 3 | 1 | 2 |
 | Hard   | 1 | 0 | 1 |
