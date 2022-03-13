@@ -15,7 +15,7 @@
 | March 10 | []() |  |  |
 | March 11 | []() |  |  |
 | March 12 | []() |  |  |
-| March 13 | []() |  |  |
+| March 13 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Solved |
 | March 14 | []() |  |  |
 | March 15 | []() |  |  |
 | March 16 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 3 | 2 | 1 |
+| Easy   | 4 | 3 | 1 |
 | Medium | 3 | 1 | 2 |
 | Hard   | 1 | 0 | 1 |
