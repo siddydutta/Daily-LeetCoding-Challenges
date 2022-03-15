@@ -17,7 +17,7 @@
 | March 12 | []() |  |  |
 | March 13 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Solved |
 | March 14 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | Solved |
-| March 15 | []() |  |  |
+| March 15 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium | Unsolved |
 | March 16 | []() |  |  |
 | March 17 | []() |  |  |
 | March 18 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 3 | 1 |
-| Medium | 4 | 2 | 2 |
+| Medium | 5 | 2 | 3 |
 | Hard   | 1 | 0 | 1 |
