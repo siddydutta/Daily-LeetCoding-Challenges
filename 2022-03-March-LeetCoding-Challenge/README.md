@@ -25,7 +25,7 @@
 | March 20 | []() |  |  |
 | March 21 | []() |  |  |
 | March 22 | []() |  |  |
-| March 23 | []() |  |  |
+| March 23 | [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) | Medium | Solved |
 | March 24 | []() |  |  |
 | March 25 | []() |  |  |
 | March 26 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 3 | 1 |
-| Medium | 5 | 2 | 3 |
+| Medium | 6 | 3 | 3 |
 | Hard   | 1 | 0 | 1 |
