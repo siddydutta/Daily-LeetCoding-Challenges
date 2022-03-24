@@ -26,7 +26,7 @@
 | March 21 | []() |  |  |
 | March 22 | []() |  |  |
 | March 23 | [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) | Medium | Solved |
-| March 24 | []() |  |  |
+| March 24 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | Solved |
 | March 25 | []() |  |  |
 | March 26 | []() |  |  |
 | March 27 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 3 | 1 |
-| Medium | 6 | 3 | 3 |
+| Medium | 7 | 4 | 3 |
 | Hard   | 1 | 0 | 1 |
