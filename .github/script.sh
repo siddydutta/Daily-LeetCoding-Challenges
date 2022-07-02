@@ -1,27 +1,35 @@
 #!/bin/bash
 
 for dir in */
-do 
+do
     cd $dir
-    for sol in *.py
+    echo -n "Checking ${dir%*/} ... "
+    files=0
+    for lang in py go
     do
-        [ -f "$sol" ] || break
-        python3 "$sol"
-        if [[ $? -ne 0 ]]
-        then
-            exit 1
-        fi
-    done
+        for sol in *.${lang}
+        do
+            # Check if file exists
+            [ -f "$sol" ] || break
+            case $lang in 
+            py)
+                # Execute Python file
+                python3 "$sol"
+                ;;
+            go)
+                # Execute Go file
+                go run "$sol"
+                ;;
+            esac
 
-    for sol in *.go
-    do
-        [ -f "$sol" ] || break
-        go run "$sol"
-        if [[ $? -ne 0 ]]
-        then
-            exit 1
-        fi
+            # If execution failure, exit
+            if [[ $? -ne 0 ]]
+            then
+                exit 1
+            fi
+            let files++
+        done
     done
-
+    echo "Done. Checked ${files} solutions."
     cd ..
 done
