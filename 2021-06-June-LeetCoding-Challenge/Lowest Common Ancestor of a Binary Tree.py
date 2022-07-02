@@ -22,7 +22,6 @@ class Solution:
 
         # If root is either p, q; root becomes LCA
         if root == p or root == q:
-            print('yay')
             return root
 
         left = self.lowestCommonAncestor(root.left, p, q)  # Traverse left

@@ -12,7 +12,6 @@ class Solution1:
                 if not stack:
                     return False
                 stack.pop()
-                print(stack)
             stack.append(node)
         return stack == ["#"]
 

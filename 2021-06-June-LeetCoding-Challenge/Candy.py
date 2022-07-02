@@ -21,7 +21,6 @@ class Solution:
             if ratings[i] > ratings[i+1]:
                 candies[i] = max(1+candies[i+1], candies[i])
 
-        print(candies)
         return sum(candies)
 
 

@@ -30,7 +30,6 @@ def main():
         try:
             assert isBeautifulArray(Solution().beautifulArray(n), n)
         except AssertionError:
-            print("Wrong Answer for n =", n)
             raise
 
 

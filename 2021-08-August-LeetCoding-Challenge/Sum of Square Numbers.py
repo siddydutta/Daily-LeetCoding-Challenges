@@ -14,7 +14,6 @@ class Solution:
             b = c - a*a  # As a^2 + b^2 = c
             if self.__is_square(b):
                 # Check if b^2 is valid
-                #print(a, b)
                 return True
         return False
 
