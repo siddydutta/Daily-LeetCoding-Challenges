@@ -3,7 +3,7 @@
 ## Questions
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
-| July 1 | []() |  |  |
+| July 1 | [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | Easy | Solved |
 | July 2 | []() |  |  |
 | July 3 | []() |  |  |
 | July 4 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 0 | 0 | 0 |
+| Easy   | 1 | 1 | 0 |
 | Medium | 0 | 0 | 0 |
 | Hard   | 0 | 0 | 0 |
