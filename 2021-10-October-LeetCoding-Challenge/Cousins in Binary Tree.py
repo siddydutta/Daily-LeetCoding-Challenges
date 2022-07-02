@@ -28,7 +28,7 @@ class Solution:
 
                 # Check if cousins have the same parent
                 if node.left and node.right:
-                    if (node.left.val == x and node.right.val == y) or
+                    if (node.left.val == x and node.right.val == y) or \
                     (node.left.val == y and node.right.val == x):
                         return False
 

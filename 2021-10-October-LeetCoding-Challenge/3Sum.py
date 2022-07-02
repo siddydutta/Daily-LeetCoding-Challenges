@@ -23,7 +23,7 @@ class Solution:
 
 def main():
     nums = [-1, 0, 1, 2, -1, -4]
-    assert Solution().threeSum(nums) == [[-1, -1, 2], [-1, 0, 1]]
+    assert sorted(Solution().threeSum(nums)) == sorted([[-1, -1, 2], [-1, 0, 1]])
 
     nums = []
     assert Solution().threeSum(nums) == []
