@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 | July 1 | [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | Easy | Solved |
 | July 2 | [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium | Solved |
-| July 3 | []() |  |  |
+| July 3 | [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | Medium | Unsolved |
 | July 4 | []() |  |  |
 | July 5 | []() |  |  |
 | July 6 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 1 | 1 | 0 |
+| Medium | 2 | 1 | 1 |
 | Hard   | 0 | 0 | 0 |
