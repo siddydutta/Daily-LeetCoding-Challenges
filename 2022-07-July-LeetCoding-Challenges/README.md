@@ -7,7 +7,7 @@
 | July 2 | [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium | Solved |
 | July 3 | [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | Medium | Unsolved |
 | July 4 | [135. Candy](https://leetcode.com/problems/candy/) | Hard | Solved |
-| July 5 | []() |  |  |
+| July 5 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Solved |
 | July 6 | []() |  |  |
 | July 7 | []() |  |  |
 | July 8 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 2 | 1 | 1 |
+| Medium | 3 | 2 | 1 |
 | Hard   | 1 | 1 | 0 |
