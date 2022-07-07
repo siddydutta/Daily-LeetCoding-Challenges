@@ -9,7 +9,7 @@
 | July 4 | [135. Candy](https://leetcode.com/problems/candy/) | Hard | Solved |
 | July 5 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Solved |
 | July 6 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | Solved |
-| July 7 | []() |  |  |
+| July 7 | [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) | Medium | Solved |
 | July 8 | []() |  |  |
 | July 9 | []() |  |  |
 | July 10 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 3 | 2 | 1 |
+| Medium | 4 | 3 | 1 |
 | Hard   | 1 | 1 | 0 |
