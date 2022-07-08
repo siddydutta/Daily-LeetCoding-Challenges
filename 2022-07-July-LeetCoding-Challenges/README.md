@@ -10,7 +10,7 @@
 | July 5 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Solved |
 | July 6 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | Solved |
 | July 7 | [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) | Medium | Solved |
-| July 8 | []() |  |  |
+| July 8 | [1473. Paint House III](https://leetcode.com/problems/paint-house-iii/) | Hard | Unsolved |
 | July 9 | []() |  |  |
 | July 10 | []() |  |  |
 | July 11 | []() |  |  |
@@ -40,4 +40,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
 | Medium | 4 | 3 | 1 |
-| Hard   | 1 | 1 | 0 |
+| Hard   | 2 | 1 | 1 |
