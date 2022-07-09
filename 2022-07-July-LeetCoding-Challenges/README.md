@@ -11,7 +11,7 @@
 | July 6 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | Solved |
 | July 7 | [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) | Medium | Solved |
 | July 8 | [1473. Paint House III](https://leetcode.com/problems/paint-house-iii/) | Hard | Unsolved |
-| July 9 | []() |  |  |
+| July 9 | [1696. Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | Medium | Unsolved |
 | July 10 | []() |  |  |
 | July 11 | []() |  |  |
 | July 12 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 4 | 3 | 1 |
+| Medium | 5 | 3 | 2 |
 | Hard   | 2 | 1 | 1 |
