@@ -13,7 +13,7 @@
 | July 8 | [1473. Paint House III](https://leetcode.com/problems/paint-house-iii/) | Hard | Unsolved |
 | July 9 | [1696. Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | Medium | Unsolved |
 | July 10 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | Solved |
-| July 11 | []() |  |  |
+| July 11 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | Solved |
 | July 12 | []() |  |  |
 | July 13 | []() |  |  |
 | July 14 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 5 | 3 | 2 |
+| Medium | 6 | 4 | 2 |
 | Hard   | 2 | 1 | 1 |
