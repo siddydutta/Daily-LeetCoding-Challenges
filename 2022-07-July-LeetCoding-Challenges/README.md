@@ -12,7 +12,7 @@
 | July 7 | [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) | Medium | Solved |
 | July 8 | [1473. Paint House III](https://leetcode.com/problems/paint-house-iii/) | Hard | Unsolved |
 | July 9 | [1696. Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | Medium | Unsolved |
-| July 10 | []() |  |  |
+| July 10 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | Solved |
 | July 11 | []() |  |  |
 | July 12 | []() |  |  |
 | July 13 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 2 | 2 | 0 |
+| Easy   | 3 | 3 | 0 |
 | Medium | 5 | 3 | 2 |
 | Hard   | 2 | 1 | 1 |
