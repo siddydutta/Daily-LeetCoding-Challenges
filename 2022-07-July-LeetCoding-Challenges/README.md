@@ -18,7 +18,7 @@
 | July 13 | []() |  |  |
 | July 14 | []() |  |  |
 | July 15 | []() |  |  |
-| July 16 | []() |  |  |
+| July 16 | [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | Medium | Unsolved |
 | July 17 | []() |  |  |
 | July 18 | []() |  |  |
 | July 19 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 7 | 5 | 2 |
+| Medium | 8 | 5 | 3 |
 | Hard   | 2 | 1 | 1 |
