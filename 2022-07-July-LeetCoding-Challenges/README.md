@@ -24,7 +24,7 @@
 | July 19 | []() |  |  |
 | July 20 | []() |  |  |
 | July 21 | []() |  |  |
-| July 22 | []() |  |  |
+| July 22 | [86. Partition List](https://leetcode.com/problems/partition-list/) | Medium | Solved |
 | July 23 | []() |  |  |
 | July 24 | []() |  |  |
 | July 25 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 8 | 5 | 3 |
+| Medium | 9 | 6 | 3 |
 | Hard   | 2 | 1 | 1 |
