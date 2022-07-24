@@ -26,7 +26,7 @@
 | July 21 | []() |  |  |
 | July 22 | [86. Partition List](https://leetcode.com/problems/partition-list/) | Medium | Solved |
 | July 23 | []() |  |  |
-| July 24 | []() |  |  |
+| July 24 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Medium | Solved |
 | July 25 | []() |  |  |
 | July 26 | []() |  |  |
 | July 27 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 9 | 6 | 3 |
+| Medium | 10 | 7 | 3 |
 | Hard   | 2 | 1 | 1 |
