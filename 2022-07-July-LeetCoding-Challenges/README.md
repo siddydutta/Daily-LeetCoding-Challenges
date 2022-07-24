@@ -25,7 +25,7 @@
 | July 20 | []() |  |  |
 | July 21 | []() |  |  |
 | July 22 | [86. Partition List](https://leetcode.com/problems/partition-list/) | Medium | Solved |
-| July 23 | []() |  |  |
+| July 23 | [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Hard | Solved |
 | July 24 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Medium | Solved |
 | July 25 | []() |  |  |
 | July 26 | []() |  |  |
@@ -40,4 +40,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
 | Medium | 10 | 7 | 3 |
-| Hard   | 2 | 1 | 1 |
+| Hard   | 3 | 2 | 1 |
