@@ -27,7 +27,7 @@
 | July 22 | [86. Partition List](https://leetcode.com/problems/partition-list/) | Medium | Solved |
 | July 23 | [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Hard | Solved |
 | July 24 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Medium | Solved |
-| July 25 | []() |  |  |
+| July 25 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | Solved |
 | July 26 | []() |  |  |
 | July 27 | []() |  |  |
 | July 28 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 10 | 7 | 3 |
+| Medium | 11 | 8 | 3 |
 | Hard   | 3 | 2 | 1 |
