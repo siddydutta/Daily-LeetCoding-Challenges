@@ -30,7 +30,7 @@
 | July 25 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | Solved |
 | July 26 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | Solved |
 | July 27 | []() |  |  |
-| July 28 | []() |  |  |
+| July 28 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Solved |
 | July 29 | []() |  |  |
 | July 30 | []() |  |  |
 | July 31 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 3 | 3 | 0 |
+| Easy   | 4 | 4 | 0 |
 | Medium | 12 | 9 | 3 |
 | Hard   | 3 | 2 | 1 |
