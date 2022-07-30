@@ -32,12 +32,12 @@
 | July 27 | []() |  |  |
 | July 28 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Solved |
 | July 29 | []() |  |  |
-| July 30 | []() |  |  |
+| July 30 | [916. Word Subsets](https://leetcode.com/problems/word-subsets/) | Medium | Solved |
 | July 31 | []() |  |  |
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 12 | 9 | 3 |
+| Medium | 13 | 10 | 3 |
 | Hard   | 3 | 2 | 1 |
