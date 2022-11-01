@@ -3,7 +3,7 @@
 ## Questions
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
-| November 1 | []() |  |  |
+| November 1 | [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | Medium | Solved |
 | November 2 | []() |  |  |
 | November 3 | []() |  |  |
 | November 4 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   |  |  |  |
-| Medium |  |  |  |
+| Medium | 1 | 1 | 0 |
 | Hard   |  |  |  |
