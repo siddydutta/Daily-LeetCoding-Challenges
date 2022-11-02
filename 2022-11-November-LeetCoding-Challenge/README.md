@@ -4,7 +4,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | November 1 | [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | Medium | Solved |
-| November 2 | []() |  |  |
+| November 2 | [433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | Medium | Solved |
 | November 3 | []() |  |  |
 | November 4 | []() |  |  |
 | November 5 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   |  |  |  |
-| Medium | 1 | 1 | 0 |
+| Medium | 2 | 2 | 0 |
 | Hard   |  |  |  |
