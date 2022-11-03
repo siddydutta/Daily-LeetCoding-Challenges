@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 | November 1 | [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | Medium | Solved |
 | November 2 | [433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | Medium | Solved |
-| November 3 | []() |  |  |
+| November 3 | [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | Solved |
 | November 4 | []() |  |  |
 | November 5 | []() |  |  |
 | November 6 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   |  |  |  |
-| Medium | 2 | 2 | 0 |
+| Medium | 3 | 3 | 0 |
 | Hard   |  |  |  |
