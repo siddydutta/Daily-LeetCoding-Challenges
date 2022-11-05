@@ -7,7 +7,7 @@
 | November 2 | [433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | Medium | Solved |
 | November 3 | [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | Solved |
 | November 4 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | Solved |
-| November 5 | []() |  |  |
+| November 5 | [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | Hard | Solved |
 | November 6 | []() |  |  |
 | November 7 | []() |  |  |
 | November 8 | []() |  |  |
@@ -39,4 +39,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
 | Medium | 3 | 3 | 0 |
-| Hard   |  |  |  |
+| Hard   | 1 | 1 | 0 |
