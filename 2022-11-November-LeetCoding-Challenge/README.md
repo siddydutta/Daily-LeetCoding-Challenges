@@ -9,7 +9,7 @@
 | November 4 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | Solved |
 | November 5 | [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | Hard | Solved |
 | November 6 | [899. Orderly Queue](https://leetcode.com/problems/orderly-queue/) | Hard | Solved |
-| November 7 | []() |  |  |
+| November 7 | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | Easy | Solved |
 | November 8 | []() |  |  |
 | November 9 | []() |  |  |
 | November 10 | []() |  |  |
@@ -37,6 +37,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 1 | 1 | 0 |
+| Easy   | 2 | 2 | 0 |
 | Medium | 3 | 3 | 0 |
 | Hard   | 2 | 2 | 0 |
