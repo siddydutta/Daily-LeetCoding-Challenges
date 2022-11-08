@@ -10,7 +10,7 @@
 | November 5 | [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | Hard | Solved |
 | November 6 | [899. Orderly Queue](https://leetcode.com/problems/orderly-queue/) | Hard | Solved |
 | November 7 | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | Easy | Solved |
-| November 8 | []() |  |  |
+| November 8 | [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) | Easy | Solved |
 | November 9 | []() |  |  |
 | November 10 | []() |  |  |
 | November 11 | []() |  |  |
@@ -37,6 +37,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 2 | 2 | 0 |
+| Easy   | 3 | 3 | 0 |
 | Medium | 3 | 3 | 0 |
 | Hard   | 2 | 2 | 0 |
