@@ -12,7 +12,7 @@
 | November 7 | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | Easy | Solved |
 | November 8 | [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) | Easy | Solved |
 | November 9 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | Solved |
-| November 10 | []() |  |  |
+| November 10 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | Solved |
 | November 11 | []() |  |  |
 | November 12 | []() |  |  |
 | November 13 | []() |  |  |
@@ -37,6 +37,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 3 | 3 | 0 |
+| Easy   | 4 | 4 | 0 |
 | Medium | 4 | 4 | 0 |
 | Hard   | 2 | 2 | 0 |
