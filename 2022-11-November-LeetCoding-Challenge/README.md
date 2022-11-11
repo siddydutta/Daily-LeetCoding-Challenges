@@ -13,7 +13,7 @@
 | November 8 | [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) | Easy | Solved |
 | November 9 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | Solved |
 | November 10 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | Solved |
-| November 11 | []() |  |  |
+| November 11 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Solved |
 | November 12 | []() |  |  |
 | November 13 | []() |  |  |
 | November 14 | []() |  |  |
@@ -37,6 +37,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 4 | 4 | 0 |
+| Easy   | 5 | 5 | 0 |
 | Medium | 4 | 4 | 0 |
 | Hard   | 2 | 2 | 0 |
