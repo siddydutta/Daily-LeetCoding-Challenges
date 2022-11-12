@@ -14,7 +14,7 @@
 | November 9 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | Solved |
 | November 10 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | Solved |
 | November 11 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Solved |
-| November 12 | []() |  |  |
+| November 12 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | Solved |
 | November 13 | []() |  |  |
 | November 14 | []() |  |  |
 | November 15 | []() |  |  |
@@ -39,4 +39,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
 | Medium | 4 | 4 | 0 |
-| Hard   | 2 | 2 | 0 |
+| Hard   | 3 | 3 | 0 |
