@@ -15,7 +15,7 @@
 | November 10 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | Solved |
 | November 11 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Solved |
 | November 12 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | Solved |
-| November 13 | []() |  |  |
+| November 13 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Solved |
 | November 14 | []() |  |  |
 | November 15 | []() |  |  |
 | November 16 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 4 | 4 | 0 |
+| Medium | 5 | 5 | 0 |
 | Hard   | 3 | 3 | 0 |
