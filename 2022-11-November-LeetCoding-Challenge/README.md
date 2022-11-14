@@ -16,7 +16,7 @@
 | November 11 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Solved |
 | November 12 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | Solved |
 | November 13 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Solved |
-| November 14 | []() |  |  |
+| November 14 | [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | Medium | Unsolved |
 | November 15 | []() |  |  |
 | November 16 | []() |  |  |
 | November 17 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 5 | 5 | 0 |
+| Medium | 6 | 5 | 1 |
 | Hard   | 3 | 3 | 0 |
