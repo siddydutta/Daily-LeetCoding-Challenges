@@ -18,7 +18,7 @@
 | November 13 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Solved |
 | November 14 | [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | Medium | Unsolved |
 | November 15 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | Solved |
-| November 16 | []() |  |  |
+| November 16 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | Solved |
 | November 17 | []() |  |  |
 | November 18 | []() |  |  |
 | November 19 | []() |  |  |
@@ -37,6 +37,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 5 | 5 | 0 |
+| Easy   | 6 | 6 | 0 |
 | Medium | 7 | 6 | 1 |
 | Hard   | 3 | 3 | 0 |
