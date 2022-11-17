@@ -19,7 +19,7 @@
 | November 14 | [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | Medium | Unsolved |
 | November 15 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | Solved |
 | November 16 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | Solved |
-| November 17 | []() |  |  |
+| November 17 | [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/) | Medium | Solved |
 | November 18 | []() |  |  |
 | November 19 | []() |  |  |
 | November 20 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 7 | 6 | 1 |
+| Medium | 8 | 7 | 1 |
 | Hard   | 3 | 3 | 0 |
