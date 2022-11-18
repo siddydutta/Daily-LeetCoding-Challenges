@@ -20,7 +20,7 @@
 | November 15 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | Solved |
 | November 16 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | Solved |
 | November 17 | [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/) | Medium | Solved |
-| November 18 | []() |  |  |
+| November 18 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy | Solved |
 | November 19 | []() |  |  |
 | November 20 | []() |  |  |
 | November 21 | []() |  |  |
@@ -37,6 +37,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 6 | 6 | 0 |
+| Easy   | 7 | 7 | 0 |
 | Medium | 8 | 7 | 1 |
 | Hard   | 3 | 3 | 0 |
