@@ -21,7 +21,7 @@
 | November 16 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | Solved |
 | November 17 | [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/) | Medium | Solved |
 | November 18 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy | Solved |
-| November 19 | []() |  |  |
+| November 19 | [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | Hard | Unsolved |
 | November 20 | []() |  |  |
 | November 21 | []() |  |  |
 | November 22 | []() |  |  |
@@ -39,4 +39,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
 | Medium | 8 | 7 | 1 |
-| Hard   | 3 | 3 | 0 |
+| Hard   | 4 | 3 | 1 |
