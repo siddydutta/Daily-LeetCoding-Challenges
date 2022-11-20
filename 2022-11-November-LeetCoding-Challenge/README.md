@@ -22,7 +22,7 @@
 | November 17 | [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/) | Medium | Solved |
 | November 18 | [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy | Solved |
 | November 19 | [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | Hard | Unsolved |
-| November 20 | []() |  |  |
+| November 20 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | Solved |
 | November 21 | []() |  |  |
 | November 22 | []() |  |  |
 | November 23 | []() |  |  |
@@ -39,4 +39,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
 | Medium | 8 | 7 | 1 |
-| Hard   | 4 | 3 | 1 |
+| Hard   | 5 | 4 | 1 |
