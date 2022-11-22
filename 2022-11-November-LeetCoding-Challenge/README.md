@@ -24,7 +24,7 @@
 | November 19 | [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | Hard | Unsolved |
 | November 20 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | Solved |
 | November 21 | [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Medium | Solved |
-| November 22 | []() |  |  |
+| November 22 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | Solved |
 | November 23 | []() |  |  |
 | November 24 | []() |  |  |
 | November 25 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
-| Medium | 9 | 8 | 1 |
+| Medium | 10 | 9 | 1 |
 | Hard   | 5 | 4 | 1 |
