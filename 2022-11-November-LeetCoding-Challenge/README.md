@@ -27,7 +27,7 @@
 | November 22 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | Solved |
 | November 23 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Solved |
 | November 24 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | Solved |
-| November 25 | []() |  |  |
+| November 25 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | Unsolved |
 | November 26 | []() |  |  |
 | November 27 | []() |  |  |
 | November 28 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
-| Medium | 12 | 11 | 1 |
+| Medium | 13 | 11 | 2 |
 | Hard   | 5 | 4 | 1 |
