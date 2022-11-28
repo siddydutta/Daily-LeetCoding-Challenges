@@ -29,7 +29,7 @@
 | November 24 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | Solved |
 | November 25 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | Unsolved |
 | November 26 | [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard | Solved |
-| November 27 | []() |  |  |
+| November 27 | [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | Hard | Unsolved |
 | November 28 | []() |  |  |
 | November 29 | []() |  |  |
 | November 30 | []() |  |  |
@@ -39,4 +39,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
 | Medium | 13 | 11 | 2 |
-| Hard   | 6 | 5 | 1 |
+| Hard   | 7 | 5 | 2 |
