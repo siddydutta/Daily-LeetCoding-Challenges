@@ -30,7 +30,7 @@
 | November 25 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | Unsolved |
 | November 26 | [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard | Solved |
 | November 27 | [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | Hard | Unsolved |
-| November 28 | []() |  |  |
+| November 28 | [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | Medium | Solved |
 | November 29 | []() |  |  |
 | November 30 | []() |  |  |
 
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
-| Medium | 13 | 11 | 2 |
+| Medium | 14 | 12 | 2 |
 | Hard   | 7 | 5 | 2 |
