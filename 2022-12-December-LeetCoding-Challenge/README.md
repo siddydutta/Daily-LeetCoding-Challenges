@@ -3,7 +3,7 @@
 ## Questions
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
-| December 1 | []() |  |  |
+| December 1 | [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy | Solved |
 | December 2 | []() |  |  |
 | December 3 | []() |  |  |
 | December 4 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 0 | 0 | 0 |
+| Easy   | 1 | 1 | 0 |
 | Medium | 0 | 0 | 0 |
 | Hard   | 0 | 0 | 0 |
