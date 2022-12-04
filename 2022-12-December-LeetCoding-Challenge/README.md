@@ -6,7 +6,7 @@
 | December 1 | [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy | Solved |
 | December 2 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | Solved |
 | December 3 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | Solved |
-| December 4 | []() |  |  |
+| December 4 | [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | Medium | Solved |
 | December 5 | []() |  |  |
 | December 6 | []() |  |  |
 | December 7 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 2 | 2 | 0 |
+| Medium | 3 | 3 | 0 |
 | Hard   | 0 | 0 | 0 |
