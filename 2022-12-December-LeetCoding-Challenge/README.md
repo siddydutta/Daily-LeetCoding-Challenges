@@ -7,7 +7,7 @@
 | December 2 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | Solved |
 | December 3 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | Solved |
 | December 4 | [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | Medium | Solved |
-| December 5 | []() |  |  |
+| December 5 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | Solved |
 | December 6 | []() |  |  |
 | December 7 | []() |  |  |
 | December 8 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 1 | 1 | 0 |
+| Easy   | 2 | 2 | 0 |
 | Medium | 3 | 3 | 0 |
 | Hard   | 0 | 0 | 0 |
