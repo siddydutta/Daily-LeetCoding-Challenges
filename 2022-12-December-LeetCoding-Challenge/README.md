@@ -8,7 +8,7 @@
 | December 3 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | Solved |
 | December 4 | [2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | Medium | Solved |
 | December 5 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | Solved |
-| December 6 | []() |  |  |
+| December 6 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | Solved |
 | December 7 | []() |  |  |
 | December 8 | []() |  |  |
 | December 9 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 3 | 3 | 0 |
+| Medium | 4 | 4 | 0 |
 | Hard   | 0 | 0 | 0 |
