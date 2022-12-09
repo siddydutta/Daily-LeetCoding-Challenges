@@ -11,7 +11,7 @@
 | December 6 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | Solved |
 | December 7 | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | Solved |
 | December 8 | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | Solved |
-| December 9 | []() |  |  |
+| December 9 | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Medium | Solved |
 | December 10 | []() |  |  |
 | December 11 | []() |  |  |
 | December 12 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 4 | 4 | 0 |
+| Medium | 5 | 5 | 0 |
 | Hard   | 0 | 0 | 0 |
