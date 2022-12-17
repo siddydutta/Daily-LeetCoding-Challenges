@@ -19,7 +19,7 @@
 | December 14 | []() |  |  |
 | December 15 | []() |  |  |
 | December 16 | []() |  |  |
-| December 17 | []() |  |  |
+| December 17 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | Solved |
 | December 18 | []() |  |  |
 | December 19 | []() |  |  |
 | December 20 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 5 | 5 | 0 |
+| Medium | 6 | 6 | 0 |
 | Hard   | 0 | 0 | 0 |
