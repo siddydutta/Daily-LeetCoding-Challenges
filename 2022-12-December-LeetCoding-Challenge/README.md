@@ -29,7 +29,7 @@
 | December 24 | []() |  |  |
 | December 25 | []() |  |  |
 | December 26 | []() |  |  |
-| December 27 | []() |  |  |
+| December 27 | [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | Medium | Solved |
 | December 28 | []() |  |  |
 | December 29 | []() |  |  |
 | December 30 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 6 | 6 | 0 |
+| Medium | 7 | 7 | 0 |
 | Hard   | 0 | 0 | 0 |
