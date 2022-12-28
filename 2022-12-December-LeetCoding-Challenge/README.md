@@ -30,7 +30,7 @@
 | December 25 | []() |  |  |
 | December 26 | []() |  |  |
 | December 27 | [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | Medium | Solved |
-| December 28 | []() |  |  |
+| December 28 | [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | Medium | Solved |
 | December 29 | []() |  |  |
 | December 30 | []() |  |  |
 | December 31 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 7 | 7 | 0 |
+| Medium | 8 | 8 | 0 |
 | Hard   | 0 | 0 | 0 |
