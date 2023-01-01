@@ -3,7 +3,7 @@
 ## Questions
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
-| January 1 | []() |  |  |
+| January 1 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | Solved |
 | January 2 | []() |  |  |
 | January 3 | []() |  |  |
 | January 4 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 0 | 0 | 0 |
+| Easy   | 1 | 1 | 0 |
 | Medium | 0 | 0 | 0 |
 | Hard   | 0 | 0 | 0 |
