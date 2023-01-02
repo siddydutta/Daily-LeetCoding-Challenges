@@ -4,7 +4,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | January 1 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | Solved |
-| January 2 | []() |  |  |
+| January 2 | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) | Easy | Solved |
 | January 3 | []() |  |  |
 | January 4 | []() |  |  |
 | January 5 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 1 | 1 | 0 |
+| Easy   | 2 | 2 | 0 |
 | Medium | 0 | 0 | 0 |
 | Hard   | 0 | 0 | 0 |
