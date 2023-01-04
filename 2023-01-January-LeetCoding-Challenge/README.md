@@ -6,7 +6,7 @@
 | January 1 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | Solved |
 | January 2 | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) | Easy | Solved |
 | January 3 | [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Easy | Solved |
-| January 4 | []() |  |  |
+| January 4 | [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | Medium | Solved |
 | January 5 | []() |  |  |
 | January 6 | []() |  |  |
 | January 7 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 0 | 0 | 0 |
+| Medium | 1 | 1 | 0 |
 | Hard   | 0 | 0 | 0 |
