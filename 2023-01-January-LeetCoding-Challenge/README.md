@@ -8,7 +8,7 @@
 | January 3 | [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Easy | Solved |
 | January 4 | [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | Medium | Solved |
 | January 5 | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | Solved |
-| January 6 | []() |  |  |
+| January 6 | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Medium | Solved |
 | January 7 | []() |  |  |
 | January 8 | []() |  |  |
 | January 9 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 2 | 2 | 0 |
+| Medium | 3 | 3 | 0 |
 | Hard   | 0 | 0 | 0 |
