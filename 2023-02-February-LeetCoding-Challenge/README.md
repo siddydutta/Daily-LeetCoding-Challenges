@@ -4,7 +4,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | February 1 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | Unsolved |
-| February 2 | []() |  |  |
+| February 2 | [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | Easy | Solved |
 | February 3 | []() |  |  |
 | February 4 | []() |  |  |
 | February 5 | []() |  |  |
@@ -35,6 +35,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 1 | 0 | 1 |
+| Easy   | 2 | 1 | 1 |
 | Medium | 0 | 0 | 0 |
 | Hard   | 0 | 0 | 0 |
