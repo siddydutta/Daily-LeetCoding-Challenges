@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 | February 1 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | Unsolved |
 | February 2 | [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | Easy | Solved |
-| February 3 | []() |  |  |
+| February 3 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | Solved |
 | February 4 | []() |  |  |
 | February 5 | []() |  |  |
 | February 6 | []() |  |  |
@@ -36,5 +36,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 1 | 1 |
-| Medium | 0 | 0 | 0 |
+| Medium | 1 | 1 | 0 |
 | Hard   | 0 | 0 | 0 |
