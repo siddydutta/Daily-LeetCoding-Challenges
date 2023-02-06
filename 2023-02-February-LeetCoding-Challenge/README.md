@@ -7,7 +7,7 @@
 | February 2 | [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | Easy | Solved |
 | February 3 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | Solved |
 | February 4 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Solved |
-| February 5 | []() |  |  |
+| February 5 | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | Solved |
 | February 6 | []() |  |  |
 | February 7 | []() |  |  |
 | February 8 | []() |  |  |
@@ -36,5 +36,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 1 | 1 |
-| Medium | 2 | 2 | 0 |
+| Medium | 3 | 3 | 0 |
 | Hard   | 0 | 0 | 0 |
