@@ -9,7 +9,7 @@
 | February 4 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Solved |
 | February 5 | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | Solved |
 | February 6 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Easy | Solved |
-| February 7 | []() |  |  |
+| February 7 | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | Solved |
 | February 8 | []() |  |  |
 | February 9 | []() |  |  |
 | February 10 | []() |  |  |
@@ -36,5 +36,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 2 | 1 |
-| Medium | 3 | 3 | 0 |
+| Medium | 4 | 4 | 0 |
 | Hard   | 0 | 0 | 0 |
