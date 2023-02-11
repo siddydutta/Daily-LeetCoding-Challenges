@@ -13,7 +13,7 @@
 | February 8 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | Unsolved |
 | February 9 | [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/) | Hard | Unsolved |
 | February 10 | [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | Medium | Unsolved |
-| February 11 | []() |  |  |
+| February 11 | [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | Medium | Unsolved |
 | February 12 | []() |  |  |
 | February 13 | []() |  |  |
 | February 14 | []() |  |  |
@@ -36,5 +36,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 2 | 1 |
-| Medium | 6 | 4 | 2 |
+| Medium | 7 | 4 | 3 |
 | Hard   | 1 | 0 | 1 |
