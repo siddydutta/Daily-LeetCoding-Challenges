@@ -14,7 +14,7 @@
 | February 9 | [2306. Naming a Company](https://leetcode.com/problems/naming-a-company/) | Hard | Unsolved |
 | February 10 | [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | Medium | Unsolved |
 | February 11 | [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | Medium | Unsolved |
-| February 12 | []() |  |  |
+| February 12 | [2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) | Medium | Unsolved |
 | February 13 | []() |  |  |
 | February 14 | []() |  |  |
 | February 15 | []() |  |  |
@@ -36,5 +36,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 2 | 1 |
-| Medium | 7 | 4 | 3 |
+| Medium | 8 | 4 | 4 |
 | Hard   | 1 | 0 | 1 |
