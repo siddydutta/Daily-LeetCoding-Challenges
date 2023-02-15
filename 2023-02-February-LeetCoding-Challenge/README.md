@@ -17,7 +17,7 @@
 | February 12 | [2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) | Medium | Unsolved |
 | February 13 | [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | Solved |
 | February 14 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | Solved |
-| February 15 | []() |  |  |
+| February 15 | [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Easy | Solved |
 | February 16 | []() |  |  |
 | February 17 | []() |  |  |
 | February 18 | []() |  |  |
@@ -35,6 +35,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 5 | 4 | 1 |
+| Easy   | 6 | 5 | 1 |
 | Medium | 8 | 4 | 4 |
 | Hard   | 1 | 0 | 1 |
