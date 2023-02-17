@@ -19,7 +19,7 @@
 | February 14 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | Solved |
 | February 15 | [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Easy | Solved |
 | February 16 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Solved |
-| February 17 | []() |  |  |
+| February 17 | [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | Easy | Solved |
 | February 18 | []() |  |  |
 | February 19 | []() |  |  |
 | February 20 | []() |  |  |
@@ -35,6 +35,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 7 | 6 | 1 |
+| Easy   | 8 | 7 | 1 |
 | Medium | 8 | 4 | 4 |
 | Hard   | 1 | 0 | 1 |
