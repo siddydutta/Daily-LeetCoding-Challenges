@@ -22,7 +22,7 @@
 | February 17 | [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | Easy | Solved |
 | February 18 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Solved |
 | February 19 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | Solved |
-| February 20 | []() |  |  |
+| February 20 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Solved |
 | February 21 | []() |  |  |
 | February 22 | []() |  |  |
 | February 23 | []() |  |  |
@@ -35,6 +35,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 9 | 8 | 1 |
+| Easy   | 10 | 9 | 1 |
 | Medium | 9 | 5 | 4 |
 | Hard   | 1 | 0 | 1 |
