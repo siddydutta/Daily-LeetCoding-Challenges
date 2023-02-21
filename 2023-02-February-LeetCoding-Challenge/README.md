@@ -23,7 +23,7 @@
 | February 18 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Solved |
 | February 19 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | Solved |
 | February 20 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Solved |
-| February 21 | []() |  |  |
+| February 21 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | Solved |
 | February 22 | []() |  |  |
 | February 23 | []() |  |  |
 | February 24 | []() |  |  |
@@ -36,5 +36,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 10 | 9 | 1 |
-| Medium | 9 | 5 | 4 |
+| Medium | 10 | 6 | 4 |
 | Hard   | 1 | 0 | 1 |
