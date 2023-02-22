@@ -24,7 +24,7 @@
 | February 19 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | Solved |
 | February 20 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Solved |
 | February 21 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | Solved |
-| February 22 | []() |  |  |
+| February 22 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | Solved |
 | February 23 | []() |  |  |
 | February 24 | []() |  |  |
 | February 25 | []() |  |  |
@@ -36,5 +36,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 10 | 9 | 1 |
-| Medium | 10 | 6 | 4 |
+| Medium | 11 | 7 | 4 |
 | Hard   | 1 | 0 | 1 |
