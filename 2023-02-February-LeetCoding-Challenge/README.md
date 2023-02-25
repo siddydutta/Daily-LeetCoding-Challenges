@@ -25,9 +25,9 @@
 | February 20 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Solved |
 | February 21 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | Solved |
 | February 22 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | Solved |
-| February 23 | []() |  |  |
-| February 24 | []() |  |  |
-| February 25 | []() |  |  |
+| February 23 | [502. IPO](https://leetcode.com/problems/ipo/) | Hard | Unsolved |
+| February 24 | [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | Hard | Unsolved |
+| February 25 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Solved |
 | February 26 | []() |  |  |
 | February 27 | []() |  |  |
 | February 28 | []() |  |  |
@@ -35,6 +35,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 10 | 9 | 1 |
+| Easy   | 11 | 10 | 1 |
 | Medium | 11 | 7 | 4 |
-| Hard   | 1 | 0 | 1 |
+| Hard   | 3 | 0 | 3 |
