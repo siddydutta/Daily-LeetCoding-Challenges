@@ -28,13 +28,13 @@
 | February 23 | [502. IPO](https://leetcode.com/problems/ipo/) | Hard | Unsolved |
 | February 24 | [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | Hard | Unsolved |
 | February 25 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Solved |
-| February 26 | []() |  |  |
-| February 27 | []() |  |  |
+| February 26 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | Unsolved |
+| February 27 | [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | Medium | Solved |
 | February 28 | []() |  |  |
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 11 | 10 | 1 |
-| Medium | 11 | 7 | 4 |
-| Hard   | 3 | 0 | 3 |
+| Medium | 12 | 8 | 4 |
+| Hard   | 4 | 0 | 4 |
