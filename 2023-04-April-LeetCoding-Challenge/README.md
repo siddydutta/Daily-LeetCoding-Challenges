@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 | April 1 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Solved |
 | April 2 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | Medium | Unsolved |
-| April 3 | []() |  |  |
+| April 3 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | Solved |
 | April 4 | []() |  |  |
 | April 5 | []() |  |  |
 | April 6 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 1 | 0 | 1 |
+| Medium | 2 | 1 | 1 |
 | Hard   | 0 | 0 | 0 |
