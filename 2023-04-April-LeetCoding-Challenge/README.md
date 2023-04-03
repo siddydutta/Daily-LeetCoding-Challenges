@@ -4,7 +4,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | April 1 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Solved |
-| April 2 | []() |  |  |
+| April 2 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | Medium | Unsolved |
 | April 3 | []() |  |  |
 | April 4 | []() |  |  |
 | April 5 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 0 | 0 | 0 |
+| Medium | 1 | 0 | 1 |
 | Hard   | 0 | 0 | 0 |
