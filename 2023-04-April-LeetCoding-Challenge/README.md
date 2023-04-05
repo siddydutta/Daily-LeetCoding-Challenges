@@ -7,7 +7,7 @@
 | April 2 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | Medium | Unsolved |
 | April 3 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | Solved |
 | April 4 | [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) | Medium | Solved |
-| April 5 | []() |  |  |
+| April 5 | [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | Medium | Unsolved |
 | April 6 | []() |  |  |
 | April 7 | []() |  |  |
 | April 8 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 3 | 2 | 1 |
+| Medium | 4 | 2 | 2 |
 | Hard   | 0 | 0 | 0 |
