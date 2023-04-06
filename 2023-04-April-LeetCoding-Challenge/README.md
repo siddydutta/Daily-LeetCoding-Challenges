@@ -8,7 +8,7 @@
 | April 3 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | Solved |
 | April 4 | [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) | Medium | Solved |
 | April 5 | [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | Medium | Unsolved |
-| April 6 | []() |  |  |
+| April 6 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium | Unsolved |
 | April 7 | []() |  |  |
 | April 8 | []() |  |  |
 | April 9 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 4 | 2 | 2 |
+| Medium | 5 | 2 | 3 |
 | Hard   | 0 | 0 | 0 |
