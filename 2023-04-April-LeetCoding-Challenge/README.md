@@ -10,7 +10,7 @@
 | April 5 | [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | Medium | Unsolved |
 | April 6 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium | Unsolved |
 | April 7 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium | Unsolved |
-| April 8 | []() |  |  |
+| April 8 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | Solved |
 | April 9 | []() |  |  |
 | April 10 | []() |  |  |
 | April 11 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 6 | 2 | 4 |
+| Medium | 7 | 3 | 4 |
 | Hard   | 0 | 0 | 0 |
