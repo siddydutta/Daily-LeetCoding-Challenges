@@ -12,7 +12,7 @@
 | April 7 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium | Unsolved |
 | April 8 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | Solved |
 | April 9 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | Hard | Unsolved |
-| April 10 | []() |  |  |
+| April 10 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Solved |
 | April 11 | []() |  |  |
 | April 12 | []() |  |  |
 | April 13 | []() |  |  |
@@ -37,6 +37,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 1 | 1 | 0 |
+| Easy   | 2 | 2 | 0 |
 | Medium | 7 | 3 | 4 |
 | Hard   | 1 | 0 | 1 |
