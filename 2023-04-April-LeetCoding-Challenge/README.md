@@ -13,7 +13,7 @@
 | April 8 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | Solved |
 | April 9 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | Hard | Unsolved |
 | April 10 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Solved |
-| April 11 | []() |  |  |
+| April 11 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | Solved |
 | April 12 | []() |  |  |
 | April 13 | []() |  |  |
 | April 14 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 7 | 3 | 4 |
+| Medium | 8 | 4 | 4 |
 | Hard   | 1 | 0 | 1 |
