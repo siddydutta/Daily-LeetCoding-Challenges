@@ -15,7 +15,7 @@
 | April 10 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Solved |
 | April 11 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | Solved |
 | April 12 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | Solved |
-| April 13 | []() |  |  |
+| April 13 | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | Solved |
 | April 14 | []() |  |  |
 | April 15 | []() |  |  |
 | April 16 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 9 | 5 | 4 |
+| Medium | 10 | 6 | 4 |
 | Hard   | 1 | 0 | 1 |
