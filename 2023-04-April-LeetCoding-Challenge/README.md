@@ -17,7 +17,7 @@
 | April 12 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | Solved |
 | April 13 | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | Solved |
 | April 14 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | Solved |
-| April 15 | []() |  |  |
+| April 15 | [2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) | Hard | Solved |
 | April 16 | []() |  |  |
 | April 17 | []() |  |  |
 | April 18 | []() |  |  |
@@ -39,4 +39,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
 | Medium | 12 | 7 | 6 |
-| Hard   | 1 | 0 | 1 |
+| Hard   | 2 | 1 | 1 |
