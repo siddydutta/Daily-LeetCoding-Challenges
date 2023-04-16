@@ -18,7 +18,7 @@
 | April 13 | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | Solved |
 | April 14 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | Solved |
 | April 15 | [2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) | Hard | Solved |
-| April 16 | []() |  |  |
+| April 16 | [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard | Unsolved |
 | April 17 | []() |  |  |
 | April 18 | []() |  |  |
 | April 19 | []() |  |  |
@@ -39,4 +39,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
 | Medium | 12 | 7 | 6 |
-| Hard   | 2 | 1 | 1 |
+| Hard   | 3 | 2 | 1 |
