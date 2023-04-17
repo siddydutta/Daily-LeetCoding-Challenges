@@ -19,7 +19,7 @@
 | April 14 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | Solved |
 | April 15 | [2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) | Hard | Solved |
 | April 16 | [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard | Unsolved |
-| April 17 | []() |  |  |
+| April 17 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | Solved |
 | April 18 | []() |  |  |
 | April 19 | []() |  |  |
 | April 20 | []() |  |  |
@@ -37,6 +37,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 2 | 2 | 0 |
+| Easy   | 3 | 3 | 0 |
 | Medium | 12 | 7 | 6 |
 | Hard   | 3 | 2 | 1 |
