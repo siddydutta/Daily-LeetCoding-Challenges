@@ -21,7 +21,7 @@
 | April 16 | [1639. Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard | Unsolved |
 | April 17 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | Solved |
 | April 18 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | Solved |
-| April 19 | []() |  |  |
+| April 19 | [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium | Solved |
 | April 20 | []() |  |  |
 | April 21 | []() |  |  |
 | April 22 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 12 | 7 | 6 |
+| Medium | 13 | 8 | 6 |
 | Hard   | 3 | 2 | 1 |
