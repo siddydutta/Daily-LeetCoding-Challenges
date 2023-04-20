@@ -22,7 +22,7 @@
 | April 17 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | Solved |
 | April 18 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | Solved |
 | April 19 | [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium | Solved |
-| April 20 | []() |  |  |
+| April 20 | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | Medium | Unsolved |
 | April 21 | []() |  |  |
 | April 22 | []() |  |  |
 | April 23 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 13 | 8 | 6 |
+| Medium | 13 | 8 | 5 |
 | Hard   | 3 | 2 | 1 |
