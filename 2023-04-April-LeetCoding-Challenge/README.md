@@ -26,7 +26,7 @@
 | April 21 | [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | Hard | Unsolved |
 | April 22 | [1312. Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Hard | Unsolved |
 | April 23 | [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/) | Hard | Unsolved |
-| April 24 | []() |  |  |
+| April 24 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | Solved |
 | April 25 | []() |  |  |
 | April 26 | []() |  |  |
 | April 27 | []() |  |  |
@@ -37,6 +37,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 4 | 4 | 0 |
+| Easy   | 5 | 5 | 0 |
 | Medium | 13 | 8 | 5 |
 | Hard   | 6 | 2 | 4 |
