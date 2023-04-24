@@ -25,7 +25,7 @@
 | April 20 | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | Medium | Unsolved |
 | April 21 | [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | Hard | Unsolved |
 | April 22 | [1312. Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Hard | Unsolved |
-| April 23 | []() |  |  |
+| April 23 | [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/) | Hard | Unsolved |
 | April 24 | []() |  |  |
 | April 25 | []() |  |  |
 | April 26 | []() |  |  |
@@ -39,4 +39,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
 | Medium | 13 | 8 | 5 |
-| Hard   | 5 | 2 | 3 |
+| Hard   | 6 | 2 | 4 |
