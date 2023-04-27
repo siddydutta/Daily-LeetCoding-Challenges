@@ -29,7 +29,7 @@
 | April 24 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | Solved |
 | April 25 | [2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | Medium | Solved |
 | April 26 | [258. Add Digits](https://leetcode.com/problems/add-digits/) | Easy | Solved |
-| April 27 | []() |  |  |
+| April 27 | [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | Medium | Unsolved |
 | April 28 | []() |  |  |
 | April 29 | []() |  |  |
 | April 30 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 14 | 9 | 5 |
+| Medium | 15 | 9 | 6 |
 | Hard   | 6 | 2 | 4 |
