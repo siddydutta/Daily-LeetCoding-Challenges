@@ -30,7 +30,7 @@
 | April 25 | [2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | Medium | Solved |
 | April 26 | [258. Add Digits](https://leetcode.com/problems/add-digits/) | Easy | Solved |
 | April 27 | [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | Medium | Unsolved |
-| April 28 | []() |  |  |
+| April 28 | [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | Hard | Unsolved |
 | April 29 | []() |  |  |
 | April 30 | []() |  |  |
 
@@ -39,4 +39,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
 | Medium | 15 | 9 | 6 |
-| Hard   | 6 | 2 | 4 |
+| Hard   | 7 | 2 | 5 |
