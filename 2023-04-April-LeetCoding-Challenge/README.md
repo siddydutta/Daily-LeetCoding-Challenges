@@ -32,11 +32,11 @@
 | April 27 | [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | Medium | Unsolved |
 | April 28 | [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | Hard | Unsolved |
 | April 29 | [1697. Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | Hard | Unsolved |
-| April 30 | []() |  |  |
+| April 30 | [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard | Unsolved |
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
 | Medium | 15 | 9 | 6 |
-| Hard   | 8 | 2 | 6 |
+| Hard   | 9 | 2 | 7 |
