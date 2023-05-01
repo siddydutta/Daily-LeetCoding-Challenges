@@ -31,7 +31,7 @@
 | April 26 | [258. Add Digits](https://leetcode.com/problems/add-digits/) | Easy | Solved |
 | April 27 | [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | Medium | Unsolved |
 | April 28 | [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | Hard | Unsolved |
-| April 29 | []() |  |  |
+| April 29 | [1697. Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | Hard | Unsolved |
 | April 30 | []() |  |  |
 
 ## Summary
@@ -39,4 +39,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
 | Medium | 15 | 9 | 6 |
-| Hard   | 7 | 2 | 5 |
+| Hard   | 8 | 2 | 6 |
