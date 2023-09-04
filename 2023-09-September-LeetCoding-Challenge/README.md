@@ -6,7 +6,7 @@
 | September 1 | []() |  |  |
 | September 2 | [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | Medium | Solved |
 | September 3 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | Solved |
-| September 4 | []() |  |  |
+| September 4 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Solved |
 | September 5 | []() |  |  |
 | September 6 | []() |  |  |
 | September 7 | []() |  |  |
@@ -36,6 +36,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 0 | 0 | 0 |
+| Easy   | 1 | 1 | 0 |
 | Medium | 2 | 2 | 0 |
 | Hard   | 0 | 0 | 0 |
