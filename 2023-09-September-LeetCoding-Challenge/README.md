@@ -8,7 +8,7 @@
 | September 3 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | Solved |
 | September 4 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Solved |
 | September 5 | []() |  |  |
-| September 6 | []() |  |  |
+| September 6 | [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium | Solved |
 | September 7 | []() |  |  |
 | September 8 | []() |  |  |
 | September 9 | []() |  |  |
@@ -37,5 +37,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 2 | 2 | 0 |
+| Medium | 3 | 3 | 0 |
 | Hard   | 0 | 0 | 0 |
