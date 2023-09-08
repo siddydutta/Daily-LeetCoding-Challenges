@@ -10,7 +10,7 @@
 | September 5 | []() |  |  |
 | September 6 | [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium | Solved |
 | September 7 | []() |  |  |
-| September 8 | []() |  |  |
+| September 8 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | Solved |
 | September 9 | []() |  |  |
 | September 10 | []() |  |  |
 | September 11 | []() |  |  |
@@ -33,9 +33,10 @@
 | September 28 | []() |  |  |
 | September 29 | []() |  |  |
 | September 30 | []() |  |  |
+
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 1 | 1 | 0 |
+| Easy   | 2 | 2 | 0 |
 | Medium | 3 | 3 | 0 |
 | Hard   | 0 | 0 | 0 |
