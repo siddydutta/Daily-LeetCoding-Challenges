@@ -11,7 +11,7 @@
 | September 6 | [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium | Solved |
 | September 7 | []() |  |  |
 | September 8 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | Solved |
-| September 9 | []() |  |  |
+| September 9 | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | Solved |
 | September 10 | []() |  |  |
 | September 11 | []() |  |  |
 | September 12 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 3 | 3 | 0 |
+| Medium | 4 | 4 | 0 |
 | Hard   | 0 | 0 | 0 |
