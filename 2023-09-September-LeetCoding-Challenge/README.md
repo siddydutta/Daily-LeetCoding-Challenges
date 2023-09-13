@@ -15,7 +15,7 @@
 | September 10 | []() |  |  |
 | September 11 | [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | Medium | Solved |
 | September 12 | [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | Medium | Solved |
-| September 13 | []() |  |  |
+| September 13 | [135. Candy](https://leetcode.com/problems/candy/) | Hard | Solved |
 | September 14 | []() |  |  |
 | September 15 | []() |  |  |
 | September 16 | []() |  |  |
@@ -39,4 +39,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
 | Medium | 6 | 6 | 0 |
-| Hard   | 0 | 0 | 0 |
+| Hard   | 1 | 1 | 0 |
