@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 | October 1 | []() |  |  |
 | October 2 | [2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium | Unsolved |
-| October 3 | []() |  |  |
+| October 3 | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Easy | Solved |
 | October 4 | []() |  |  |
 | October 5 | []() |  |  |
 | October 6 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 0 | 0 | 0 |
+| Easy   | 1 | 1 | 0 |
 | Medium | 1 | 0 | 1 |
 | Hard   | 0 | 0 | 0 |
