@@ -13,7 +13,7 @@
 | October 8 | []() |  |  |
 | October 9 | []() |  |  |
 | October 10 | []() |  |  |
-| October 11 | []() |  |  |
+| October 11 | [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | Hard | Solved |
 | October 12 | []() |  |  |
 | October 13 | []() |  |  |
 | October 14 | []() |  |  |
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
 | Medium | 1 | 0 | 1 |
-| Hard   | 0 | 0 | 0 |
+| Hard   | 1 | 1 | 0 |
