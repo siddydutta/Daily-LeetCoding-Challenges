@@ -26,7 +26,7 @@
 | October 21 | []() |  |  |
 | October 22 | []() |  |  |
 | October 23 | []() |  |  |
-| October 24 | []() |  |  |
+| October 24 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Medium | Solved |
 | October 25 | []() |  |  |
 | October 26 | []() |  |  |
 | October 27 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 1 | 0 | 1 |
+| Medium | 2 | 1 | 1 |
 | Hard   | 1 | 1 | 0 |
