@@ -27,7 +27,7 @@
 | October 22 | []() |  |  |
 | October 23 | []() |  |  |
 | October 24 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Medium | Solved |
-| October 25 | []() |  |  |
+| October 25 | [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | Medium | Unsolved |
 | October 26 | []() |  |  |
 | October 27 | []() |  |  |
 | October 28 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 2 | 1 | 1 |
+| Medium | 3 | 2 | 1 |
 | Hard   | 1 | 1 | 0 |
