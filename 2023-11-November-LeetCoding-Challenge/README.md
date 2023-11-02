@@ -4,7 +4,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | November 1 | [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | Easy | Solved |
-| November 2 | []() |  |  |
+| November 2 | [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | Solved |
 | November 3 | []() |  |  |
 | November 4 | []() |  |  |
 | November 5 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 0 | 0 | 0 |
+| Medium | 1 | 1 | 0 |
 | Hard   | 0 | 0 | 0 |
