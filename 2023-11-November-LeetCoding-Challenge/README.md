@@ -6,8 +6,8 @@
 | November 1 | [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | Easy | Solved |
 | November 2 | [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | Solved |
 | November 3 | [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Medium | Solved |
-| November 4 | []() |  |  |
-| November 5 | []() |  |  |
+| November 4 | [1503. Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Medium | Unsolved |
+| November 5 | [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | Medium | Solved |
 | November 6 | []() |  |  |
 | November 7 | []() |  |  |
 | November 8 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 2 | 2 | 0 |
+| Medium | 4 | 3 | 1 |
 | Hard   | 0 | 0 | 0 |
