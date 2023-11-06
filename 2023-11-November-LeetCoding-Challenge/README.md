@@ -8,7 +8,7 @@
 | November 3 | [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Medium | Solved |
 | November 4 | [1503. Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Medium | Unsolved |
 | November 5 | [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | Medium | Solved |
-| November 6 | []() |  |  |
+| November 6 | [1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | Medium | Solved |
 | November 7 | []() |  |  |
 | November 8 | []() |  |  |
 | November 9 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 4 | 3 | 1 |
+| Medium | 5 | 4 | 1 |
 | Hard   | 0 | 0 | 0 |
