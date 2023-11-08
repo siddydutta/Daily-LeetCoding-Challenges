@@ -10,7 +10,7 @@
 | November 5 | [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | Medium | Solved |
 | November 6 | [1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | Medium | Solved |
 | November 7 | [1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | Medium | Solved |
-| November 8 | []() |  |  |
+| November 8 | [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | Medium | Unsolved |
 | November 9 | []() |  |  |
 | November 10 | []() |  |  |
 | November 11 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 6 | 5 | 1 |
+| Medium | 7 | 5 | 2 |
 | Hard   | 0 | 0 | 0 |
