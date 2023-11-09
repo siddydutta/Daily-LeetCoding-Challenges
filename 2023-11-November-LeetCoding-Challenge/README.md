@@ -11,7 +11,7 @@
 | November 6 | [1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | Medium | Solved |
 | November 7 | [1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | Medium | Solved |
 | November 8 | [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | Medium | Unsolved |
-| November 9 | []() |  |  |
+| November 9 | [1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | Medium | Unsolved |
 | November 10 | []() |  |  |
 | November 11 | []() |  |  |
 | November 12 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 7 | 5 | 2 |
+| Medium | 8 | 5 | 3 |
 | Hard   | 0 | 0 | 0 |
