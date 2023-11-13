@@ -15,7 +15,7 @@
 | November 10 | [1743. Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | Medium | Solved |
 | November 11 | [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Hard | Solved |
 | November 12 | []() |  |  |
-| November 13 | []() |  |  |
+| November 13 | [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | Medium | Solved |
 | November 14 | []() |  |  |
 | November 15 | []() |  |  |
 | November 16 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 9 | 6 | 3 |
+| Medium | 10 | 7 | 3 |
 | Hard   | 1 | 1 | 0 |
