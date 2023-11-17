@@ -19,7 +19,7 @@
 | November 14 | []() |  |  |
 | November 15 | []() |  |  |
 | November 16 | []() |  |  |
-| November 17 | []() |  |  |
+| November 17 | [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Medium | Solved |
 | November 18 | []() |  |  |
 | November 19 | []() |  |  |
 | November 20 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 10 | 7 | 3 |
+| Medium | 11 | 8 | 3 |
 | Hard   | 1 | 1 | 0 |
