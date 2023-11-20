@@ -21,7 +21,7 @@
 | November 16 | []() |  |  |
 | November 17 | [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Medium | Solved |
 | November 18 | []() |  |  |
-| November 19 | []() |  |  |
+| November 19 | [1887. Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | Medium | Solved |
 | November 20 | []() |  |  |
 | November 21 | []() |  |  |
 | November 22 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 11 | 8 | 3 |
+| Medium | 12 | 9 | 3 |
 | Hard   | 1 | 1 | 0 |
