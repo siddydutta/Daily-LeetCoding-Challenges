@@ -26,7 +26,7 @@
 | November 21 | [1814. Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | Medium | Solved |
 | November 22 | [1424. Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | Medium | Solved |
 | November 23 | [1630. Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) | Medium | Solved |
-| November 24 | []() |  |  |
+| November 24 | [1561. Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Medium | Solved |
 | November 25 | []() |  |  |
 | November 26 | []() |  |  |
 | November 27 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 16 | 13 | 3 |
+| Medium | 17 | 14 | 3 |
 | Hard   | 1 | 1 | 0 |
