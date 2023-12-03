@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 | December 1 | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Easy | Solved |
 | December 2 | [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Easy | Solved |
-| December 3 | []() |  |  |
+| December 3 | [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Easy | Unsolved |
 | December 4 | []() |  |  |
 | December 5 | []() |  |  |
 | December 6 | []() |  |  |
@@ -40,6 +40,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 2 | 2 | 0 |
+| Easy   | 3 | 2 | 1 |
 | Medium | 0 | 0 | 0 |
 | Hard   | 0 | 0 | 0 |
