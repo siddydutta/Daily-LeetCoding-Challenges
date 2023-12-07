@@ -9,7 +9,7 @@
 | December 4 | [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | Easy | Solved |
 | December 5 | [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | Easy | Solved |
 | December 6 | [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | Easy | Solved |
-| December 7 | []() |  |  |
+| December 7 | [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | Easy | Solved |
 | December 8 | []() |  |  |
 | December 9 | []() |  |  |
 | December 10 | []() |  |  |
@@ -40,6 +40,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 6 | 5 | 1 |
+| Easy   | 7 | 6 | 1 |
 | Medium | 0 | 0 | 0 |
 | Hard   | 0 | 0 | 0 |
