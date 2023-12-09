@@ -11,7 +11,7 @@
 | December 6 | [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | Easy | Solved |
 | December 7 | [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | Easy | Solved |
 | December 8 | [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | Easy | Unsolved |
-| December 9 | []() |  |  |
+| December 9 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | Solved |
 | December 10 | []() |  |  |
 | December 11 | []() |  |  |
 | December 12 | []() |  |  |
@@ -40,6 +40,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 8 | 6 | 2 |
+| Easy   | 9 | 7 | 2 |
 | Medium | 0 | 0 | 0 |
 | Hard   | 0 | 0 | 0 |
