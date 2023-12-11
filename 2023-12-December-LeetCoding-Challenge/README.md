@@ -13,7 +13,7 @@
 | December 8 | [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | Easy | Unsolved |
 | December 9 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | Solved |
 | December 10 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy | Solved |
-| December 11 | []() |  |  |
+| December 11 | [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | Easy | Solved |
 | December 12 | []() |  |  |
 | December 13 | []() |  |  |
 | December 14 | []() |  |  |
@@ -40,6 +40,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 10 | 8 | 2 |
+| Easy   | 11 | 9 | 2 |
 | Medium | 0 | 0 | 0 |
 | Hard   | 0 | 0 | 0 |
