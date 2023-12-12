@@ -14,7 +14,7 @@
 | December 9 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | Solved |
 | December 10 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy | Solved |
 | December 11 | [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | Easy | Solved |
-| December 12 | []() |  |  |
+| December 12 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | Solved |
 | December 13 | []() |  |  |
 | December 14 | []() |  |  |
 | December 15 | []() |  |  |
@@ -40,6 +40,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 11 | 9 | 2 |
+| Easy   | 12 | 10 | 2 |
 | Medium | 0 | 0 | 0 |
 | Hard   | 0 | 0 | 0 |
