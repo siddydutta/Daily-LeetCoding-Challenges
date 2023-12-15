@@ -17,7 +17,7 @@
 | December 12 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | Solved |
 | December 13 | [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | Easy | Solved |
 | December 14 | [2482. Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Medium | Solved |
-| December 15 | []() |  |  |
+| December 15 | [1436. Destination City](https://leetcode.com/problems/destination-city/) | Easy | Solved |
 | December 16 | []() |  |  |
 | December 17 | []() |  |  |
 | December 18 | []() |  |  |
