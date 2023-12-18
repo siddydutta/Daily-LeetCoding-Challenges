@@ -20,7 +20,7 @@
 | December 15 | [1436. Destination City](https://leetcode.com/problems/destination-city/) | Easy | Solved |
 | December 16 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Solved |
 | December 17 | []() |  |  |
-| December 18 | []() |  |  |
+| December 18 | [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | Easy | Solved |
 | December 19 | []() |  |  |
 | December 20 | []() |  |  |
 | December 21 | []() |  |  |
@@ -40,6 +40,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 14 | 12 | 2 |
+| Easy   | 15 | 13 | 2 |
 | Medium | 1 | 1 | 0 |
 | Hard   | 0 | 0 | 0 |
