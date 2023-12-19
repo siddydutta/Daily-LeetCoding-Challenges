@@ -21,7 +21,7 @@
 | December 16 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Solved |
 | December 17 | []() |  |  |
 | December 18 | [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | Easy | Solved |
-| December 19 | []() |  |  |
+| December 19 | [661. Image Smoother](https://leetcode.com/problems/image-smoother/) | Easy | Solved |
 | December 20 | []() |  |  |
 | December 21 | []() |  |  |
 | December 22 | []() |  |  |
@@ -40,6 +40,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 15 | 13 | 2 |
+| Easy   | 16 | 14 | 2 |
 | Medium | 1 | 1 | 0 |
 | Hard   | 0 | 0 | 0 |
