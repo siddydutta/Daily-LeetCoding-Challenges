@@ -23,7 +23,7 @@
 | December 18 | [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | Easy | Solved |
 | December 19 | [661. Image Smoother](https://leetcode.com/problems/image-smoother/) | Easy | Solved |
 | December 20 | [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | Easy | Solved |
-| December 21 | []() |  |  |
+| December 21 | [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | Medium | Solved |
 | December 22 | []() |  |  |
 | December 23 | []() |  |  |
 | December 24 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 17 | 15 | 2 |
-| Medium | 1 | 1 | 0 |
+| Medium | 2 | 2 | 0 |
 | Hard   | 0 | 0 | 0 |
