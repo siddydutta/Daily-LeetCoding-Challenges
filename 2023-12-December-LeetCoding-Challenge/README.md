@@ -26,7 +26,7 @@
 | December 21 | [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | Medium | Solved |
 | December 22 | [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | Easy | Solved |
 | December 23 | [1496. Path Crossing](https://leetcode.com/problems/path-crossing/) | Easy | Solved |
-| December 24 | []() |  |  |
+| December 24 | [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Easy | Solved |
 | December 25 | []() |  |  |
 | December 26 | []() |  |  |
 | December 27 | []() |  |  |
@@ -40,6 +40,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 19 | 17 | 2 |
+| Easy   | 20 | 18 | 2 |
 | Medium | 2 | 2 | 0 |
 | Hard   | 0 | 0 | 0 |
