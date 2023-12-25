@@ -27,7 +27,7 @@
 | December 22 | [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | Easy | Solved |
 | December 23 | [1496. Path Crossing](https://leetcode.com/problems/path-crossing/) | Easy | Solved |
 | December 24 | [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Easy | Solved |
-| December 25 | []() |  |  |
+| December 25 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | Unsolved |
 | December 26 | []() |  |  |
 | December 27 | []() |  |  |
 | December 28 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 20 | 18 | 2 |
-| Medium | 2 | 2 | 0 |
+| Medium | 3 | 2 | 1 |
 | Hard   | 0 | 0 | 0 |
