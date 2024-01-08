@@ -10,7 +10,7 @@
 | January 5 | []() |  |  |
 | January 6 | []() |  |  |
 | January 7 | []() |  |  |
-| January 8 | []() |  |  |
+| January 8 | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | Solved |
 | January 9 | []() |  |  |
 | January 10 | []() |  |  |
 | January 11 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 1 | 1 | 0 |
+| Easy   | 2 | 2 | 0 |
 | Medium | 3 | 3 | 0 |
 | Hard   | 0 | 0 | 0 |
