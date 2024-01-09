@@ -11,7 +11,7 @@
 | January 6 | []() |  |  |
 | January 7 | []() |  |  |
 | January 8 | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | Solved |
-| January 9 | []() |  |  |
+| January 9 | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | Solved |
 | January 10 | []() |  |  |
 | January 11 | []() |  |  |
 | January 12 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 2 | 2 | 0 |
+| Easy   | 3 | 3 | 0 |
 | Medium | 3 | 3 | 0 |
 | Hard   | 0 | 0 | 0 |
