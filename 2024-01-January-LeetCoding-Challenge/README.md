@@ -13,7 +13,7 @@
 | January 8 | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | Solved |
 | January 9 | [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | Solved |
 | January 10 | [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Medium | Solved |
-| January 11 | []() |  |  |
+| January 11 | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Medium | Solved |
 | January 12 | []() |  |  |
 | January 13 | []() |  |  |
 | January 14 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 4 | 4 | 0 |
+| Medium | 5 | 5 | 0 |
 | Hard   | 0 | 0 | 0 |
