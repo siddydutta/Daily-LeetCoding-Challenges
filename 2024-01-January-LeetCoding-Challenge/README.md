@@ -15,7 +15,7 @@
 | January 10 | [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Medium | Solved |
 | January 11 | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Medium | Solved |
 | January 12 | [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy | Solved |
-| January 13 | []() |  |  |
+| January 13 | [1347. Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | Medium | Solved |
 | January 14 | []() |  |  |
 | January 15 | []() |  |  |
 | January 16 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 5 | 5 | 0 |
+| Medium | 6 | 6 | 0 |
 | Hard   | 0 | 0 | 0 |
