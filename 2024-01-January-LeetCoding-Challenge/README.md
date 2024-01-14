@@ -16,7 +16,7 @@
 | January 11 | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Medium | Solved |
 | January 12 | [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy | Solved |
 | January 13 | [1347. Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | Medium | Solved |
-| January 14 | []() |  |  |
+| January 14 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | Solved |
 | January 15 | []() |  |  |
 | January 16 | []() |  |  |
 | January 17 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 6 | 6 | 0 |
+| Medium | 7 | 7 | 0 |
 | Hard   | 0 | 0 | 0 |
