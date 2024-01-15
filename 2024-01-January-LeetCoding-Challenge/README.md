@@ -17,7 +17,7 @@
 | January 12 | [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy | Solved |
 | January 13 | [1347. Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | Medium | Solved |
 | January 14 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | Solved |
-| January 15 | []() |  |  |
+| January 15 | [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | Medium | Solved |
 | January 16 | []() |  |  |
 | January 17 | []() |  |  |
 | January 18 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 7 | 7 | 0 |
+| Medium | 8 | 8 | 0 |
 | Hard   | 0 | 0 | 0 |
