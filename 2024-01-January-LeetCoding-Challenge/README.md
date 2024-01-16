@@ -18,7 +18,7 @@
 | January 13 | [1347. Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | Medium | Solved |
 | January 14 | [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium | Solved |
 | January 15 | [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | Medium | Solved |
-| January 16 | []() |  |  |
+| January 16 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | Solved |
 | January 17 | []() |  |  |
 | January 18 | []() |  |  |
 | January 19 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 8 | 8 | 0 |
+| Medium | 9 | 9 | 0 |
 | Hard   | 0 | 0 | 0 |
