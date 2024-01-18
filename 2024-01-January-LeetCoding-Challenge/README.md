@@ -20,7 +20,7 @@
 | January 15 | [2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | Medium | Solved |
 | January 16 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | Solved |
 | January 17 | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | Solved |
-| January 18 | []() |  |  |
+| January 18 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Solved |
 | January 19 | []() |  |  |
 | January 20 | []() |  |  |
 | January 21 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 5 | 5 | 0 |
+| Easy   | 6 | 6 | 0 |
 | Medium | 9 | 9 | 0 |
 | Hard   | 0 | 0 | 0 |
