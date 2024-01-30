@@ -32,7 +32,7 @@
 | January 27 | []() |  |  |
 | January 28 | []() |  |  |
 | January 29 | []() |  |  |
-| January 30 | []() |  |  |
+| January 30 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | Medium | Solved |
 | January 31 | []() |  |  |
 
 
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 9 | 9 | 0 |
+| Medium | 10 | 10 | 0 |
 | Hard   | 0 | 0 | 0 |
