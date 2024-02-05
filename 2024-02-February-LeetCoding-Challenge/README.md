@@ -4,8 +4,8 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | February 1 | [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/) | Medium | Solved |
-| February 2 | []() |  |  |
-| February 3 | []() |  |  |
+| February 2 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/description/) | Medium | Solved |
+| February 3 | [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) | Medium | Unsolved |
 | February 4 | []() |  |  |
 | February 5 | []() |  |  |
 | February 6 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 0 | 0 | 0 |
-| Medium | 1 | 1 | 0 |
+| Medium | 3 | 2 | 1 |
 | Hard   | 0 | 0 | 0 |
