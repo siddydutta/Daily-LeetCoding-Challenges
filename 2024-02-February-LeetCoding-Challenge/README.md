@@ -7,7 +7,7 @@
 | February 2 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/description/) | Medium | Solved |
 | February 3 | [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) | Medium | Unsolved |
 | February 4 | []() |  |  |
-| February 5 | []() |  |  |
+| February 5 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | Easy | Solved |
 | February 6 | []() |  |  |
 | February 7 | []() |  |  |
 | February 8 | []() |  |  |
