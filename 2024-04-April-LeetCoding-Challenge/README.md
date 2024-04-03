@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 | April 1 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | Solved |
 | April 2 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | Solved |
-| April 3 | []() |  |  |
+| April 3 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | Solved |
 | April 4 | []() |  |  |
 | April 5 | []() |  |  |
 | April 6 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 0 | 0 | 0 |
+| Medium | 1 | 1 | 0 |
 | Hard   | 0 | 0 | 0 |
