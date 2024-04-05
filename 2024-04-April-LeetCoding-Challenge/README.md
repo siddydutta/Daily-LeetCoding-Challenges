@@ -7,7 +7,7 @@
 | April 2 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | Solved |
 | April 3 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | Solved |
 | April 4 | [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | Solved |
-| April 5 | []() |  |  |
+| April 5 | [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) | Easy | Solved |
 | April 6 | []() |  |  |
 | April 7 | []() |  |  |
 | April 8 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 3 | 3 | 0 |
+| Easy   | 4 | 4 | 0 |
 | Medium | 1 | 1 | 0 |
 | Hard   | 0 | 0 | 0 |
