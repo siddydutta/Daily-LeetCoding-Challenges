@@ -8,7 +8,7 @@
 | April 3 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | Solved |
 | April 4 | [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | Solved |
 | April 5 | [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) | Easy | Solved |
-| April 6 | []() |  |  |
+| April 6 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium | Solved |
 | April 7 | []() |  |  |
 | April 8 | []() |  |  |
 | April 9 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 1 | 1 | 0 |
+| Medium | 2 | 2 | 0 |
 | Hard   | 0 | 0 | 0 |
