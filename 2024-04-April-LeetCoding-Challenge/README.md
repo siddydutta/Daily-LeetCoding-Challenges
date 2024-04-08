@@ -10,7 +10,7 @@
 | April 5 | [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) | Easy | Solved |
 | April 6 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium | Solved |
 | April 7 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | Unsolved |
-| April 8 | []() |  |  |
+| April 8 | [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy | Solved |
 | April 9 | []() |  |  |
 | April 10 | []() |  |  |
 | April 11 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 4 | 4 | 0 |
+| Easy   | 5 | 5 | 0 |
 | Medium | 3 | 2 | 1 |
 | Hard   | 0 | 0 | 0 |
