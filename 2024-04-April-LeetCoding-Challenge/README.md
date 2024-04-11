@@ -13,7 +13,7 @@
 | April 8 | [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy | Solved |
 | April 9 | [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | Easy | Solved |
 | April 10 | [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | Medium | Unsolved |
-| April 11 | []() |  |  |
+| April 11 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | Unsolved |
 | April 12 | []() |  |  |
 | April 13 | []() |  |  |
 | April 14 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 4 | 2 | 2 |
+| Medium | 5 | 2 | 3 |
 | Hard   | 0 | 0 | 0 |
