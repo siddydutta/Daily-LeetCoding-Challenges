@@ -16,7 +16,7 @@
 | April 11 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | Unsolved |
 | April 12 | []() |  |  |
 | April 13 | []() |  |  |
-| April 14 | []() |  |  |
+| April 14 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | Solved |
 | April 15 | []() |  |  |
 | April 16 | []() |  |  |
 | April 17 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 6 | 6 | 0 |
+| Easy   | 7 | 7 | 0 |
 | Medium | 5 | 2 | 3 |
 | Hard   | 0 | 0 | 0 |
