@@ -18,7 +18,7 @@
 | April 13 | []() |  |  |
 | April 14 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | Solved |
 | April 15 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | Solved |
-| April 16 | []() |  |  |
+| April 16 | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | Medium | Solved |
 | April 17 | []() |  |  |
 | April 18 | []() |  |  |
 | April 19 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
-| Medium | 6 | 3 | 3 |
+| Medium | 7 | 4 | 3 |
 | Hard   | 0 | 0 | 0 |
