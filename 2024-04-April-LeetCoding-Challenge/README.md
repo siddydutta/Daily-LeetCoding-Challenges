@@ -20,7 +20,7 @@
 | April 15 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | Solved |
 | April 16 | [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | Medium | Solved |
 | April 17 | [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | Medium | Solved |
-| April 18 | []() |  |  |
+| April 18 | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/) | Easy | Solved |
 | April 19 | []() |  |  |
 | April 20 | []() |  |  |
 | April 21 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 7 | 7 | 0 |
+| Easy   | 8 | 8 | 0 |
 | Medium | 8 | 5 | 3 |
 | Hard   | 0 | 0 | 0 |
