@@ -26,7 +26,7 @@
 | April 21 | []() |  |  |
 | April 22 | [752. Open the Lock](https://leetcode.com/problems/open-the-lock/) | Medium | Unsolved |
 | April 23 | [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | Unsolved |
-| April 24 | []() |  |  |
+| April 24 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | Solved |
 | April 25 | []() |  |  |
 | April 26 | []() |  |  |
 | April 27 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 8 | 8 | 0 |
+| Easy   | 9 | 9 | 0 |
 | Medium | 11 | 6 | 5 |
 | Hard   | 0 | 0 | 0 |
