@@ -4,7 +4,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | May 1 | [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | Easy | Solved |
-| May 2 | []() |  |  |
+| May 2 | [2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | Easy | Solved |
 | May 3 | []() |  |  |
 | May 4 | []() |  |  |
 | May 5 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 1 | 1 | 0 |
+| Easy   | 2 | 2 | 0 |
 | Medium | 0 | 0 | 0 |
 | Hard   | 0 | 0 | 0 |
