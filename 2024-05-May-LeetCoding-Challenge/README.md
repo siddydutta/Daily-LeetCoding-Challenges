@@ -6,7 +6,7 @@
 | May 1 | [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | Easy | Solved |
 | May 2 | [2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | Easy | Solved |
 | May 3 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | Solved |
-| May 4 | []() |  |  |
+| May 4 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | Solved |
 | May 5 | []() |  |  |
 | May 6 | []() |  |  |
 | May 7 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 0 | 0 | 0 |
+| Medium | 2 | 2 | 0 |
 | Hard   | 0 | 0 | 0 |
