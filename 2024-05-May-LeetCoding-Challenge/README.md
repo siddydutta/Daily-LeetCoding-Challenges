@@ -7,7 +7,7 @@
 | May 2 | [2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | Easy | Solved |
 | May 3 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | Solved |
 | May 4 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | Solved |
-| May 5 | []() |  |  |
+| May 5 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | Solved |
 | May 6 | []() |  |  |
 | May 7 | []() |  |  |
 | May 8 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 2 | 2 | 0 |
+| Medium | 3 | 3 | 0 |
 | Hard   | 0 | 0 | 0 |
