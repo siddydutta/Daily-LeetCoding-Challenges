@@ -8,7 +8,7 @@
 | May 3 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | Solved |
 | May 4 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | Solved |
 | May 5 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | Solved |
-| May 6 | []() |  |  |
+| May 6 | [2487. Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Medium | Unsolved |
 | May 7 | []() |  |  |
 | May 8 | []() |  |  |
 | May 9 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 3 | 3 | 0 |
+| Medium | 4 | 3 | 1 |
 | Hard   | 0 | 0 | 0 |
