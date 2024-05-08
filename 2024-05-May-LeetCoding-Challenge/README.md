@@ -10,7 +10,7 @@
 | May 5 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | Solved |
 | May 6 | [2487. Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Medium | Unsolved |
 | May 7 | []() |  |  |
-| May 8 | []() |  |  |
+| May 8 | [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/) | Easy | Solved |
 | May 9 | []() |  |  |
 | May 10 | []() |  |  |
 | May 11 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 2 | 2 | 0 |
+| Easy   | 3 | 3 | 0 |
 | Medium | 4 | 3 | 1 |
 | Hard   | 0 | 0 | 0 |
