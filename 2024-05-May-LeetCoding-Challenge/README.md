@@ -14,7 +14,7 @@
 | May 9 | []() |  |  |
 | May 10 | []() |  |  |
 | May 11 | []() |  |  |
-| May 12 | []() |  |  |
+| May 12 | [2373. Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | Easy | Solved |
 | May 13 | []() |  |  |
 | May 14 | []() |  |  |
 | May 15 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 3 | 3 | 0 |
+| Easy   | 4 | 4 | 0 |
 | Medium | 4 | 3 | 1 |
 | Hard   | 0 | 0 | 0 |
