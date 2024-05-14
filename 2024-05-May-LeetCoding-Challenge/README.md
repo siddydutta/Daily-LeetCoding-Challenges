@@ -16,7 +16,7 @@
 | May 11 | []() |  |  |
 | May 12 | [2373. Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | Easy | Solved |
 | May 13 | []() |  |  |
-| May 14 | []() |  |  |
+| May 14 | [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | Medium | Solved |
 | May 15 | []() |  |  |
 | May 16 | []() |  |  |
 | May 17 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 4 | 3 | 1 |
+| Medium | 5 | 4 | 1 |
 | Hard   | 0 | 0 | 0 |
