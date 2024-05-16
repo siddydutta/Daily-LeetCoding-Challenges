@@ -1,4 +1,4 @@
-# April-LeetCoding-Challenge-2024
+# May-LeetCoding-Challenge-2024
 
 ## Questions
 | Day | Problem | Level | Status |
@@ -18,7 +18,7 @@
 | May 13 | []() |  |  |
 | May 14 | [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | Medium | Solved |
 | May 15 | []() |  |  |
-| May 16 | []() |  |  |
+| May 16 | [2331. Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | Easy | Solved |
 | May 17 | []() |  |  |
 | May 18 | []() |  |  |
 | May 19 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 4 | 4 | 0 |
+| Easy   | 5 | 5 | 0 |
 | Medium | 5 | 4 | 1 |
 | Hard   | 0 | 0 | 0 |
