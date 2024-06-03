@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 | June 1 | [3110. Score of a String](https://leetcode.com/problems/score-of-a-string/) | Easy | Solved |
 | June 2 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Solved |
-| June 3 | []() |  |  |
+| June 3 | [2486. Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | Medium | Solved |
 | June 4 | []() |  |  |
 | June 5 | []() |  |  |
 | June 6 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 0 | 0 | 0 |
+| Medium | 1 | 1 | 0 |
 | Hard   | 0 | 0 | 0 |
