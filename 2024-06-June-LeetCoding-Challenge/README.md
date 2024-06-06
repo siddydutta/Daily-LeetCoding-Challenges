@@ -8,7 +8,7 @@
 | June 3 | [2486. Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | Medium | Solved |
 | June 4 | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | Solved |
 | June 5 | [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/) | Easy | Solved |
-| June 6 | []() |  |  |
+| June 6 | [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | Medium | Solved |
 | June 7 | []() |  |  |
 | June 8 | []() |  |  |
 | June 9 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 1 | 1 | 0 |
+| Medium | 2 | 2 | 0 |
 | Hard   | 0 | 0 | 0 |
