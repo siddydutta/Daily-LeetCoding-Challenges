@@ -10,7 +10,7 @@
 | June 5 | [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/) | Easy | Solved |
 | June 6 | [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | Medium | Solved |
 | June 7 | [648. Replace Words](https://leetcode.com/problems/replace-words/) | Medium | Solved |
-| June 8 | []() |  |  |
+| June 8 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | Unsolved |
 | June 9 | []() |  |  |
 | June 10 | []() |  |  |
 | June 11 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 3 | 3 | 0 |
+| Medium | 4 | 3 | 1 |
 | Hard   | 0 | 0 | 0 |
