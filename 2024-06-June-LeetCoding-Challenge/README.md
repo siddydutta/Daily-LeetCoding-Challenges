@@ -11,7 +11,7 @@
 | June 6 | [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | Medium | Solved |
 | June 7 | [648. Replace Words](https://leetcode.com/problems/replace-words/) | Medium | Solved |
 | June 8 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | Unsolved |
-| June 9 | []() |  |  |
+| June 9 | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | Unsolved |
 | June 10 | []() |  |  |
 | June 11 | []() |  |  |
 | June 12 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 4 | 3 | 1 |
+| Medium | 5 | 3 | 2 |
 | Hard   | 0 | 0 | 0 |
