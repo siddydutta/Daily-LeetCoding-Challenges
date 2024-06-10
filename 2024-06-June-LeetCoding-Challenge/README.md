@@ -12,7 +12,7 @@
 | June 7 | [648. Replace Words](https://leetcode.com/problems/replace-words/) | Medium | Solved |
 | June 8 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | Unsolved |
 | June 9 | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | Unsolved |
-| June 10 | []() |  |  |
+| June 10 | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | Easy | Solved |
 | June 11 | []() |  |  |
 | June 12 | []() |  |  |
 | June 13 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 4 | 4 | 0 |
+| Easy   | 5 | 5 | 0 |
 | Medium | 5 | 3 | 2 |
 | Hard   | 0 | 0 | 0 |
