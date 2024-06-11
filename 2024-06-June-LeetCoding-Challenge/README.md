@@ -13,7 +13,7 @@
 | June 8 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | Unsolved |
 | June 9 | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | Unsolved |
 | June 10 | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | Easy | Solved |
-| June 11 | []() |  |  |
+| June 11 | [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy | Solved |
 | June 12 | []() |  |  |
 | June 13 | []() |  |  |
 | June 14 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 5 | 5 | 0 |
+| Easy   | 6 | 6 | 0 |
 | Medium | 5 | 3 | 2 |
 | Hard   | 0 | 0 | 0 |
