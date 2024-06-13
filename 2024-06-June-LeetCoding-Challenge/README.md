@@ -15,7 +15,7 @@
 | June 10 | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | Easy | Solved |
 | June 11 | [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy | Solved |
 | June 12 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Solved |
-| June 13 | []() |  |  |
+| June 13 | [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | Easy | Solved |
 | June 14 | []() |  |  |
 | June 15 | []() |  |  |
 | June 16 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 6 | 6 | 0 |
+| Easy   | 7 | 7 | 0 |
 | Medium | 6 | 4 | 2 |
 | Hard   | 0 | 0 | 0 |
