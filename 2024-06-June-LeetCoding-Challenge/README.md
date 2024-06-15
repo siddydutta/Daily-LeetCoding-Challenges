@@ -16,7 +16,7 @@
 | June 11 | [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy | Solved |
 | June 12 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Solved |
 | June 13 | [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | Easy | Solved |
-| June 14 | []() |  |  |
+| June 14 | [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | Medium | Solved |
 | June 15 | []() |  |  |
 | June 16 | []() |  |  |
 | June 17 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
-| Medium | 6 | 4 | 2 |
+| Medium | 7 | 5 | 2 |
 | Hard   | 0 | 0 | 0 |
