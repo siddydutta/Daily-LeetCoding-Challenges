@@ -19,7 +19,7 @@
 | June 14 | [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | Medium | Solved |
 | June 15 | [502. IPO](https://leetcode.com/problems/ipo/) | Hard | Solved |
 | June 16 | [330. Patching Array](https://leetcode.com/problems/patching-array/) | Hard | Unsolved |
-| June 17 | []() |  |  |
+| June 17 | [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | Medium | Solved |
 | June 18 | []() |  |  |
 | June 19 | []() |  |  |
 | June 20 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
-| Medium | 7 | 5 | 2 |
+| Medium | 8 | 6 | 2 |
 | Hard   | 2 | 2 | 0 |
