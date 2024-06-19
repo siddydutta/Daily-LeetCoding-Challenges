@@ -21,7 +21,7 @@
 | June 16 | [330. Patching Array](https://leetcode.com/problems/patching-array/) | Hard | Unsolved |
 | June 17 | [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | Medium | Solved |
 | June 18 | [826. Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | Medium | Solved |
-| June 19 | []() |  |  |
+| June 19 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | Unsolved |
 | June 20 | []() |  |  |
 | June 21 | []() |  |  |
 | June 22 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
-| Medium | 9 | 7 | 2 |
+| Medium | 10 | 7 | 3 |
 | Hard   | 2 | 1 | 1 |
