@@ -23,7 +23,7 @@
 | June 18 | [826. Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | Medium | Solved |
 | June 19 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | Unsolved |
 | June 20 | [1552. Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Medium | Unsolved |
-| June 21 | []() |  |  |
+| June 21 | [1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | Medium | Solved |
 | June 22 | []() |  |  |
 | June 23 | []() |  |  |
 | June 24 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
-| Medium | 11 | 7 | 4 |
+| Medium | 12 | 8 | 4 |
 | Hard   | 2 | 1 | 1 |
