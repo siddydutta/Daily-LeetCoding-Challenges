@@ -24,7 +24,7 @@
 | June 19 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | Unsolved |
 | June 20 | [1552. Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Medium | Unsolved |
 | June 21 | [1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | Medium | Solved |
-| June 22 | []() |  |  |
+| June 22 | [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | Unsolved |
 | June 23 | []() |  |  |
 | June 24 | []() |  |  |
 | June 25 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
-| Medium | 12 | 8 | 4 |
+| Medium | 13 | 8 | 5 |
 | Hard   | 2 | 1 | 1 |
