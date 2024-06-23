@@ -25,7 +25,7 @@
 | June 20 | [1552. Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Medium | Unsolved |
 | June 21 | [1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | Medium | Solved |
 | June 22 | [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | Unsolved |
-| June 23 | []() |  |  |
+| June 23 | [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium | Unsolved |
 | June 24 | []() |  |  |
 | June 25 | []() |  |  |
 | June 26 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
-| Medium | 13 | 8 | 5 |
+| Medium | 14 | 8 | 6 |
 | Hard   | 2 | 1 | 1 |
