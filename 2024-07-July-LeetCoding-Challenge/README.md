@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 | July 1 | [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy | Solved |
 | July 2 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | Solved |
-| July 3 | []() |  |  |
+| July 3 | [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium | Unsolved |
 | July 4 | []() |  |  |
 | July 5 | []() |  |  |
 | July 6 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 0 | 0 | 0 |
+| Medium | 1 | 0 | 1 |
 | Hard   | 0 | 0 | 0 |
