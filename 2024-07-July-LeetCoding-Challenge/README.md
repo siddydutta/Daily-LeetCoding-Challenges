@@ -7,7 +7,7 @@
 | July 2 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | Solved |
 | July 3 | [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium | Unsolved |
 | July 4 | [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | Medium | Solved |
-| July 5 | []() |  |  |
+| July 5 | [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Solved |
 | July 6 | []() |  |  |
 | July 7 | []() |  |  |
 | July 8 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 2 | 1 | 1 |
+| Medium | 3 | 2 | 1 |
 | Hard   | 0 | 0 | 0 |
