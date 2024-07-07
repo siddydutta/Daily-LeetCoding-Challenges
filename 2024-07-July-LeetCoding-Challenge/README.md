@@ -9,7 +9,7 @@
 | July 4 | [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | Medium | Solved |
 | July 5 | [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Solved |
 | July 6 | [2582. Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/) | Easy | Solved |
-| July 7 | []() |  |  |
+| July 7 | [1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | Easy | Solved |
 | July 8 | []() |  |  |
 | July 9 | []() |  |  |
 | July 10 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 3 | 3 | 0 |
+| Easy   | 4 | 4 | 0 |
 | Medium | 3 | 2 | 1 |
 | Hard   | 0 | 0 | 0 |
