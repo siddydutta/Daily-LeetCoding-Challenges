@@ -10,7 +10,7 @@
 | July 5 | [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Solved |
 | July 6 | [2582. Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/) | Easy | Solved |
 | July 7 | [1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | Easy | Solved |
-| July 8 | []() |  |  |
+| July 8 | [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium | Solved |
 | July 9 | []() |  |  |
 | July 10 | []() |  |  |
 | July 11 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 3 | 2 | 1 |
+| Medium | 4 | 3 | 1 |
 | Hard   | 0 | 0 | 0 |
