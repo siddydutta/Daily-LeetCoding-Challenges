@@ -12,7 +12,7 @@
 | July 7 | [1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | Easy | Solved |
 | July 8 | [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium | Solved |
 | July 9 | [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | Medium | Solved |
-| July 10 | []() |  |  |
+| July 10 | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | Easy | Solved |
 | July 11 | []() |  |  |
 | July 12 | []() |  |  |
 | July 13 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 4 | 4 | 0 |
+| Easy   | 5 | 5 | 0 |
 | Medium | 5 | 4 | 1 |
 | Hard   | 0 | 0 | 0 |
