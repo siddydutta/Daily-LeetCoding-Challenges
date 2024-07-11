@@ -13,7 +13,7 @@
 | July 8 | [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium | Solved |
 | July 9 | [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | Medium | Solved |
 | July 10 | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | Easy | Solved |
-| July 11 | []() |  |  |
+| July 11 | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | Solved |
 | July 12 | []() |  |  |
 | July 13 | []() |  |  |
 | July 14 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 5 | 4 | 1 |
+| Medium | 6 | 5 | 1 |
 | Hard   | 0 | 0 | 0 |
