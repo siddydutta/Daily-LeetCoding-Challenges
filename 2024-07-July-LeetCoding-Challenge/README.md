@@ -14,7 +14,7 @@
 | July 9 | [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | Medium | Solved |
 | July 10 | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | Easy | Solved |
 | July 11 | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | Solved |
-| July 12 | []() |  |  |
+| July 12 | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | Medium | Unsolved |
 | July 13 | []() |  |  |
 | July 14 | []() |  |  |
 | July 15 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 6 | 5 | 1 |
+| Medium | 7 | 6 | 1 |
 | Hard   | 0 | 0 | 0 |
