@@ -17,7 +17,7 @@
 | July 12 | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | Medium | Unsolved |
 | July 13 | []() |  |  |
 | July 14 | []() |  |  |
-| July 15 | []() |  |  |
+| July 15 | [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | Medium | Solved |
 | July 16 | []() |  |  |
 | July 17 | []() |  |  |
 | July 18 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 7 | 6 | 1 |
+| Medium | 8 | 7 | 1 |
 | Hard   | 0 | 0 | 0 |
