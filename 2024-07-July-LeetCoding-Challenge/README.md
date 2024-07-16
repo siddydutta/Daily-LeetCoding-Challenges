@@ -18,7 +18,7 @@
 | July 13 | []() |  |  |
 | July 14 | []() |  |  |
 | July 15 | [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | Medium | Solved |
-| July 16 | []() |  |  |
+| July 16 | [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium | Unsolved |
 | July 17 | []() |  |  |
 | July 18 | []() |  |  |
 | July 19 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 8 | 7 | 1 |
+| Medium | 9 | 7 | 2 |
 | Hard   | 0 | 0 | 0 |
