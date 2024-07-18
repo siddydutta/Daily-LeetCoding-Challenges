@@ -20,7 +20,7 @@
 | July 15 | [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | Medium | Solved |
 | July 16 | [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium | Unsolved |
 | July 17 | []() |  |  |
-| July 18 | []() |  |  |
+| July 18 | [1530. Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Medium | Unsolved |
 | July 19 | []() |  |  |
 | July 20 | []() |  |  |
 | July 21 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 9 | 7 | 2 |
+| Medium | 10 | 7 | 3 |
 | Hard   | 0 | 0 | 0 |
