@@ -21,7 +21,7 @@
 | July 16 | [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium | Unsolved |
 | July 17 | []() |  |  |
 | July 18 | [1530. Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | Medium | Unsolved |
-| July 19 | []() |  |  |
+| July 19 | [1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | Easy | Solved |
 | July 20 | []() |  |  |
 | July 21 | []() |  |  |
 | July 22 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 5 | 5 | 0 |
+| Easy   | 6 | 6 | 0 |
 | Medium | 10 | 7 | 3 |
 | Hard   | 0 | 0 | 0 |
