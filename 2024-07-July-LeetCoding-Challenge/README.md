@@ -24,7 +24,7 @@
 | July 19 | [1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | Easy | Solved |
 | July 20 | [1605. Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | Medium | Unsolved |
 | July 21 | [2392. Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | Hard | Unsolved |
-| July 22 | []() |  |  |
+| July 22 | [2418. Sort the People](https://leetcode.com/problems/sort-the-people/) | Easy | Solved |
 | July 23 | []() |  |  |
 | July 24 | []() |  |  |
 | July 25 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 6 | 6 | 0 |
+| Easy   | 7 | 7 | 0 |
 | Medium | 11 | 7 | 4 |
 | Hard   | 1 | 0 | 1 |
