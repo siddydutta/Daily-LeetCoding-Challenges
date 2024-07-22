@@ -11,7 +11,6 @@ class Solution:
                 num = int(digits[i:j+1])
                 if low <= num <= high:
                     result.append(num)
-        print(result)
         return sorted(result)
 
 
