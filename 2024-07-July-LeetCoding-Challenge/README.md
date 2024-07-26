@@ -27,7 +27,7 @@
 | July 22 | [2418. Sort the People](https://leetcode.com/problems/sort-the-people/) | Easy | Solved |
 | July 23 | [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | Easy | Solved |
 | July 24 | [2191. Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/) | Medium | Solved |
-| July 25 | []() |  |  |
+| July 25 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | Solved |
 | July 26 | []() |  |  |
 | July 27 | []() |  |  |
 | July 28 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 8 | 8 | 0 |
-| Medium | 12 | 8 | 4 |
+| Medium | 13 | 9 | 4 |
 | Hard   | 1 | 0 | 1 |
