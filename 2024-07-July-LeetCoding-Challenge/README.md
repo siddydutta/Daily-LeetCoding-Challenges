@@ -28,7 +28,7 @@
 | July 23 | [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | Easy | Solved |
 | July 24 | [2191. Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/) | Medium | Solved |
 | July 25 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | Solved |
-| July 26 | []() |  |  |
+| July 26 | [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | Solved |
 | July 27 | []() |  |  |
 | July 28 | []() |  |  |
 | July 29 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 8 | 8 | 0 |
-| Medium | 13 | 9 | 4 |
+| Medium | 14 | 10 | 4 |
 | Hard   | 1 | 0 | 1 |
