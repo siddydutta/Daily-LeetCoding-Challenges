@@ -31,7 +31,7 @@
 | July 26 | [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | Solved |
 | July 27 | [2976. Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | Medium | Solved |
 | July 28 | [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) | Hard | Unsolved |
-| July 29 | []() |  |  |
+| July 29 | [1395. Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | Medium | Unsolved |
 | July 30 | []() |  |  |
 | July 31 | []() |  |  |
 
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 8 | 8 | 0 |
-| Medium | 15 | 11 | 4 |
+| Medium | 16 | 11 | 5 |
 | Hard   | 2 | 0 | 2 |
