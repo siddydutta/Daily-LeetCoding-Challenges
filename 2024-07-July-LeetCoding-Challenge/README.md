@@ -32,7 +32,7 @@
 | July 27 | [2976. Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | Medium | Solved |
 | July 28 | [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) | Hard | Unsolved |
 | July 29 | [1395. Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | Medium | Unsolved |
-| July 30 | []() |  |  |
+| July 30 | [1653. Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | Medium | Solved |
 | July 31 | []() |  |  |
 
 
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 8 | 8 | 0 |
-| Medium | 16 | 11 | 5 |
+| Medium | 17 | 12 | 5 |
 | Hard   | 2 | 0 | 2 |
