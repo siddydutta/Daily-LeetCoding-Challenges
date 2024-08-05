@@ -7,7 +7,7 @@
 | August 2 | [2134. Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | Medium | Solved |
 | August 3 | [1460. Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | Easy | Solved |
 | August 4 | [1508. Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) | Medium | Solved |
-| August 5 | []() |  |  |
+| August 5 | [2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | Easy | Solved |
 | August 6 | []() |  |  |
 | August 7 | []() |  |  |
 | August 8 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 2 | 2 | 0 |
+| Easy   | 3 | 3 | 0 |
 | Medium | 2 | 2 | 0 |
 | Hard   | 0 | 0 | 0 |
