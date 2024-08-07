@@ -9,7 +9,7 @@
 | August 4 | [1508. Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) | Medium | Solved |
 | August 5 | [2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | Easy | Solved |
 | August 6 | [3016. Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Medium | Solved |
-| August 7 | []() |  |  |
+| August 7 | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | Hard | Unsolved |
 | August 8 | []() |  |  |
 | August 9 | []() |  |  |
 | August 10 | []() |  |  |
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
 | Medium | 3 | 3 | 0 |
-| Hard   | 0 | 0 | 0 |
+| Hard   | 1 | 0 | 1 |
