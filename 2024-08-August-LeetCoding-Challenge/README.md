@@ -14,7 +14,7 @@
 | August 9 | []() |  |  |
 | August 10 | []() |  |  |
 | August 11 | []() |  |  |
-| August 12 | []() |  |  |
+| August 12 | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | Solved |
 | August 13 | []() |  |  |
 | August 14 | []() |  |  |
 | August 15 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 3 | 3 | 0 |
+| Easy   | 4 | 4 | 0 |
 | Medium | 3 | 3 | 0 |
 | Hard   | 1 | 0 | 1 |
