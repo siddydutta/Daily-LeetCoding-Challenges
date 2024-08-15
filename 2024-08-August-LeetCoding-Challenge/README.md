@@ -17,7 +17,7 @@
 | August 12 | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | Solved |
 | August 13 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | Unsolved |
 | August 14 | []() |  |  |
-| August 15 | []() |  |  |
+| August 15 | [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | Solved |
 | August 16 | []() |  |  |
 | August 17 | []() |  |  |
 | August 18 | []() |  |  |
