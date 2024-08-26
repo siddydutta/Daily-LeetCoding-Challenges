@@ -28,7 +28,7 @@
 | August 23 | []() |  |  |
 | August 24 | []() |  |  |
 | August 25 | []() |  |  |
-| August 26 | []() |  |  |
+| August 26 | [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Easy | Solved |
 | August 27 | []() |  |  |
 | August 28 | []() |  |  |
 | August 29 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 4 | 4 | 0 |
+| Easy   | 5 | 5 | 0 |
 | Medium | 5 | 3 | 2 |
 | Hard   | 2 | 0 | 2 |
