@@ -30,7 +30,7 @@
 | August 25 | []() |  |  |
 | August 26 | [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Easy | Solved |
 | August 27 | [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | Medium | Solved |
-| August 28 | []() |  |  |
+| August 28 | [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | Medium | Unsolved |
 | August 29 | []() |  |  |
 | August 30 | []() |  |  |
 | August 31 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 6 | 4 | 2 |
+| Medium | 7 | 5 | 2 |
 | Hard   | 2 | 0 | 2 |
