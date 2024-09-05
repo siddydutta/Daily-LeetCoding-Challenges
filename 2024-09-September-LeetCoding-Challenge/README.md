@@ -7,7 +7,7 @@
 | September 2 | [1894. Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | Medium | Solved |
 | September 3 | [1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | Easy | Solved |
 | September 4 | [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | Medium | Solved |
-| September 5 | []() |  |  |
+| September 5 | [2028. Find Missing Observations](https://leetcode.com/problems/find-missing-observations/) | Medium | Solved |
 | September 6 | []() |  |  |
 | September 7 | []() |  |  |
 | September 8 | []() |  |  |
