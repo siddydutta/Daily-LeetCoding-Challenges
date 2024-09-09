@@ -8,7 +8,7 @@
 | September 3 | [1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | Easy | Solved |
 | September 4 | [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | Medium | Solved |
 | September 5 | [2028. Find Missing Observations](https://leetcode.com/problems/find-missing-observations/) | Medium | Solved |
-| September 6 | []() |  |  |
+| September 6 | [3217. Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | Medium | Solved |
 | September 7 | []() |  |  |
 | September 8 | []() |  |  |
 | September 9 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 2 | 2 | 0 |
+| Medium | 3 | 3 | 0 |
 | Hard   | 0 | 0 | 0 |
