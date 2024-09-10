@@ -12,7 +12,7 @@
 | September 7 | []() |  |  |
 | September 8 | []() |  |  |
 | September 9 | [2326. Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/) | Medium | Solved |
-| September 10 | []() |  |  |
+| September 10 | [2807. Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | Medium | Solved |
 | September 11 | []() |  |  |
 | September 12 | []() |  |  |
 | September 13 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 5 | 5 | 0 |
+| Medium | 6 | 6 | 0 |
 | Hard   | 0 | 0 | 0 |
