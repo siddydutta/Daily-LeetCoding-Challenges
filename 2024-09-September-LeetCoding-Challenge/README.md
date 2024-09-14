@@ -16,7 +16,7 @@
 | September 11 | [2220. Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | Easy | Solved |
 | September 12 | [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | Easy | Solved |
 | September 13 | [1310. XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | Medium | Solved |
-| September 14 | []() |  |  |
+| September 14 | [2419. Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | Medium | Unsolved |
 | September 15 | []() |  |  |
 | September 16 | []() |  |  |
 | September 17 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 7 | 7 | 0 |
+| Medium | 8 | 7 | 1 |
 | Hard   | 0 | 0 | 0 |
