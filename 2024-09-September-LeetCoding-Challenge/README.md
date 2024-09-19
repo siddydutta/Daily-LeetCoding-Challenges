@@ -21,7 +21,7 @@
 | September 16 | [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | Medium | Solved |
 | September 17 | [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Easy | Solved |
 | September 18 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | Medium | Solved |
-| September 19 | []() |  |  |
+| September 19 | [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | Medium | Solved |
 | September 20 | []() |  |  |
 | September 21 | []() |  |  |
 | September 22 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 11 | 9 | 2 |
+| Medium | 12 | 10 | 2 |
 | Hard   | 0 | 0 | 0 |
