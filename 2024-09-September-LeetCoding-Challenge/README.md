@@ -23,7 +23,7 @@
 | September 18 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | Medium | Solved |
 | September 19 | [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | Medium | Solved |
 | September 20 | [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | Hard | Unsolved |
-| September 21 | []() |  |  |
+| September 21 | [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | Medium | Solved |
 | September 22 | []() |  |  |
 | September 23 | []() |  |  |
 | September 24 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 12 | 10 | 2 |
+| Medium | 13 | 11 | 2 |
 | Hard   | 1 | 0 | 1 |
