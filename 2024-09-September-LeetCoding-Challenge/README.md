@@ -24,7 +24,7 @@
 | September 19 | [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | Medium | Solved |
 | September 20 | [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | Hard | Unsolved |
 | September 21 | [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | Medium | Solved |
-| September 22 | []() |  |  |
+| September 22 | [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | Hard | Unsolved |
 | September 23 | []() |  |  |
 | September 24 | []() |  |  |
 | September 25 | []() |  |  |
@@ -40,4 +40,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
 | Medium | 13 | 11 | 2 |
-| Hard   | 1 | 0 | 1 |
+| Hard   | 2 | 0 | 2 |
