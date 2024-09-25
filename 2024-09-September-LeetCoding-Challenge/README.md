@@ -27,7 +27,7 @@
 | September 22 | [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | Hard | Unsolved |
 | September 23 | [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | Medium | Solved |
 | September 24 | [3043. Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Medium | Solved |
-| September 25 | []() |  |  |
+| September 25 | [2416. Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | Hard | Solved |
 | September 26 | []() |  |  |
 | September 27 | []() |  |  |
 | September 28 | []() |  |  |
@@ -40,4 +40,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
 | Medium | 15 | 13 | 2 |
-| Hard   | 2 | 0 | 2 |
+| Hard   | 3 | 1 | 2 |
