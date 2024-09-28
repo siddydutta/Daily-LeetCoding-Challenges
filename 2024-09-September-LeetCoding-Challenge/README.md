@@ -30,7 +30,7 @@
 | September 25 | [2416. Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | Hard | Solved |
 | September 26 | [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/) | Medium | Solved |
 | September 27 | [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/) | Medium | Solved |
-| September 28 | []() |  |  |
+| September 28 | [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | Medium | Unsolved |
 | September 29 | []() |  |  |
 | September 30 | []() |  |  |
 
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 17 | 15 | 2 |
+| Medium | 18 | 15 | 3 |
 | Hard   | 3 | 1 | 2 |
