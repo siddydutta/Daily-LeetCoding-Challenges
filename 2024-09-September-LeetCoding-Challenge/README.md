@@ -31,7 +31,7 @@
 | September 26 | [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/) | Medium | Solved |
 | September 27 | [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/) | Medium | Solved |
 | September 28 | [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | Medium | Unsolved |
-| September 29 | []() |  |  |
+| September 29 | [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | Hard | Unsolved |
 | September 30 | []() |  |  |
 
 
@@ -40,4 +40,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
 | Medium | 18 | 15 | 3 |
-| Hard   | 3 | 1 | 2 |
+| Hard   | 4 | 1 | 3 |
