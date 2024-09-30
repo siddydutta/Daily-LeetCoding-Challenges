@@ -32,12 +32,12 @@
 | September 27 | [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii/) | Medium | Solved |
 | September 28 | [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | Medium | Unsolved |
 | September 29 | [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | Hard | Unsolved |
-| September 30 | []() |  |  |
+| September 30 | [1381. Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | Medium | Solved |
 
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 18 | 15 | 3 |
+| Medium | 19 | 16 | 3 |
 | Hard   | 4 | 1 | 3 |
