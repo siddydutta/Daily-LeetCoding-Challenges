@@ -4,7 +4,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | October 1 | [1497. Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | Medium | Unsolved |
-| October 2 | []() |  |  |
+| October 2 | [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Easy | Solved |
 | October 3 | []() |  |  |
 | October 4 | []() |  |  |
 | October 5 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 0 | 0 | 0 |
+| Easy   | 1 | 1 | 0 |
 | Medium | 1 | 1 | 0 |
 | Hard   | 0 | 0 | 0 |
