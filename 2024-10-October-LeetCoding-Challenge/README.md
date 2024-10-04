@@ -6,7 +6,7 @@
 | October 1 | [1497. Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | Medium | Unsolved |
 | October 2 | [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Easy | Solved |
 | October 3 | [1590. Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | Medium | Unsolved |
-| October 4 | []() |  |  |
+| October 4 | [2491. Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | Medium | Solved |
 | October 5 | []() |  |  |
 | October 6 | []() |  |  |
 | October 7 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 2 | 0 | 2 |
+| Medium | 3 | 1 | 2 |
 | Hard   | 0 | 0 | 0 |
