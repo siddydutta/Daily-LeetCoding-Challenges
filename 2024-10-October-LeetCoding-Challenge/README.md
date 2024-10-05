@@ -7,7 +7,7 @@
 | October 2 | [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Easy | Solved |
 | October 3 | [1590. Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | Medium | Unsolved |
 | October 4 | [2491. Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | Medium | Solved |
-| October 5 | []() |  |  |
+| October 5 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Solved |
 | October 6 | []() |  |  |
 | October 7 | []() |  |  |
 | October 8 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 3 | 1 | 2 |
+| Medium | 4 | 2 | 2 |
 | Hard   | 0 | 0 | 0 |
