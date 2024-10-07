@@ -9,7 +9,7 @@
 | October 4 | [2491. Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | Medium | Solved |
 | October 5 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Solved |
 | October 6 | [1813. Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/) | Medium | Unsolved |
-| October 7 | []() |  |  |
+| October 7 | [2696. Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | Easy | Solved |
 | October 8 | []() |  |  |
 | October 9 | []() |  |  |
 | October 10 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 1 | 1 | 0 |
+| Easy   | 2 | 2 | 0 |
 | Medium | 5 | 2 | 3 |
 | Hard   | 0 | 0 | 0 |
