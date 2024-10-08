@@ -10,7 +10,7 @@
 | October 5 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Solved |
 | October 6 | [1813. Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/) | Medium | Unsolved |
 | October 7 | [2696. Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | Easy | Solved |
-| October 8 | []() |  |  |
+| October 8 | [1963. Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | Medium | Unsolved |
 | October 9 | []() |  |  |
 | October 10 | []() |  |  |
 | October 11 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 5 | 2 | 3 |
+| Medium | 6 | 2 | 4 |
 | Hard   | 0 | 0 | 0 |
