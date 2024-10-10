@@ -12,7 +12,7 @@
 | October 7 | [2696. Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | Easy | Solved |
 | October 8 | [1963. Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | Medium | Unsolved |
 | October 9 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | Solved |
-| October 10 | []() |  |  |
+| October 10 | [962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | Medium | Solved |
 | October 11 | []() |  |  |
 | October 12 | []() |  |  |
 | October 13 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 7 | 3 | 4 |
+| Medium | 8 | 4 | 4 |
 | Hard   | 0 | 0 | 0 |
