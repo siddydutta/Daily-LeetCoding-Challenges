@@ -14,7 +14,7 @@
 | October 9 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | Solved |
 | October 10 | [962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | Medium | Solved |
 | October 11 | [1942. The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | Medium | Unsolved |
-| October 12 | []() |  |  |
+| October 12 | [2406. Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | Medium | Solved |
 | October 13 | []() |  |  |
 | October 14 | []() |  |  |
 | October 15 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 9 | 4 | 5 |
+| Medium | 10 | 5 | 5 |
 | Hard   | 0 | 0 | 0 |
