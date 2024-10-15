@@ -17,7 +17,7 @@
 | October 12 | [2406. Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | Medium | Solved |
 | October 13 | [632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | Hard | Unsolved |
 | October 14 | [2530. Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | Medium | Solved |
-| October 15 | []() |  |  |
+| October 15 | [2938. Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | Medium | Unsolved |
 | October 16 | []() |  |  |
 | October 17 | []() |  |  |
 | October 18 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 11 | 6 | 5 |
+| Medium | 12 | 6 | 6 |
 | Hard   | 1 | 0 | 1 |
