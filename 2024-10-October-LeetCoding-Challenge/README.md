@@ -19,7 +19,7 @@
 | October 14 | [2530. Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | Medium | Solved |
 | October 15 | [2938. Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | Medium | Unsolved |
 | October 16 | [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | Medium | Solved |
-| October 17 | []() |  |  |
+| October 17 | [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/) | Medium | Solved |
 | October 18 | []() |  |  |
 | October 19 | []() |  |  |
 | October 20 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 13 | 7 | 6 |
+| Medium | 14 | 8 | 6 |
 | Hard   | 1 | 0 | 1 |
