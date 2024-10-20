@@ -21,7 +21,7 @@
 | October 16 | [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | Medium | Solved |
 | October 17 | [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/) | Medium | Solved |
 | October 18 | [2044. Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | Medium | Unsolved |
-| October 19 | []() |  |  |
+| October 19 | [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | Medium | Unsolved |
 | October 20 | []() |  |  |
 | October 21 | []() |  |  |
 | October 22 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 15 | 8 | 7 |
+| Medium | 16 | 8 | 8 |
 | Hard   | 1 | 0 | 1 |
