@@ -25,7 +25,7 @@
 | October 20 | [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | Hard | Solved |
 | October 21 | [1593. Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | Medium | Solved |
 | October 22 | [2583. Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | Medium | Solved |
-| October 23 | []() |  |  |
+| October 23 | [2641. Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | Medium | Solved |
 | October 24 | []() |  |  |
 | October 25 | []() |  |  |
 | October 26 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 18 | 10 | 8 |
+| Medium | 19 | 11 | 8 |
 | Hard   | 2 | 1 | 1 |
