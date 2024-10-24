@@ -26,7 +26,7 @@
 | October 21 | [1593. Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | Medium | Solved |
 | October 22 | [2583. Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | Medium | Solved |
 | October 23 | [2641. Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | Medium | Solved |
-| October 24 | []() |  |  |
+| October 24 | [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | Medium | Unsolved |
 | October 25 | []() |  |  |
 | October 26 | []() |  |  |
 | October 27 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 19 | 11 | 8 |
+| Medium | 20 | 11 | 9 |
 | Hard   | 2 | 1 | 1 |
