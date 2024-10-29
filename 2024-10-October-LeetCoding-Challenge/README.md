@@ -31,7 +31,7 @@
 | October 26 | [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | Hard | Solved |
 | October 27 | [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium | Solved |
 | October 28 | [2501. Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/) | Medium | Unsolved |
-| October 29 | []() |  |  |
+| October 29 | [2684. Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | Medium | Solved |
 | October 30 | []() |  |  |
 | October 31 | []() |  |  |
 
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 23 | 13 | 10 |
+| Medium | 24 | 14 | 10 |
 | Hard   | 3 | 2 | 1 |
