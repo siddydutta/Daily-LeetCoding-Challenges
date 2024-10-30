@@ -32,7 +32,7 @@
 | October 27 | [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium | Solved |
 | October 28 | [2501. Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/) | Medium | Unsolved |
 | October 29 | [2684. Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | Medium | Solved |
-| October 30 | []() |  |  |
+| October 30 | [1671. Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | Hard | Unsolved |
 | October 31 | []() |  |  |
 
 
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
 | Medium | 24 | 14 | 10 |
-| Hard   | 3 | 2 | 1 |
+| Hard   | 4 | 2 | 2 |
