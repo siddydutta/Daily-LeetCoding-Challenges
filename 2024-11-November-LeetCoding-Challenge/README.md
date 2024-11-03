@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 | November 1  | [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | Easy | Solved |
 | November 2  | [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/) | Easy | Solved |
-| November 3  | []() |  |  | 
+| November 3  | [796. Rotate String](https://leetcode.com/problems/rotate-string/) | Easy | Solved | 
 | November 4  | []() |  |  |
 | November 5  | []() |  |  |
 | November 6  | []() |  |  |
@@ -37,6 +37,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 2 | 2 | 0 |
+| Easy   | 3 | 3 | 0 |
 | Medium | 0 | 0 | 0 |
 | Hard   | 0 | 0 | 0 |
