@@ -7,7 +7,7 @@
 | November 2  | [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/) | Easy | Solved |
 | November 3  | [796. Rotate String](https://leetcode.com/problems/rotate-string/) | Easy | Solved | 
 | November 4  | [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/) | Medium | Solved |
-| November 5  | []() |  |  |
+| November 5  | [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium | Solved |
 | November 6  | []() |  |  |
 | November 7  | []() |  |  |
 | November 8  | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 1 | 1 | 0 |
+| Medium | 2 | 2 | 0 |
 | Hard   | 0 | 0 | 0 |
