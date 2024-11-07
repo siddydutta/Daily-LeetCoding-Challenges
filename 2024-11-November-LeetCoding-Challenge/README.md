@@ -9,7 +9,7 @@
 | November 4  | [3163. String Compression III](https://leetcode.com/problems/string-compression-iii/) | Medium | Solved |
 | November 5  | [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium | Solved |
 | November 6  | [3011. Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/) | Medium | Unsolved |
-| November 7  | []() |  |  |
+| November 7  | [2275. Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | Medium | Unsolved |
 | November 8  | []() |  |  |
 | November 9  | []() |  |  |
 | November 10 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 3 | 2 | 1 |
+| Medium | 4 | 2 | 2 |
 | Hard   | 0 | 0 | 0 |
