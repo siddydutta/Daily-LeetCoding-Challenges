@@ -10,9 +10,9 @@
 | November 5  | [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium | Solved |
 | November 6  | [3011. Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/) | Medium | Unsolved |
 | November 7  | [2275. Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | Medium | Unsolved |
-| November 8  | []() |  |  |
-| November 9  | []() |  |  |
-| November 10 | []() |  |  |
+| November 8  | [1829. Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/) | Medium | Unsolved |
+| November 9  | [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/) | Medium | Unsolved |
+| November 10 | [3097. Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) | Medium | Unsolved |
 | November 11 | []() |  |  |
 | November 12 | []() |  |  |
 | November 13 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 4 | 2 | 2 |
+| Medium | 7 | 2 | 5 |
 | Hard   | 0 | 0 | 0 |
