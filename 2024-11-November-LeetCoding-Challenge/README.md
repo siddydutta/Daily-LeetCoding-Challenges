@@ -13,7 +13,7 @@
 | November 8  | [1829. Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/) | Medium | Unsolved |
 | November 9  | [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/) | Medium | Unsolved |
 | November 10 | [3097. Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) | Medium | Unsolved |
-| November 11 | []() |  |  |
+| November 11 | [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | Medium | Unsolved |
 | November 12 | []() |  |  |
 | November 13 | []() |  |  |
 | November 14 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 7 | 2 | 5 |
+| Medium | 8 | 2 | 6 |
 | Hard   | 0 | 0 | 0 |
