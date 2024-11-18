@@ -20,7 +20,7 @@
 | November 15 | [1574. Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium | Unsolved |
 | November 16 | [3254. Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | Medium | Solved |
 | November 17 | [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | Hard | Solved |
-| November 18 | []() |  |  |
+| November 18 | [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | Easy | Solved |
 | November 19 | []() |  |  |
 | November 20 | []() |  |  |
 | November 21 | []() |  |  |
@@ -37,6 +37,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 3 | 3 | 0 |
+| Easy   | 4 | 4 | 0 |
 | Medium | 13 | 6 | 7 |
 | Hard   | 1 | 1 | 0 |
