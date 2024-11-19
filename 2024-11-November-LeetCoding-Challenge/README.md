@@ -21,7 +21,7 @@
 | November 16 | [3254. Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | Medium | Solved |
 | November 17 | [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | Hard | Solved |
 | November 18 | [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | Easy | Solved |
-| November 19 | []() |  |  |
+| November 19 | [2461. Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | Medium | Solved |
 | November 20 | []() |  |  |
 | November 21 | []() |  |  |
 | November 22 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 13 | 6 | 7 |
+| Medium | 14 | 7 | 7 |
 | Hard   | 1 | 1 | 0 |
