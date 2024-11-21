@@ -23,7 +23,7 @@
 | November 18 | [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | Easy | Solved |
 | November 19 | [2461. Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | Medium | Solved |
 | November 20 | [2516. Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | Medium | Solved |
-| November 21 | []() |  |  |
+| November 21 | [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | Medium | Solved |
 | November 22 | []() |  |  |
 | November 23 | []() |  |  |
 | November 24 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 15 | 8 | 7 |
+| Medium | 16 | 9 | 7 |
 | Hard   | 1 | 1 | 0 |
