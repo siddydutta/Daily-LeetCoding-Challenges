@@ -25,7 +25,7 @@
 | November 20 | [2516. Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | Medium | Solved |
 | November 21 | [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | Medium | Solved |
 | November 22 | [1072. Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | Medium | Unsolved |
-| November 23 | []() |  |  |
+| November 23 | [1861. Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | Medium | Solved |
 | November 24 | []() |  |  |
 | November 25 | []() |  |  |
 | November 26 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 17 | 9 | 8 |
+| Medium | 18 | 10 | 8 |
 | Hard   | 1 | 1 | 0 |
