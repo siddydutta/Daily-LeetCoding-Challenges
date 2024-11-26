@@ -28,7 +28,7 @@
 | November 23 | [1861. Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | Medium | Solved |
 | November 24 | [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium | Unsolved |
 | November 25 | [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | Hard | Unsolved |
-| November 26 | []() |  |  |
+| November 26 | [2924. Find Champion II](https://leetcode.com/problems/find-champion-ii/) | Medium | Solved |
 | November 27 | []() |  |  |
 | November 28 | []() |  |  |
 | November 29 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 19 | 10 | 9 |
+| Medium | 20 | 11 | 9 |
 | Hard   | 2 | 1 | 1 |
