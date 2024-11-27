@@ -29,7 +29,7 @@
 | November 24 | [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium | Unsolved |
 | November 25 | [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | Hard | Unsolved |
 | November 26 | [2924. Find Champion II](https://leetcode.com/problems/find-champion-ii/) | Medium | Solved |
-| November 27 | []() |  |  |
+| November 27 | [3243. Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/) | Medium | Solved |
 | November 28 | []() |  |  |
 | November 29 | []() |  |  |
 | November 30 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 20 | 11 | 9 |
+| Medium | 21 | 12 | 9 |
 | Hard   | 2 | 1 | 1 |
