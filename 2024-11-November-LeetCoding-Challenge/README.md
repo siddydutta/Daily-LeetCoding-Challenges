@@ -31,7 +31,7 @@
 | November 26 | [2924. Find Champion II](https://leetcode.com/problems/find-champion-ii/) | Medium | Solved |
 | November 27 | [3243. Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/) | Medium | Solved |
 | November 28 | [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | Hard | Unsolved |
-| November 29 | []() |  |  |
+| November 29 | [2577. Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) | Hard | Unsolved |
 | November 30 | []() |  |  |
 
 ## Summary
@@ -39,4 +39,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
 | Medium | 21 | 12 | 9 |
-| Hard   | 3 | 1 | 2 |
+| Hard   | 4 | 1 | 3 |
