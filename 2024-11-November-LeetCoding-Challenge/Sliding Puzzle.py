@@ -24,8 +24,7 @@ class Solution:
                 return steps
             for neighbor in neighbors[zero]:
                 new_state = list(state)
-                new_state[zero] = new_state[neighbor]
-                new_state[neighbor] = new_state[zero]
+                new_state[zero], new_state[neighbor] = new_state[neighbor], new_state[zero]
                 new_state = ''.join(new_state)
                 if new_state not in visited:
                     visited.add(new_state)
