@@ -8,7 +8,7 @@
 | December 3  | [2109. Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) | Medium | Solved |
 | December 4  | [2825. Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/) | Medium | Solved |
 | December 5  | [2337. Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | Medium | Unsolved |
-| December 6  | []() |  |  |
+| December 6  | [2554. Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/) | Medium | Solved |
 | December 7  | []() |  |  |
 | December 8  | []() |  |  |
 | December 9  | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 3 | 2 | 1 |
+| Medium | 4 | 3 | 1 |
 | Hard   | 0 | 0 | 0 |
