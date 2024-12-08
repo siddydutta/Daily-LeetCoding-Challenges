@@ -9,7 +9,7 @@
 | December 4  | [2825. Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/) | Medium | Solved |
 | December 5  | [2337. Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | Medium | Unsolved |
 | December 6  | [2554. Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/) | Medium | Solved |
-| December 7  | []() |  |  |
+| December 7  | [1760. Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | Medium | Solved |
 | December 8  | []() |  |  |
 | December 9  | []() |  |  |
 | December 10 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 4 | 3 | 1 |
+| Medium | 5 | 4 | 1 |
 | Hard   | 0 | 0 | 0 |
