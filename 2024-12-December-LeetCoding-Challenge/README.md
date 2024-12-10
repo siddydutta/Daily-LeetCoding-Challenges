@@ -12,7 +12,7 @@
 | December 7  | [1760. Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | Medium | Solved |
 | December 8  | [2054. Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | Medium | Solved |
 | December 9  | [3152. Special Array II](https://leetcode.com/problems/special-array-ii/) | Medium | Solved |
-| December 10 | []() |  |  |
+| December 10 | [2981. Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/) | Medium | Unsolved |
 | December 11 | []() |  |  |
 | December 12 | []() |  |  |
 | December 13 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 7 | 6 | 1 |
+| Medium | 8 | 6 | 2 |
 | Hard   | 0 | 0 | 0 |
