@@ -13,7 +13,7 @@
 | December 8  | [2054. Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | Medium | Solved |
 | December 9  | [3152. Special Array II](https://leetcode.com/problems/special-array-ii/) | Medium | Solved |
 | December 10 | [2981. Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/) | Medium | Unsolved |
-| December 11 | []() |  |  |
+| December 11 | [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | Medium | Unsolved |
 | December 12 | []() |  |  |
 | December 13 | []() |  |  |
 | December 14 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 8 | 6 | 2 |
+| Medium | 9 | 6 | 3 |
 | Hard   | 0 | 0 | 0 |
