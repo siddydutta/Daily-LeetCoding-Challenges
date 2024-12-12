@@ -14,7 +14,7 @@
 | December 9  | [3152. Special Array II](https://leetcode.com/problems/special-array-ii/) | Medium | Solved |
 | December 10 | [2981. Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/) | Medium | Unsolved |
 | December 11 | [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | Medium | Unsolved |
-| December 12 | []() |  |  |
+| December 12 | [2558. Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | Easy | Solved |
 | December 13 | []() |  |  |
 | December 14 | []() |  |  |
 | December 15 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 2 | 2 | 0 |
+| Easy   | 3 | 3 | 0 |
 | Medium | 9 | 6 | 3 |
 | Hard   | 0 | 0 | 0 |
