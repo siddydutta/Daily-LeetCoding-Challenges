@@ -15,7 +15,7 @@
 | December 10 | [2981. Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/) | Medium | Unsolved |
 | December 11 | [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | Medium | Unsolved |
 | December 12 | [2558. Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | Easy | Solved |
-| December 13 | []() |  |  |
+| December 13 | [2593. Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | Medium | Solved |
 | December 14 | []() |  |  |
 | December 15 | []() |  |  |
 | December 16 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 9 | 6 | 3 |
+| Medium | 10 | 7 | 3 |
 | Hard   | 0 | 0 | 0 |
