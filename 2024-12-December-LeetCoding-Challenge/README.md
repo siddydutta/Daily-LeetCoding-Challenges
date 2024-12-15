@@ -17,7 +17,7 @@
 | December 12 | [2558. Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | Easy | Solved |
 | December 13 | [2593. Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | Medium | Solved |
 | December 14 | [2762. Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/) | Medium | Unsolved |
-| December 15 | []() |  |  |
+| December 15 | [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | Medium | Unsolved |
 | December 16 | []() |  |  |
 | December 17 | []() |  |  |
 | December 18 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 10 | 7 | 3 |
+| Medium | 12 | 7 | 5 |
 | Hard   | 0 | 0 | 0 |
