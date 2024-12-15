@@ -16,7 +16,7 @@
 | December 11 | [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | Medium | Unsolved |
 | December 12 | [2558. Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | Easy | Solved |
 | December 13 | [2593. Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | Medium | Solved |
-| December 14 | []() |  |  |
+| December 14 | [2762. Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/) | Medium | Unsolved |
 | December 15 | []() |  |  |
 | December 16 | []() |  |  |
 | December 17 | []() |  |  |
