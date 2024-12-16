@@ -18,7 +18,7 @@
 | December 13 | [2593. Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | Medium | Solved |
 | December 14 | [2762. Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/) | Medium | Unsolved |
 | December 15 | [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | Medium | Unsolved |
-| December 16 | []() |  |  |
+| December 16 | [3264. Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | Easy | Solved |
 | December 17 | []() |  |  |
 | December 18 | []() |  |  |
 | December 19 | []() |  |  |
@@ -38,6 +38,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 3 | 3 | 0 |
+| Easy   | 4 | 4 | 0 |
 | Medium | 12 | 7 | 5 |
 | Hard   | 0 | 0 | 0 |
