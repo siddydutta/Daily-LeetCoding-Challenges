@@ -25,12 +25,12 @@ def main():
     classes = [[1, 2], [3, 5], [2, 2]]
     extraStudents = 2
     result = Solution().maxAverageRatio(classes, extraStudents)
-    assert abs(result) < 1e-5
+    assert abs(result - 0.78333) < 1e-5
 
     classes = [[2, 4], [3, 9], [4, 5], [2, 10]]
     extraStudents = 4
     result = Solution().maxAverageRatio(classes, extraStudents)
-    assert abs(result) < 1e-5
+    assert abs(result - 0.53485) < 1e-5
 
 
 if __name__ == '__main__':
