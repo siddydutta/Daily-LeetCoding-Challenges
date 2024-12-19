@@ -21,7 +21,7 @@
 | December 16 | [3264. Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | Easy | Solved |
 | December 17 | [2182. Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | Medium | Solved |
 | December 18 | [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | Easy | Solved |
-| December 19 | []() |  |  |
+| December 19 | [769. Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | Medium | Unsolved |
 | December 20 | []() |  |  |
 | December 21 | []() |  |  |
 | December 22 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 13 | 8 | 5 |
+| Medium | 14 | 8 | 6 |
 | Hard   | 0 | 0 | 0 |
