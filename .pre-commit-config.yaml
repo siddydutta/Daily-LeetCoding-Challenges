@@ -4,3 +4,4 @@ repos:
     hooks:
       - id: flake8
         verbose: true
+        args: [--max-line-length=99]
