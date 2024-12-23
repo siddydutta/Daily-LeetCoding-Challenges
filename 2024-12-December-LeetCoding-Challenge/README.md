@@ -25,7 +25,7 @@
 | December 20 | [2415. Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | Medium | Solved |
 | December 21 | [2872. Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | Hard | Unsolved |
 | December 22 | [2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | Hard | Unsolved |
-| December 23 | []() |  |  |
+| December 23 | [2471. Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium | Solved |
 | December 24 | []() |  |  |
 | December 25 | []() |  |  |
 | December 26 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 15 | 9 | 6 |
+| Medium | 16 | 10 | 6 |
 | Hard   | 2 | 0 | 2 |
