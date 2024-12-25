@@ -27,7 +27,7 @@
 | December 22 | [2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | Hard | Unsolved |
 | December 23 | [2471. Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium | Solved |
 | December 24 | [3203. Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/) | Hard | Unsolved |
-| December 25 | []() |  |  |
+| December 25 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Medium | Solved |
 | December 26 | []() |  |  |
 | December 27 | []() |  |  |
 | December 28 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 16 | 10 | 6 |
+| Medium | 17 | 11 | 6 |
 | Hard   | 3 | 0 | 3 |
