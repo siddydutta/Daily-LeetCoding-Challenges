@@ -29,7 +29,7 @@
 | December 24 | [3203. Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/) | Hard | Unsolved |
 | December 25 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Medium | Solved |
 | December 26 | [494. Target Sum](https://leetcode.com/problems/target-sum/) | Medium | Solved |
-| December 27 | []() |  |  |
+| December 27 | [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | Medium | Unsolved |
 | December 28 | []() |  |  |
 | December 29 | []() |  |  |
 | December 30 | []() |  |  |
@@ -39,5 +39,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 18 | 12 | 6 |
+| Medium | 19 | 12 | 7 |
 | Hard   | 3 | 0 | 3 |
