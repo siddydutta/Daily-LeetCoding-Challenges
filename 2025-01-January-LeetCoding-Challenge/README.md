@@ -14,7 +14,7 @@
 | January 9  | [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | Easy | Solved |
 | January 10 | [916. Word Subsets](https://leetcode.com/problems/word-subsets/) | Medium | Solved |
 | January 11 | [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | Medium | Solved |
-| January 12 | []() |  |  |
+| January 12 | [2116. Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | Medium | Unsolved |
 | January 13 | [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/) | Medium | Solved |
 | January 14 | []() |  |  |
 | January 15 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 8 | 8 | 0 |
+| Medium | 9 | 8 | 1 |
 | Hard   | 0 | 0 | 0 |
