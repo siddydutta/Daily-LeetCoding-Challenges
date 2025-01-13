@@ -15,7 +15,7 @@
 | January 10 | [916. Word Subsets](https://leetcode.com/problems/word-subsets/) | Medium | Solved |
 | January 11 | [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | Medium | Solved |
 | January 12 | []() |  |  |
-| January 13 | []() |  |  |
+| January 13 | [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/) | Medium | Solved |
 | January 14 | []() |  |  |
 | January 15 | []() |  |  |
 | January 16 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 7 | 7 | 0 |
+| Medium | 8 | 8 | 0 |
 | Hard   | 0 | 0 | 0 |
