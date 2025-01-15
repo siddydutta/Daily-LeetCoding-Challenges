@@ -17,7 +17,7 @@
 | January 12 | [2116. Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | Medium | Unsolved |
 | January 13 | [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/) | Medium | Solved |
 | January 14 | [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | Medium | Solved |
-| January 15 | []() |  |  |
+| January 15 | [2429. Minimize XOR](https://leetcode.com/problems/minimize-xor/) | Medium | Unsolved |
 | January 16 | []() |  |  |
 | January 17 | []() |  |  |
 | January 18 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 10 | 9 | 1 |
+| Medium | 11 | 9 | 2 |
 | Hard   | 0 | 0 | 0 |
