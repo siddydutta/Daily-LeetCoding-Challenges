@@ -19,7 +19,7 @@
 | January 14 | [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | Medium | Solved |
 | January 15 | [2429. Minimize XOR](https://leetcode.com/problems/minimize-xor/) | Medium | Unsolved |
 | January 16 | [2425. Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | Medium | Solved |
-| January 17 | []() |  |  |
+| January 17 | [2683. Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/) | Medium | Solved |
 | January 18 | []() |  |  |
 | January 19 | []() |  |  |
 | January 20 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 12 | 10 | 2 |
+| Medium | 13 | 11 | 2 |
 | Hard   | 0 | 0 | 0 |
