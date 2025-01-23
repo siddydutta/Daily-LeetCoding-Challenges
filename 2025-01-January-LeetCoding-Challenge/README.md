@@ -25,7 +25,7 @@
 | January 20 | [2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) | Medium | Solved |
 | January 21 | [2017. Grid Game](https://leetcode.com/problems/grid-game/) | Medium | Solved |
 | January 22 | [1765. Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | Medium | Solved |
-| January 23 | []() |  |  |
+| January 23 | [1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | Medium | Solved |
 | January 24 | []() |  |  |
 | January 25 | []() |  |  |
 | January 26 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 15 | 13 | 2 |
+| Medium | 16 | 14 | 2 |
 | Hard   | 2 | 0 | 2 |
