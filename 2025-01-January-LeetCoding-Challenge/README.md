@@ -28,8 +28,8 @@
 | January 23 | [1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | Medium | Solved |
 | January 24 | [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | Unsolved |
 | January 25 | [2948. Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | Medium | Solved |
-| January 26 | []() |  |  |
-| January 27 | []() |  |  |
+| January 26 | [2127. Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/) | Hard | Unsolved |
+| January 27 | [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | Medium | Solved |
 | January 28 | []() |  |  |
 | January 29 | []() |  |  |
 | January 30 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 18 | 15 | 3 |
-| Hard   | 2 | 0 | 2 |
+| Medium | 19 | 16 | 3 |
+| Hard   | 3 | 0 | 3 |
