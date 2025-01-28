@@ -30,7 +30,7 @@
 | January 25 | [2948. Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | Medium | Solved |
 | January 26 | [2127. Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/) | Hard | Unsolved |
 | January 27 | [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | Medium | Solved |
-| January 28 | []() |  |  |
+| January 28 | [2658. Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | Medium | Solved |
 | January 29 | []() |  |  |
 | January 30 | []() |  |  |
 | January 31 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 19 | 16 | 3 |
+| Medium | 20 | 17 | 3 |
 | Hard   | 3 | 0 | 3 |
