@@ -31,7 +31,7 @@
 | January 26 | [2127. Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/) | Hard | Unsolved |
 | January 27 | [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | Medium | Solved |
 | January 28 | [2658. Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | Medium | Solved |
-| January 29 | []() |  |  |
+| January 29 | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) | Medium | Solved |
 | January 30 | []() |  |  |
 | January 31 | []() |  |  |
 
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 20 | 17 | 3 |
+| Medium | 21 | 18 | 3 |
 | Hard   | 3 | 0 | 3 |
