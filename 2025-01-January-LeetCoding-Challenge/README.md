@@ -32,8 +32,8 @@
 | January 27 | [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | Medium | Solved |
 | January 28 | [2658. Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | Medium | Solved |
 | January 29 | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) | Medium | Solved |
-| January 30 | []() |  |  |
-| January 31 | []() |  |  |
+| January 30 | [2493. Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/) | Hard | Unsolved |
+| January 31 | [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | Hard | Unsolved |
 
 
 ## Summary
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
 | Medium | 21 | 18 | 3 |
-| Hard   | 3 | 0 | 3 |
+| Hard   | 5 | 0 | 5 |
