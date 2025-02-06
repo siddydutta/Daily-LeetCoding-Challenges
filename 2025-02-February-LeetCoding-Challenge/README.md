@@ -9,7 +9,7 @@
 | February 03 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | Solved |
 | February 04 | [1800. Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | Easy | Solved |
 | February 05 | [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | Easy | Solved |
-| February 06 | []() |  |  |
+| February 06 | [1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/) | Medium | Solved |
 | February 07 | []() |  |  |
 | February 08 | []() |  |  |
 | February 09 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 0 | 0 | 0 |
+| Medium | 1 | 1 | 0 |
 | Hard   | 0 | 0 | 0 |
