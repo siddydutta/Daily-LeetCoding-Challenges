@@ -11,7 +11,7 @@
 | February 05 | [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | Easy | Solved |
 | February 06 | [1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/) | Medium | Solved |
 | February 07 | [3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/) | Medium | Solved |
-| February 08 | []() |  |  |
+| February 08 | [2349. Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/) | Medium | Solved |
 | February 09 | []() |  |  |
 | February 10 | []() |  |  |
 | February 11 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 2 | 2 | 0 |
+| Medium | 3 | 3 | 0 |
 | Hard   | 0 | 0 | 0 |
