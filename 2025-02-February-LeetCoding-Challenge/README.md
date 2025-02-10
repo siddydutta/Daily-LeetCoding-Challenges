@@ -13,7 +13,7 @@
 | February 07 | [3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/) | Medium | Solved |
 | February 08 | [2349. Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/) | Medium | Solved |
 | February 09 | [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | Medium | Solved |
-| February 10 | []() |  |  |
+| February 10 | [3174. Clear Digits](https://leetcode.com/problems/clear-digits/) | Easy | Solved |
 | February 11 | []() |  |  |
 | February 12 | []() |  |  |
 | February 13 | []() |  |  |
@@ -37,6 +37,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 5 | 5 | 0 |
+| Easy   | 6 | 6 | 0 |
 | Medium | 4 | 4 | 0 |
 | Hard   | 0 | 0 | 0 |
