@@ -14,7 +14,7 @@
 | February 08 | [2349. Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/) | Medium | Solved |
 | February 09 | [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | Medium | Solved |
 | February 10 | [3174. Clear Digits](https://leetcode.com/problems/clear-digits/) | Easy | Solved |
-| February 11 | []() |  |  |
+| February 11 | [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | Medium | Solved |
 | February 12 | []() |  |  |
 | February 13 | []() |  |  |
 | February 14 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 4 | 4 | 0 |
+| Medium | 5 | 5 | 0 |
 | Hard   | 0 | 0 | 0 |
