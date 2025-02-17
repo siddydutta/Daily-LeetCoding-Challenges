@@ -19,8 +19,8 @@
 | February 13 | [3066. Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | Medium | Solved |
 | February 14 | [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium | Solved |
 | February 15 | [2698. Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/) | Medium | Solved |
-| February 16 | []() |  |  |
-| February 17 | []() |  |  |
+| February 16 | [1718. Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | Medium | Unsolved |
+| February 17 | [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | Medium | Solved |
 | February 18 | []() |  |  |
 | February 19 | []() |  |  |
 | February 20 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 8 | 8 | 0 |
+| Medium | 10 | 9 | 1 |
 | Hard   | 0 | 0 | 0 |
