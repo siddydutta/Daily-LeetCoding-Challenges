@@ -23,7 +23,7 @@
 | February 17 | [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | Medium | Solved |
 | February 18 | [2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | Medium | Unsolved |
 | February 19 | [1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | Unsolved |
-| February 20 | []() |  |  |
+| February 20 | [1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | Medium | Solved |
 | February 21 | []() |  |  |
 | February 22 | []() |  |  |
 | February 23 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 12 | 9 | 3 |
+| Medium | 13 | 10 | 3 |
 | Hard   | 0 | 0 | 0 |
