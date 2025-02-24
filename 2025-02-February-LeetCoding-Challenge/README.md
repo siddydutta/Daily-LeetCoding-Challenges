@@ -27,7 +27,7 @@
 | February 21 | [1261. Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | Medium | Solved |
 | February 22 | [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | Hard | Solved |
 | February 23 | [889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium | Unsolved |
-| February 24 | []() |  |  |
+| February 24 | [2467. Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | Medium | Unsolved |
 | February 25 | []() |  |  |
 | February 26 | []() |  |  |
 | February 27 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 15 | 12 | 3 |
+| Medium | 16 | 12 | 4 |
 | Hard   | 1 | 1 | 0 |
