@@ -28,7 +28,7 @@
 | February 22 | [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | Hard | Solved |
 | February 23 | [889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium | Unsolved |
 | February 24 | [2467. Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | Medium | Unsolved |
-| February 25 | []() |  |  |
+| February 25 | [1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium | Solved |
 | February 26 | []() |  |  |
 | February 27 | []() |  |  |
 | February 28 | []() |  |  |
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 16 | 12 | 4 |
+| Medium | 17 | 13 | 4 |
 | Hard   | 1 | 1 | 0 |
