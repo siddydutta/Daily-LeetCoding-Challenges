@@ -30,7 +30,7 @@
 | February 24 | [2467. Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | Medium | Unsolved |
 | February 25 | [1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium | Solved |
 | February 26 | [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Medium | Unsolved |
-| February 27 | []() |  |  |
+| February 27 | [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | Medium | Solved |
 | February 28 | []() |  |  |
 
 
@@ -38,5 +38,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 18 | 13 | 5 |
+| Medium | 19 | 14 | 5 |
 | Hard   | 1 | 1 | 0 |
