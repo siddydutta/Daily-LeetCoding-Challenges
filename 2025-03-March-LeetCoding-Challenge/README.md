@@ -7,7 +7,7 @@
 | March 01 | [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy | Solved |
 | March 02 | [2570. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | Easy | Solved |
 | March 03 | [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium | Solved |
-| March 04 | []() |  |  |
+| March 04 | [1780. Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | Medium | Solved |
 | March 05 | []() |  |  |
 | March 06 | []() |  |  |
 | March 07 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 1 | 1 | 0 |
+| Medium | 2 | 1 | 1 |
 | Hard   | 0 | 0 | 0 |
