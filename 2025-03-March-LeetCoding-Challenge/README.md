@@ -9,7 +9,7 @@
 | March 03 | [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium | Solved |
 | March 04 | [1780. Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | Medium | Solved |
 | March 05 | [2579. Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) | Medium | Solved |
-| March 06 | []() |  |  |
+| March 06 | [2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | Easy | Solved |
 | March 07 | []() |  |  |
 | March 08 | []() |  |  |
 | March 09 | []() |  |  |
@@ -40,6 +40,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 2 | 2 | 0 |
+| Easy   | 3 | 3 | 0 |
 | Medium | 3 | 1 | 3 |
 | Hard   | 0 | 0 | 0 |
