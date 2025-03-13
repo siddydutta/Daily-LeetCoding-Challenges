@@ -16,7 +16,7 @@
 | March 10 | [3306. Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | Medium | Unsolved |
 | March 11 | [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | Solved |
 | March 12 | [2529. Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | Easy | Solved |
-| March 13 | []() |  |  |
+| March 13 | [](https://leetcode.com/problems/zero-array-transformation-ii/) | Medium | Unsolved |
 | March 14 | []() |  |  |
 | March 15 | []() |  |  |
 | March 16 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 7 | 4 | 3 |
+| Medium | 8 | 4 | 4 |
 | Hard   | 0 | 0 | 0 |
