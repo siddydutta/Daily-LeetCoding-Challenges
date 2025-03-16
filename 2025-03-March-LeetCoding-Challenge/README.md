@@ -19,7 +19,7 @@
 | March 13 | [https://leetcode.com/problems/zero-array-transformation-ii/](https://leetcode.com/problems/zero-array-transformation-ii/) | Medium | Unsolved |
 | March 14 | [2226. Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) | Medium | Solved |
 | March 15 | [2560. House Robber IV](https://leetcode.com/problems/house-robber-iv/) | Medium | Unsolved |
-| March 16 | []() |  |  |
+| March 16 | [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) | Medium | Unsolved |
 | March 17 | []() |  |  |
 | March 18 | []() |  |  |
 | March 19 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 10 | 5 | 5 |
+| Medium | 11 | 5 | 6 |
 | Hard   | 0 | 0 | 0 |
