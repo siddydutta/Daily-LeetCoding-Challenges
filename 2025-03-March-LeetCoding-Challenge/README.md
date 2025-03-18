@@ -21,7 +21,7 @@
 | March 15 | [2560. House Robber IV](https://leetcode.com/problems/house-robber-iv/) | Medium | Unsolved |
 | March 16 | [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) | Medium | Unsolved |
 | March 17 | [2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) | Easy | Solved |
-| March 18 | []() |  |  |
+| March 18 | [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) | Medium | Unsolved |
 | March 19 | []() |  |  |
 | March 20 | []() |  |  |
 | March 21 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 11 | 5 | 6 |
+| Medium | 12 | 5 | 7 |
 | Hard   | 0 | 0 | 0 |
