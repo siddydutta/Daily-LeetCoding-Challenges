@@ -22,7 +22,7 @@
 | March 16 | [2594. Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) | Medium | Unsolved |
 | March 17 | [2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) | Easy | Solved |
 | March 18 | [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) | Medium | Unsolved |
-| March 19 | []() |  |  |
+| March 19 | [3191. Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium | Solved |
 | March 20 | []() |  |  |
 | March 21 | []() |  |  |
 | March 22 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 12 | 5 | 7 |
+| Medium | 13 | 6 | 7 |
 | Hard   | 0 | 0 | 0 |
