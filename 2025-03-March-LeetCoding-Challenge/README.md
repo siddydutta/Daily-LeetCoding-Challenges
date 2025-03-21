@@ -24,7 +24,7 @@
 | March 18 | [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) | Medium | Unsolved |
 | March 19 | [3191. Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium | Solved |
 | March 20 | [3108. Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | Hard | Unsolved |
-| March 21 | []() |  |  |
+| March 21 | [2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | Medium | Unsolved |
 | March 22 | []() |  |  |
 | March 23 | []() |  |  |
 | March 24 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 13 | 6 | 7 |
+| Medium | 14 | 6 | 8 |
 | Hard   | 1 | 0 | 1 |
