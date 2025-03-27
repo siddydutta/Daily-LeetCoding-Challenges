@@ -30,7 +30,7 @@
 | March 24 | [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/) | Medium | Solved |
 | March 25 | [3394. Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/) | Medium | Solved |
 | March 26 | [2033. Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Medium | Solved |
-| March 27 | []() |  |  |
+| March 27 | [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/) | Medium | Unsolved |
 | March 28 | []() |  |  |
 | March 29 | []() |  |  |
 | March 30 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 19 | 9 | 10 |
+| Medium | 20 | 9 | 11 |
 | Hard   | 1 | 0 | 1 |
