@@ -32,8 +32,8 @@
 | March 26 | [2033. Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | Medium | Solved |
 | March 27 | [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/) | Medium | Unsolved |
 | March 28 | [2503. Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/) | Hard | Unsolved |
-| March 29 | []() |  |  |
-| March 30 | []() |  |  |
+| March 29 | [2818. Apply Operations to Maximize Score](https://leetcode.com/problems/apply-operations-to-maximize-score/) | Hard | Unsolved |
+| March 30 | [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | Medium | Solved |
 | March 31 | []() |  |  |
 
 
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 20 | 9 | 11 |
-| Hard   | 2 | 0 | 2 |
+| Medium | 21 | 10 | 11 |
+| Hard   | 3 | 0 | 3 |
