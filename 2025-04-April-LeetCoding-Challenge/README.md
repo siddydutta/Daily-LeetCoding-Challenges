@@ -5,7 +5,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | April 01 | [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | Medium | Solved |
-| April 02 | []() |  |  |
+| April 02 | [2873. Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | Easy | Solved |
 | April 03 | []() |  |  |
 | April 04 | []() |  |  |
 | April 05 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 0 | 0 | 0 |
+| Easy   | 1 | 1 | 0 |
 | Medium | 1 | 1 | 0 |
 | Hard   | 0 | 0 | 0 |
