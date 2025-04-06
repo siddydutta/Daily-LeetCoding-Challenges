@@ -8,8 +8,8 @@
 | April 02 | [2873. Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | Easy | Solved |
 | April 03 | [2874. Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/) | Medium | Solved |
 | April 04 | [1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | Medium | Solved |
-| April 05 | []() |  |  |
-| April 06 | []() |  |  |
+| April 05 | [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | Easy | Solved |
+| April 06 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | Unsolved |
 | April 07 | []() |  |  |
 | April 08 | []() |  |  |
 | April 09 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 1 | 1 | 0 |
-| Medium | 3 | 3 | 0 |
+| Easy   | 2 | 2 | 0 |
+| Medium | 4 | 3 | 1 |
 | Hard   | 0 | 0 | 0 |
