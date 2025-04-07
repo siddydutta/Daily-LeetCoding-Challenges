@@ -10,7 +10,7 @@
 | April 04 | [1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | Medium | Solved |
 | April 05 | [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | Easy | Solved |
 | April 06 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | Unsolved |
-| April 07 | []() |  |  |
+| April 07 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | Solved |
 | April 08 | []() |  |  |
 | April 09 | []() |  |  |
 | April 10 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 4 | 3 | 1 |
+| Medium | 5 | 4 | 1 |
 | Hard   | 0 | 0 | 0 |
