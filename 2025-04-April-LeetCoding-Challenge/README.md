@@ -12,7 +12,7 @@
 | April 06 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | Unsolved |
 | April 07 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | Solved |
 | April 08 | [3396. Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy | Solved |
-| April 09 | []() |  |  |
+| April 09 | [3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | Easy | Solved |
 | April 10 | []() |  |  |
 | April 11 | []() |  |  |
 | April 12 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 5 | 4 | 1 |
+| Medium | 6 | 5 | 1 |
 | Hard   | 0 | 0 | 0 |
