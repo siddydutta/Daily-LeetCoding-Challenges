@@ -15,8 +15,8 @@
 | April 09 | [3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | Easy | Solved |
 | April 10 | [2999. Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | Hard | Unsolved |
 | April 11 | [2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | Easy | Solved |
-| April 12 | []() |  |  |
-| April 13 | []() |  |  |
+| April 12 | [3272. Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/) | Hard | Unsolved |
+| April 13 | [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium | Unsolved |
 | April 14 | []() |  |  |
 | April 15 | []() |  |  |
 | April 16 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 4 | 4 | 0 |
-| Medium | 6 | 5 | 1 |
-| Hard   | 1 | 0 | 1 |
+| Medium | 7 | 5 | 2 |
+| Hard   | 2 | 0 | 2 |
