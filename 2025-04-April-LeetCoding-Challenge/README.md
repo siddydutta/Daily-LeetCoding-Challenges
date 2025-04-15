@@ -18,7 +18,7 @@
 | April 12 | [3272. Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/) | Hard | Unsolved |
 | April 13 | [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium | Unsolved |
 | April 14 | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | Easy | Solved |
-| April 15 | []() |  |  |
+| April 15 | [2179. Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/) | Hard | Unsolved |
 | April 16 | []() |  |  |
 | April 17 | []() |  |  |
 | April 18 | []() |  |  |
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
 | Medium | 7 | 5 | 2 |
-| Hard   | 2 | 0 | 2 |
+| Hard   | 3 | 0 | 3 |
