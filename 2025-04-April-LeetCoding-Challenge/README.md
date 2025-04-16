@@ -19,7 +19,7 @@
 | April 13 | [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium | Unsolved |
 | April 14 | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | Easy | Solved |
 | April 15 | [2179. Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/) | Hard | Unsolved |
-| April 16 | []() |  |  |
+| April 16 | [2537. Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/) | Medium | Unsolved |
 | April 17 | []() |  |  |
 | April 18 | []() |  |  |
 | April 19 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 7 | 5 | 2 |
+| Medium | 8 | 5 | 3 |
 | Hard   | 3 | 0 | 3 |
