@@ -20,7 +20,7 @@
 | April 14 | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | Easy | Solved |
 | April 15 | [2179. Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/) | Hard | Unsolved |
 | April 16 | [2537. Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/) | Medium | Unsolved |
-| April 17 | []() |  |  |
+| April 17 | [2176. Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | Easy | Solved |
 | April 18 | []() |  |  |
 | April 19 | []() |  |  |
 | April 20 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 5 | 5 | 0 |
+| Easy   | 6 | 6 | 0 |
 | Medium | 8 | 5 | 3 |
 | Hard   | 3 | 0 | 3 |
