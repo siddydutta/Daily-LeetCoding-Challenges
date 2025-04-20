@@ -23,7 +23,7 @@
 | April 17 | [2176. Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | Easy | Solved |
 | April 18 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | Medium | Solved |
 | April 19 | [2563. Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | Medium | Solved |
-| April 20 | []() |  |  |
+| April 20 | [781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/) | Medium | Solved |
 | April 21 | []() |  |  |
 | April 22 | []() |  |  |
 | April 23 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 6 | 6 | 0 |
-| Medium | 10 | 7 | 3 |
+| Medium | 11 | 8 | 3 |
 | Hard   | 3 | 0 | 3 |
