@@ -25,8 +25,8 @@
 | April 19 | [2563. Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | Medium | Solved |
 | April 20 | [781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/) | Medium | Solved |
 | April 21 | [2145. Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | Medium | Solved |
-| April 22 | []() |  |  |
-| April 23 | []() |  |  |
+| April 22 | [2338. Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | Hard | Unsolved |
+| April 23 | [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/) | Easy | Solved |
 | April 24 | []() |  |  |
 | April 25 | []() |  |  |
 | April 26 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 6 | 6 | 0 |
+| Easy   | 7 | 7 | 0 |
 | Medium | 12 | 9 | 3 |
-| Hard   | 3 | 0 | 3 |
+| Hard   | 4 | 0 | 4 |
