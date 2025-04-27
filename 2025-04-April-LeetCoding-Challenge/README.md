@@ -29,8 +29,8 @@
 | April 23 | [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/) | Easy | Solved |
 | April 24 | [2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/) | Medium | Solved |
 | April 25 | [2845. Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/) | Medium | Unsolved |
-| April 26 | []() |  |  |
-| April 27 | []() |  |  |
+| April 26 | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | Hard | Unsolved |
+| April 27 | [3392. Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | Easy | Solved |
 | April 28 | []() |  |  |
 | April 29 | []() |  |  |
 | April 30 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 7 | 7 | 0 |
+| Easy   | 8 | 8 | 0 |
 | Medium | 13 | 9 | 4 |
-| Hard   | 4 | 0 | 4 |
+| Hard   | 5 | 0 | 5 |
