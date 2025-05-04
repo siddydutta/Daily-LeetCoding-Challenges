@@ -7,7 +7,7 @@
 | May 01 | [2071. Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/) | Hard | Solved |
 | May 02 | [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/) | Medium | Solved |
 | May 03 | [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | Medium | Solved |
-| May 04 | []() |  |  |
+| May 04 | [1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | Easy | Solved |
 | May 05 | []() |  |  |
 | May 06 | []() |  |  |
 | May 07 | []() |  |  |
@@ -40,6 +40,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 0 | 0 | 0 |
+| Easy   | 1 | 1 | 0 |
 | Medium | 2 | 2 | 0 |
 | Hard   | 1 | 1 | 0 |
