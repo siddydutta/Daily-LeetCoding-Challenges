@@ -27,8 +27,8 @@ def main():
                 [4, 4]]
     assert Solution().minTimeToReach(moveTime) == 7
 
-    moveTime = [[0, 0, 0],
-                [0, 0, 0]]
+    moveTime = [[0, 0, 0, 0],
+                [0, 0, 0, 0]]
     assert Solution().minTimeToReach(moveTime) == 6
 
 
