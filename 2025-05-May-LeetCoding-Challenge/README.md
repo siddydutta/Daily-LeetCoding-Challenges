@@ -15,7 +15,7 @@
 | May 09 | [3343. Count Number of Balanced Permutations](https://leetcode.com/problems/count-number-of-balanced-permutations/) | Hard | Unsolved |
 | May 10 | [2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium | Solved |
 | May 11 | [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy | Solved |
-| May 12 | []() |  |  |
+| May 12 | [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | Solved |
 | May 13 | []() |  |  |
 | May 14 | []() |  |  |
 | May 15 | []() |  |  |
@@ -40,6 +40,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 3 | 3 | 0 |
+| Easy   | 4 | 4 | 0 |
 | Medium | 6 | 6 | 0 |
 | Hard   | 2 | 1 | 1 |
