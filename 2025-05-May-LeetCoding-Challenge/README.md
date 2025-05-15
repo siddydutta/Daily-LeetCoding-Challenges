@@ -18,7 +18,7 @@
 | May 12 | [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | Solved |
 | May 13 | [3335. Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | Medium | Solved |
 | May 14 | [3337. Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/) | Hard | Unsolved |
-| May 15 | []() |  |  |
+| May 15 | [2900. Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | Easy | Solved |
 | May 16 | []() |  |  |
 | May 17 | []() |  |  |
 | May 18 | []() |  |  |
