@@ -26,8 +26,8 @@
 | May 20 | [3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/) | Medium | Solved |
 | May 21 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | Solved |
 | May 22 | [3362. Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii/) | Medium | Unsolved |
-| May 23 | []() |  |  |
-| May 24 | []() |  |  |
+| May 23 | [3068. Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/) | Hard | Unsolved |
+| May 24 | [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | Easy | Solved |
 | May 25 | []() |  |  |
 | May 26 | []() |  |  |
 | May 27 | []() |  |  |
@@ -40,6 +40,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 5 | 5 | 0 |
+| Easy   | 6 | 6 | 0 |
 | Medium | 12 | 9 | 3 |
-| Hard   | 4 | 1 | 3 |
+| Hard   | 5 | 1 | 4 |
