@@ -29,8 +29,8 @@
 | May 23 | [3068. Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/) | Hard | Unsolved |
 | May 24 | [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | Easy | Solved |
 | May 25 | [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | Solved |
-| May 26 | []() |  |  |
-| May 27 | []() |  |  |
+| May 26 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | Hard | Unsolved |
+| May 27 | [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | Easy | Solved |
 | May 28 | []() |  |  |
 | May 29 | []() |  |  |
 | May 30 | []() |  |  |
@@ -40,6 +40,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 6 | 6 | 0 |
+| Easy   | 7 | 7 | 0 |
 | Medium | 13 | 10 | 3 |
-| Hard   | 5 | 1 | 4 |
+| Hard   | 6 | 1 | 5 |
