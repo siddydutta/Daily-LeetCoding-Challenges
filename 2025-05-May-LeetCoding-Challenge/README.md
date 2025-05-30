@@ -33,7 +33,7 @@
 | May 27 | [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | Easy | Solved |
 | May 28 | []() |  |  |
 | May 29 | []() |  |  |
-| May 30 | []() |  |  |
+| May 30 | [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | Medium | Solved |
 | May 31 | []() |  |  |
 
 
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
-| Medium | 13 | 10 | 3 |
+| Medium | 14 | 11 | 3 |
 | Hard   | 6 | 1 | 5 |
