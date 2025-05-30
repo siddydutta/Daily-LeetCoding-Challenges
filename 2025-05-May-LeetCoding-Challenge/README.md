@@ -32,7 +32,7 @@
 | May 26 | [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | Hard | Unsolved |
 | May 27 | [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | Easy | Solved |
 | May 28 | [3372. Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium | Solved |
-| May 29 | []() |  |  |
+| May 29 | [3373. Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | Hard | Unsolved |
 | May 30 | [2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | Medium | Solved |
 | May 31 | []() |  |  |
 
@@ -42,4 +42,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 7 | 7 | 0 |
 | Medium | 15 | 12 | 3 |
-| Hard   | 6 | 1 | 5 |
+| Hard   | 7 | 1 | 6 |
