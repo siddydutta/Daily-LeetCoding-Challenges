@@ -5,7 +5,7 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | June 01 | [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/) | Medium | Unsolved |
-| June 02 | []() |  |  |
+| June 02 | [135. Candy](https://leetcode.com/problems/candy/) | Hard | Solved |
 | June 03 | []() |  |  |
 | June 04 | []() |  |  |
 | June 05 | []() |  |  |
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 0 | 0 | 0 |
 | Medium | 1 | 0 | 1 |
-| Hard   | 0 | 0 | 0 |
+| Hard   | 1 | 1 | 0 |
