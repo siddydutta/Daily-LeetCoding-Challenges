@@ -7,7 +7,7 @@
 | June 01 | [2929. Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/) | Medium | Unsolved |
 | June 02 | [135. Candy](https://leetcode.com/problems/candy/) | Hard | Solved |
 | June 03 | [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | Hard | Solved |
-| June 04 | []() |  |  |
+| June 04 | [3403. Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | Medium | Solved |
 | June 05 | []() |  |  |
 | June 06 | []() |  |  |
 | June 07 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 0 | 0 | 0 |
-| Medium | 1 | 0 | 1 |
+| Medium | 2 | 1 | 1 |
 | Hard   | 2 | 2 | 0 |
