@@ -10,7 +10,7 @@
 | June 04 | [3403. Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | Medium | Solved |
 | June 05 | [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string) | Medium | Unsolved |
 | June 06 | [2434. Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | Medium | Unsolved |
-| June 07 | []() |  |  |
+| June 07 | [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) | Medium | Solved |
 | June 08 | []() |  |  |
 | June 09 | []() |  |  |
 | June 10 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 0 | 0 | 0 |
-| Medium | 4 | 1 | 3 |
+| Medium | 5 | 2 | 3 |
 | Hard   | 2 | 2 | 0 |
