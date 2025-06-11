@@ -14,7 +14,7 @@
 | June 08 | [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | Medium | Solved |
 | June 09 | [440. K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | Hard | Unsolved |
 | June 10 | [3442. Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | Easy | Solved |
-| June 11 | []() |  |  |
+| June 11 | [3445. Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/) | Hard | Unsolved |
 | June 12 | []() |  |  |
 | June 13 | []() |  |  |
 | June 14 | []() |  |  |
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
 | Medium | 6 | 3 | 3 |
-| Hard   | 3 | 2 | 1 |
+| Hard   | 4 | 2 | 2 |
