@@ -19,7 +19,7 @@
 | June 13 | [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | Medium | Solved |
 | June 14 | []() |  |  |
 | June 15 | []() |  |  |
-| June 16 | []() |  |  |
+| June 16 | [2016. Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | Easy | Solved |
 | June 17 | []() |  |  |
 | June 18 | []() |  |  |
 | June 19 | []() |  |  |
@@ -39,6 +39,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 2 | 2 | 0 |
+| Easy   | 3 | 3 | 0 |
 | Medium | 7 | 4 | 3 |
 | Hard   | 4 | 2 | 2 |
