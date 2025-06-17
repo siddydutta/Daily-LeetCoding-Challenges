@@ -20,7 +20,7 @@
 | June 14 | []() |  |  |
 | June 15 | []() |  |  |
 | June 16 | [2016. Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | Easy | Solved |
-| June 17 | []() |  |  |
+| June 17 | [3405. Count the Number of Arrays with K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/) | Hard | Unsolved |
 | June 18 | []() |  |  |
 | June 19 | []() |  |  |
 | June 20 | []() |  |  |
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
 | Medium | 7 | 4 | 3 |
-| Hard   | 4 | 2 | 2 |
+| Hard   | 5 | 2 | 3 |
