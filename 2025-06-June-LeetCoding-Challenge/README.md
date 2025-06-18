@@ -21,7 +21,7 @@
 | June 15 | []() |  |  |
 | June 16 | [2016. Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | Easy | Solved |
 | June 17 | [3405. Count the Number of Arrays with K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/) | Hard | Unsolved |
-| June 18 | []() |  |  |
+| June 18 | [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Medium | Solved |
 | June 19 | []() |  |  |
 | June 20 | []() |  |  |
 | June 21 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 7 | 4 | 3 |
+| Medium | 8 | 5 | 3 |
 | Hard   | 5 | 2 | 3 |
