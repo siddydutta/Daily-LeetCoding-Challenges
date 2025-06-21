@@ -24,7 +24,7 @@
 | June 18 | [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Medium | Solved |
 | June 19 | [2294. Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | Medium | Solved |
 | June 20 | []() |  |  |
-| June 21 | []() |  |  |
+| June 21 | [3085. Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/) | Medium | Solved |
 | June 22 | []() |  |  |
 | June 23 | []() |  |  |
 | June 24 | []() |  |  |
@@ -40,5 +40,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 9 | 6 | 3 |
+| Medium | 10 | 7 | 3 |
 | Hard   | 5 | 2 | 3 |
