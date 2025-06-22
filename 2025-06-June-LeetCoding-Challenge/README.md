@@ -25,7 +25,7 @@
 | June 19 | [2294. Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | Medium | Solved |
 | June 20 | []() |  |  |
 | June 21 | [3085. Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/) | Medium | Solved |
-| June 22 | []() |  |  |
+| June 22 | [2138. Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | Easy | Solved |
 | June 23 | []() |  |  |
 | June 24 | []() |  |  |
 | June 25 | []() |  |  |
