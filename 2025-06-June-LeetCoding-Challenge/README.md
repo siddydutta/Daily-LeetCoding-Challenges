@@ -26,7 +26,7 @@
 | June 20 | []() |  |  |
 | June 21 | [3085. Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/) | Medium | Solved |
 | June 22 | [2138. Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | Easy | Solved |
-| June 23 | []() |  |  |
+| June 23 | [2081. Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/) | Hard | Unsolved |
 | June 24 | []() |  |  |
 | June 25 | []() |  |  |
 | June 26 | []() |  |  |
@@ -41,4 +41,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
 | Medium | 10 | 7 | 3 |
-| Hard   | 5 | 2 | 3 |
+| Hard   | 6 | 2 | 4 |
