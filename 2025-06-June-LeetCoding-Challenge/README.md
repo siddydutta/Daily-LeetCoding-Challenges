@@ -30,15 +30,15 @@
 | June 24 | [2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | Easy | Solved |
 | June 25 | [2040. Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/) | Hard | Unsolved |
 | June 26 | [2311. Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) | Medium | Unsolved |
-| June 27 | []() |  |  |
+| June 27 | [2014. Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/) | Hard | Unsolved |
 | June 28 | []() |  |  |
 | June 29 | []() |  |  |
-| June 30 | []() |  |  |
+| June 30 | [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | Easy | Solved |
 
 
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 4 | 4 | 0 |
+| Easy   | 5 | 5 | 0 |
 | Medium | 11 | 7 | 4 |
-| Hard   | 7 | 2 | 5 |
+| Hard   | 8 | 2 | 6 |
