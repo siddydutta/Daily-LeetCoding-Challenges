@@ -5,8 +5,8 @@
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
 | July 01 | [3330. Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | Easy | Solved |
-| July 02 | []() |  |  |
-| July 03 | []() |  |  |
+| July 02 | [3333. Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii/) | Hard | Unsolved |
+| July 03 | [3304. Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | Easy | Solved |
 | July 04 | []() |  |  |
 | July 05 | []() |  |  |
 | July 06 | []() |  |  |
@@ -40,6 +40,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 1 | 1 | 0 |
+| Easy   | 2 | 2 | 0 |
 | Medium | 0 | 0 | 0 |
-| Hard   | 0 | 0 | 0 |
+| Hard   | 1 | 0 | 1 |
