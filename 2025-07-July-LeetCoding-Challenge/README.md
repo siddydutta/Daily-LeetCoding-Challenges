@@ -9,7 +9,7 @@
 | July 03 | [3304. Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | Easy | Solved |
 | July 04 | [3307. Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/) | Hard | Unsolved |
 | July 05 | [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | Easy | Solved |
-| July 06 | []() |  |  |
+| July 06 | [1865. Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | Medium | Solved |
 | July 07 | []() |  |  |
 | July 08 | []() |  |  |
 | July 09 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 0 | 0 | 0 |
+| Medium | 1 | 1 | 0 |
 | Hard   | 2 | 0 | 2 |
