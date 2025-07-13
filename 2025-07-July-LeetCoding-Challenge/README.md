@@ -14,9 +14,9 @@
 | July 08 | [1751. Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | Hard | Solved |
 | July 09 | [3439. Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/) | Medium | Solved |
 | July 10 | [3440. Reschedule Meetings for Maximum Free Time II](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/) | Medium | Solved |
-| July 11 | []() |  |  |
-| July 12 | []() |  |  |
-| July 13 | []() |  |  |
+| July 11 | [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) | Hard | Unsolved |
+| July 12 | [1900. The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/) | Hard | Unsolved |
+| July 13 | [2410. Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | Medium | Solved |
 | July 14 | []() |  |  |
 | July 15 | []() |  |  |
 | July 16 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 3 | 3 | 0 |
-| Medium | 4 | 4 | 0 |
-| Hard   | 3 | 1 | 2 |
+| Medium | 5 | 5 | 0 |
+| Hard   | 5 | 1 | 4 |
