@@ -20,7 +20,7 @@
 | July 14 | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | Solved |
 | July 15 | [3136. Valid Word](https://leetcode.com/problems/valid-word/) | Easy | Solved |
 | July 16 | [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | Medium | Solved |
-| July 17 | []() |  |  |
+| July 17 | [3202. Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/) | Medium | Unsolved |
 | July 18 | []() |  |  |
 | July 19 | []() |  |  |
 | July 20 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
-| Medium | 6 | 6 | 0 |
+| Medium | 7 | 6 | 1 |
 | Hard   | 5 | 1 | 4 |
