@@ -21,7 +21,7 @@
 | July 15 | [3136. Valid Word](https://leetcode.com/problems/valid-word/) | Easy | Solved |
 | July 16 | [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | Medium | Solved |
 | July 17 | [3202. Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/) | Medium | Unsolved |
-| July 18 | []() |  |  |
+| July 18 | [2163. Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/) | Hard | Unsolved |
 | July 19 | []() |  |  |
 | July 20 | []() |  |  |
 | July 21 | []() |  |  |
@@ -42,4 +42,4 @@
 | ---    | --- | --- | --- |
 | Easy   | 5 | 5 | 0 |
 | Medium | 7 | 6 | 1 |
-| Hard   | 5 | 1 | 4 |
+| Hard   | 6 | 1 | 5 |
