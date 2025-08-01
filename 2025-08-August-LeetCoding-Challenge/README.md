@@ -4,7 +4,7 @@
 ## Questions
 | Day | Problem | Level | Status |
 | --- | --- | --- | --- |
-| August 01 | []() |  |  |
+| August 01 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | Solved |
 | August 02 | []() |  |  |
 | August 03 | []() |  |  |
 | August 04 | []() |  |  |
@@ -40,6 +40,6 @@
 ## Summary
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
-| Easy   | 0 | 0 | 0 |
+| Easy   | 1 | 1 | 0 |
 | Medium | 0 | 0 | 0 |
 | Hard   | 0 | 0 | 0 |
