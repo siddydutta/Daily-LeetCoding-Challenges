@@ -6,8 +6,8 @@
 | --- | --- | --- | --- |
 | August 01 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | Solved |
 | August 02 | [2561. Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/) | Hard | Solved |
-| August 03 | []() |  |  |
-| August 04 | []() |  |  |
+| August 03 | [2106. Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | Hard | Unsolved |
+| August 04 | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | Solved |
 | August 05 | []() |  |  |
 | August 06 | []() |  |  |
 | August 07 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 1 | 1 | 0 |
-| Medium | 0 | 0 | 0 |
-| Hard   | 1 | 1 | 0 |
+| Medium | 1 | 1 | 0 |
+| Hard   | 2 | 1 | 1 |
