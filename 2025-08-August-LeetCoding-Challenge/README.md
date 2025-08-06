@@ -9,7 +9,7 @@
 | August 03 | [2106. Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | Hard | Unsolved |
 | August 04 | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | Solved |
 | August 05 | [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | Easy | Solved |
-| August 06 | []() |  |  |
+| August 06 | [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/) | Medium | Unsolved |
 | August 07 | []() |  |  |
 | August 08 | []() |  |  |
 | August 09 | []() |  |  |
@@ -41,5 +41,5 @@
 | Level  | Problems | Solved | Unsolved |
 | ---    | --- | --- | --- |
 | Easy   | 2 | 2 | 0 |
-| Medium | 1 | 1 | 0 |
+| Medium | 2 | 1 | 1 |
 | Hard   | 2 | 1 | 1 |
